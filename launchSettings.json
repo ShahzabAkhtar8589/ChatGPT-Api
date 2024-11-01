@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "chatgpt_consumer_api": "StartDebugging",
+        "chatgpt-api": "StartDebugging"
+      }
+    }
+  }
+}

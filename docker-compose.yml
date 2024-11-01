@@ -1,0 +1,13 @@
+services:
+  chatgpt-api:
+    image: ${DOCKER_REGISTRY-}chatgptapi
+    build:
+      context: .
+      dockerfile: ChatGPT-Api/Dockerfile
+
+  chatgpt_consumer_api:
+    image: ${DOCKER_REGISTRY-}chatgptconsumerapi
+    build:
+      context: ChatGPT_Consumer_Api
+      dockerfile: Dockerfile
+
