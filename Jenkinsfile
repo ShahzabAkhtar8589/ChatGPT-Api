@@ -18,7 +18,7 @@ pipeline {
             steps {
                 script {
                     // Restores project dependencies
-                    bat 'dotnet restore'
+                    bat 'dotnet restore SampleCICD_SonarQube.sln' // Specify the solution or project file
                 }
             }
         }
@@ -27,7 +27,7 @@ pipeline {
             steps {
                 script {
                     // Builds the application in Release mode
-                    bat 'dotnet build --configuration Release'
+                    bat 'dotnet build SampleCICD_SonarQube.sln --configuration Release' // Specify the solution
                 }
             }
         }
@@ -36,7 +36,7 @@ pipeline {
             steps {
                 script {
                     // Runs tests in the project
-                    bat 'dotnet test --no-build --verbosity normal'
+                    bat 'dotnet test SampleCICD_SonarQube.sln --no-build --verbosity normal' // Specify the solution
                 }
             }
         }
@@ -45,7 +45,7 @@ pipeline {
             steps {
                 script {
                     // Publishes the application to the specified folder
-                    bat "dotnet publish --configuration Release --output ${PUBLISH_DIR}"
+                    bat "dotnet publish SampleCICD_SonarQube.sln --configuration Release --output ${PUBLISH_DIR}" // Specify the solution
                 }
             }
         }
