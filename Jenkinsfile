@@ -18,7 +18,7 @@ pipeline {
             steps {
                 script {
                     // Restores project dependencies
-                    bat 'dotnet restore SampleCICD_SonarQube.sln' // Specify the solution or project file
+                    bat 'dotnet restore ChatGPT-Api.sln' // Specify the solution or project file
                 }
             }
         }
@@ -27,7 +27,7 @@ pipeline {
             steps {
                 script {
                     // Builds the application in Release mode
-                    bat 'dotnet build SampleCICD_SonarQube.sln --configuration Release' // Specify the solution
+                    bat 'dotnet build ChatGPT-Api.sln --configuration Release' // Specify the solution
                 }
             }
         }
@@ -36,7 +36,7 @@ pipeline {
             steps {
                 script {
                     // Runs tests in the project
-                    bat 'dotnet test SampleCICD_SonarQube.sln --no-build --verbosity normal' // Specify the solution
+                    bat 'dotnet test ChatGPT-Api.sln --no-build --verbosity normal' // Specify the solution
                 }
             }
         }
@@ -45,7 +45,7 @@ pipeline {
             steps {
                 script {
                     // Publishes the application to the specified folder
-                    bat "dotnet publish SampleCICD_SonarQube.sln --configuration Release --output ${PUBLISH_DIR}" // Specify the solution
+                    bat "dotnet publish ChatGPT-Api.sln --configuration Release --output ${PUBLISH_DIR}" // Specify the solution
                 }
             }
         }
