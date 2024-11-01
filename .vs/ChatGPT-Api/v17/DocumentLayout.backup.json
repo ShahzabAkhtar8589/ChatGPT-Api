@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt_consumer_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|solutionrelative:chatgpt_consumer_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\dbcontext\\loggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\dbcontext\\loggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\chatgpt-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\chatgpt-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt_consumer_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|solutionrelative:chatgpt_consumer_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\chatgpt-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\chatgpt-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt_consumer_api\\services\\consumer\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A8DC48-850D-41FD-A88F-5004F37AD8AB}|ChatGPT_Consumer_Api\\ChatGPT_Consumer_Api.csproj|solutionrelative:chatgpt_consumer_api\\services\\consumer\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|c:\\users\\shahzab.akhtar\\desktop\\chatgpt-api - copy\\chatgpt-api\\middleware\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C4110E-31D7-4BE3-B317-62D87D8B7553}|ChatGPT-Api\\ChatGPT-Api.csproj|solutionrelative:chatgpt-api\\middleware\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\appsettings.Development.json",
+              "RelativeToolTip": "ChatGPT-Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T11:49:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T10:47:56.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatGPT-Api.csproj",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\ChatGPT-Api.csproj",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\ChatGPT-Api.csproj",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\ChatGPT-Api.csproj",
+              "RelativeToolTip": "ChatGPT-Api\\ChatGPT-Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T10:39:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatGPT-Api.http",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\ChatGPT-Api.http",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\ChatGPT-Api.http",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\ChatGPT-Api.http",
+              "RelativeToolTip": "ChatGPT-Api\\ChatGPT-Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-16T15:38:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingContext.cs",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\DBContext\\LoggingContext.cs",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\DBContext\\LoggingContext.cs",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\DBContext\\LoggingContext.cs",
+              "RelativeToolTip": "ChatGPT-Api\\DBContext\\LoggingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:48:20.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\Services\\Consumer\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "ChatGPT_Consumer_Api\\Services\\Consumer\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\Services\\Consumer\\ConsumerService.cs",
+              "RelativeToolTip": "ChatGPT_Consumer_Api\\Services\\Consumer\\ConsumerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:31:24.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatGPT_Consumer_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\appsettings.json",
+              "RelativeToolTip": "ChatGPT_Consumer_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T13:31:17.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChatGPT_Consumer_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT_Consumer_Api\\Program.cs",
+              "RelativeToolTip": "ChatGPT_Consumer_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:31:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\appsettings.json",
+              "RelativeToolTip": "ChatGPT-Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T13:30:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Dockerfile",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Dockerfile",
+              "RelativeToolTip": "ChatGPT-Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T10:47:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Middleware\\Authentication.cs",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\Middleware\\Authentication.cs",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Middleware\\Authentication.cs",
+              "RelativeToolTip": "ChatGPT-Api\\Middleware\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:30:16.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChatGPT-Api\\Program.cs",
+              "ToolTip": "C:\\Users\\shahzab.akhtar\\Desktop\\ChatGPT-Api - Copy\\ChatGPT-Api\\Program.cs",
+              "RelativeToolTip": "ChatGPT-Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:47:46.366Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1538,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

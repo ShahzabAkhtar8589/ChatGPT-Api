@@ -1,0 +1,1223 @@
+2024-08-06 12:52:12.300 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-06 12:52:12.378 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-06 12:52:12.381 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-06 12:52:12.383 +05:00 [INF] Hosting environment: Development
+2024-08-06 12:52:12.384 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-06 12:52:13.189 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-06 12:52:13.354 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 170.4433ms
+2024-08-06 12:52:13.388 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-06 12:52:13.388 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-06 12:52:13.408 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.2169ms
+2024-08-06 12:52:13.438 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.7306ms
+2024-08-06 12:52:13.574 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-06 12:52:13.620 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 46.4071ms
+2024-08-06 12:52:21.065 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-06 12:52:21.073 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 12:52:21.086 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-06 12:52:21.479 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-06 12:52:21.483 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 392.9382ms
+2024-08-06 12:52:21.485 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 12:52:21.487 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 421.6187ms
+2024-08-06 12:52:23.495 +05:00 [INF] Save Response : Urdu مریکہ,Translation Amreeka
+2024-08-06 12:52:24.567 +05:00 [INF] Save Response : Urdu خاندالی,Translation Khandali
+2024-08-06 12:52:25.307 +05:00 [INF] Save Response : Urdu زاربات,Translation Zarbāt
+2024-08-06 12:52:25.903 +05:00 [INF] Save Response : Urdu عمرزا,Translation Umarza
+2024-08-06 12:52:27.299 +05:00 [INF] Save Response : Urdu بوهیو,Translation Bohiyo
+2024-08-06 12:52:28.216 +05:00 [INF] Save Response : Urdu زوالعزت,Translation Zawal-e-Izzat
+2024-08-06 12:52:29.011 +05:00 [INF] Save Response : Urdu السی,Translation Alsi
+2024-08-06 12:52:30.264 +05:00 [INF] Save Response : Urdu تلوکومل,Translation Talukomal
+2024-08-06 12:52:31.221 +05:00 [INF] Save Response : Urdu حٴبیب,Translation Habeeb
+2024-08-06 12:52:32.389 +05:00 [INF] Save Response : Urdu ھرائی,Translation Harai
+2024-08-06 12:52:33.249 +05:00 [INF] Save Response : Urdu دُرفیشان,Translation Durfeshan
+2024-08-06 12:52:33.940 +05:00 [INF] Save Response : Urdu نينوں,Translation Ninoon
+2024-08-06 12:52:34.661 +05:00 [INF] Save Response : Urdu پیاوٰ,Translation Piyao
+2024-08-06 12:52:35.659 +05:00 [INF] Save Response : Urdu سیدپیرحسینی,Translation Syed Peer Hussaini
+2024-08-06 12:52:36.623 +05:00 [INF] Save Response : Urdu غضنفرزمان,Translation Ghazanfar Zaman
+2024-08-06 12:52:37.464 +05:00 [INF] Save Response : Urdu معموراحمد,Translation Mamoor Ahmed
+2024-08-06 12:52:38.526 +05:00 [INF] Save Response : Urdu ذولفراز,Translation Zulfraz
+2024-08-06 12:52:39.249 +05:00 [INF] Save Response : Urdu سمایو,Translation Samayo
+2024-08-06 12:52:40.018 +05:00 [INF] Save Response : Urdu وشوخان,Translation Wushokhan
+2024-08-06 12:52:40.757 +05:00 [INF] Save Response : Urdu ناقد,Translation Naqid
+2024-08-06 12:52:41.682 +05:00 [INF] Save Response : Urdu میدت,Translation Maidat
+2024-08-06 12:52:42.795 +05:00 [INF] Save Response : Urdu عاثیہ,Translation Aasiya
+2024-08-06 12:52:43.592 +05:00 [INF] Save Response : Urdu نیاس,Translation Niyas
+2024-08-06 12:52:44.437 +05:00 [INF] Save Response : Urdu شاجام,Translation Shajam
+2024-08-06 12:52:45.194 +05:00 [INF] Save Response : Urdu سليمي,Translation Saleemi
+2024-08-06 12:52:45.831 +05:00 [INF] Save Response : Urdu خانؤدہ,Translation Khanooda
+2024-08-06 12:52:46.565 +05:00 [INF] Save Response : Urdu شنیز,Translation Shaniz
+2024-08-06 12:52:47.501 +05:00 [INF] Save Response : Urdu باچاہلال,Translation Bacha Hilal
+2024-08-06 12:52:48.271 +05:00 [INF] Save Response : Urdu ملوقاں,Translation Maluqaan
+2024-08-06 12:52:48.872 +05:00 [INF] Save Response : Urdu زلدئجہ,Translation Zaldia
+2024-08-06 12:52:49.729 +05:00 [INF] Save Response : Urdu سیمرا,Translation Simra
+2024-08-06 12:52:50.397 +05:00 [INF] Save Response : Urdu حاتول,Translation Hatool
+2024-08-06 12:52:51.356 +05:00 [INF] Save Response : Urdu تریضہ,Translation Tareeza
+2024-08-06 12:52:52.139 +05:00 [INF] Save Response : Urdu آمریزہ,Translation Aamreeza
+2024-08-06 12:52:52.883 +05:00 [INF] Save Response : Urdu مرادخاتوں,Translation Murad Khatoon
+2024-08-06 12:52:53.815 +05:00 [INF] Save Response : Urdu اصحابن,Translation Ashaban
+2024-08-06 12:52:55.014 +05:00 [INF] Save Response : Urdu غٹئی,Translation Ghati
+2024-08-06 12:52:56.226 +05:00 [INF] Save Response : Urdu ریاضو,Translation Riyazu
+2024-08-06 12:52:57.184 +05:00 [INF] Save Response : Urdu احسل,Translation Ahsal
+2024-08-06 12:52:58.091 +05:00 [INF] Save Response : Urdu فریلہ,Translation Fareela
+2024-08-06 12:52:58.866 +05:00 [INF] Save Response : Urdu زقیدہ,Translation Zakeeda
+2024-08-06 12:52:59.866 +05:00 [INF] Save Response : Urdu مرجائن,Translation Marjaan
+2024-08-06 12:53:00.672 +05:00 [INF] Save Response : Urdu بلورو,Translation Baloro
+2024-08-06 12:53:01.405 +05:00 [INF] Save Response : Urdu جوري,Translation Jori
+2024-08-06 12:53:02.356 +05:00 [INF] Save Response : Urdu ٰصمدالرحمن,Translation Samad-ur-Rehman
+2024-08-06 12:53:02.998 +05:00 [INF] Save Response : Urdu شبرخان,Translation Shabarkhan
+2024-08-06 12:53:03.784 +05:00 [INF] Save Response : Urdu ِوٹھل,Translation Vithal
+2024-08-06 12:53:04.949 +05:00 [INF] Save Response : Urdu صیہ,Translation Siyah
+2024-08-06 12:53:05.850 +05:00 [INF] Save Response : Urdu مستغان,Translation Mustaghan
+2024-08-06 12:53:06.632 +05:00 [INF] Save Response : Urdu سرفرازالدين,Translation Sarfarazuddin
+2024-08-06 12:53:07.532 +05:00 [INF] Save Response : Urdu نومیری,Translation Nomiari
+2024-08-06 12:53:08.964 +05:00 [INF] Save Response : Urdu وڌيان,Translation Wadhyan
+2024-08-06 12:53:09.713 +05:00 [INF] Save Response : Urdu اسرارالنبی,Translation Asrar-ul-Nabi
+2024-08-06 12:53:10.568 +05:00 [INF] Save Response : Urdu ّبابر,Translation Babur
+2024-08-06 12:53:11.436 +05:00 [INF] Save Response : Urdu رٔیسہ,Translation Raisa
+2024-08-06 12:53:12.271 +05:00 [INF] Save Response : Urdu میمونے,Translation Maimoona
+2024-08-06 12:53:13.064 +05:00 [INF] Save Response : Urdu شاپیری,Translation Shapiri
+2024-08-06 12:53:13.826 +05:00 [INF] Save Response : Urdu سجینہ,Translation Sajeena
+2024-08-06 12:53:14.817 +05:00 [INF] Save Response : Urdu مظہرالنساء,Translation Mazhar-un-Nisa
+2024-08-06 12:53:15.541 +05:00 [INF] Save Response : Urdu پسنائی,Translation Pasnai
+2024-08-06 12:53:16.576 +05:00 [INF] Save Response : Urdu مهناز,Translation Mehnaz
+2024-08-06 12:53:17.136 +05:00 [INF] Save Response : Urdu زیدبیگم,Translation Zaid Begum
+2024-08-06 12:53:18.032 +05:00 [INF] Save Response : Urdu کابلئے,Translation Kablaiye
+2024-08-06 12:53:19.018 +05:00 [INF] Save Response : Urdu نحمت,Translation Nehmat
+2024-08-06 12:53:19.686 +05:00 [INF] Save Response : Urdu کینه,Translation Keena
+2024-08-06 12:53:21.072 +05:00 [INF] Save Response : Urdu لمبورمہ,Translation Lamburmah
+2024-08-06 12:53:21.610 +05:00 [INF] Save Response : Urdu ناظری,Translation Nazari
+2024-08-06 12:53:22.285 +05:00 [INF] Save Response : Urdu کیشورہ,Translation Keshwara
+2024-08-06 12:53:23.166 +05:00 [INF] Save Response : Urdu امناز,Translation Amnaaz
+2024-08-06 12:53:23.921 +05:00 [INF] Save Response : Urdu زرکاء,Translation Zarka
+2024-08-06 12:53:24.874 +05:00 [INF] Save Response : Urdu شمشادبيگم,Translation Shamshad Begum
+2024-08-06 12:53:25.712 +05:00 [INF] Save Response : Urdu گلشنبا,Translation Gulshanba
+2024-08-06 12:53:26.621 +05:00 [INF] Save Response : Urdu پختگئی,Translation Pakhtagai
+2024-08-06 12:53:27.466 +05:00 [INF] Save Response : Urdu نورالولیٰ,Translation Noor-ul-Wali
+2024-08-06 12:53:28.525 +05:00 [INF] Save Response : Urdu سمرتا,Translation Samarta
+2024-08-06 12:53:31.838 +05:00 [INF] Save Response : Urdu یقوته,Translation Yaqoota
+2024-08-06 12:53:32.690 +05:00 [INF] Save Response : Urdu آمبی,Translation Aambi
+2024-08-06 12:53:33.631 +05:00 [INF] Save Response : Urdu مناسو,Translation Manaso
+2024-08-06 12:53:34.378 +05:00 [INF] Save Response : Urdu مقسر,Translation Muqsar
+2024-08-06 12:53:35.601 +05:00 [INF] Save Response : Urdu اعجازامان,Translation Ejaz Aman
+2024-08-06 12:53:36.600 +05:00 [INF] Save Response : Urdu مارشیل,Translation Marsheel
+2024-08-06 12:53:37.574 +05:00 [INF] Save Response : Urdu کوثرکسانہ,Translation Kausar Kasana
+2024-08-06 12:53:38.315 +05:00 [INF] Save Response : Urdu سيجاں,Translation Sejaan
+2024-08-06 12:53:39.170 +05:00 [INF] Save Response : Urdu بشوی,Translation Bashoi
+2024-08-06 12:53:39.882 +05:00 [INF] Save Response : Urdu شامیداد,Translation Shameedad
+2024-08-06 12:53:41.251 +05:00 [INF] Save Response : Urdu عبدالالہٰی,Translation Abdul Ilahi
+2024-08-06 12:53:42.000 +05:00 [INF] Save Response : Urdu گوبدي,Translation Gubadi
+2024-08-06 12:53:42.648 +05:00 [INF] Save Response : Urdu چفڑدی,Translation Chafardi
+2024-08-06 12:53:43.471 +05:00 [INF] Save Response : Urdu عبدالهادي,Translation Abdul Hadi
+2024-08-06 12:53:44.447 +05:00 [INF] Save Response : Urdu اعجازنور,Translation Ijaz Noor
+2024-08-06 12:53:45.298 +05:00 [INF] Save Response : Urdu نمرٰی,Translation Namra
+2024-08-06 12:53:45.964 +05:00 [INF] Save Response : Urdu بکاخیلہ,Translation Baka Khelah
+2024-08-06 12:53:46.892 +05:00 [INF] Save Response : Urdu فوکیہ,Translation Fokiya
+2024-08-06 12:53:48.010 +05:00 [INF] Save Response : Urdu منتخاء,Translation Muntakhā
+2024-08-06 12:53:48.620 +05:00 [INF] Save Response : Urdu صبرجانه,Translation Sabarjana
+2024-08-06 12:53:49.319 +05:00 [INF] Save Response : Urdu هادیه,Translation Hadiya
+2024-08-06 12:53:50.209 +05:00 [INF] Save Response : Urdu پسریٰ,Translation Pasriya
+2024-08-06 12:53:50.853 +05:00 [INF] Save Response : Urdu صبیرہ,Translation Sabira
+2024-08-06 12:53:51.518 +05:00 [INF] Save Response : Urdu ناٹا,Translation Nata
+2024-08-06 12:53:52.639 +05:00 [INF] Save Response : Urdu مکسومہ,Translation Maksuma
+2024-08-06 12:53:53.531 +05:00 [INF] Save Response : Urdu شفیدی,Translation Shafidi
+2024-08-06 12:53:54.086 +05:00 [INF] Save Response : Urdu تخمینہ,Translation Takhmina
+2024-08-06 12:53:54.813 +05:00 [INF] Save Response : Urdu اسمی,Translation Asmi
+2024-08-06 12:53:55.637 +05:00 [INF] Save Response : Urdu امریشه,Translation Amreesha
+2024-08-06 12:53:58.684 +05:00 [INF] Save Response : Urdu نیشاوہ,Translation Nishawah
+2024-08-06 12:53:59.645 +05:00 [INF] Save Response : Urdu وصفیہ,Translation Wasfiya
+2024-08-06 12:54:00.500 +05:00 [INF] Save Response : Urdu پالنگینہ,Translation Palangeena
+2024-08-06 12:54:01.145 +05:00 [INF] Save Response : Urdu ستیری,Translation Steri
+2024-08-06 12:54:01.819 +05:00 [INF] Save Response : Urdu مافرین,Translation Mafrin
+2024-08-06 12:54:02.869 +05:00 [INF] Save Response : Urdu مظہران,Translation Mazharan
+2024-08-06 12:54:03.586 +05:00 [INF] Save Response : Urdu جيان,Translation Jian
+2024-08-06 12:54:04.328 +05:00 [INF] Save Response : Urdu لغلیہ,Translation Laghliya
+2024-08-06 12:54:05.059 +05:00 [INF] Save Response : Urdu کشوربیگم,Translation Kishwar Begum
+2024-08-06 12:54:05.884 +05:00 [INF] Save Response : Urdu شرمن,Translation Sherman
+2024-08-06 12:54:06.636 +05:00 [INF] Save Response : Urdu سريفان,Translation Sharifan
+2024-08-06 12:54:07.468 +05:00 [INF] Save Response : Urdu شیرنومہ,Translation Shernoma
+2024-08-06 12:54:08.326 +05:00 [INF] Save Response : Urdu پنجارش,Translation Panjarash
+2024-08-06 12:54:11.069 +05:00 [INF] Save Response : Urdu زولین,Translation Zolin
+2024-08-06 12:54:11.935 +05:00 [INF] Save Response : Urdu عصمه,Translation Asma
+2024-08-06 12:54:12.910 +05:00 [INF] Save Response : Urdu اخترمینہ,Translation Akhtar Meena
+2024-08-06 12:54:14.163 +05:00 [INF] Save Response : Urdu میکاج,Translation Mekaj
+2024-08-06 12:54:15.102 +05:00 [INF] Save Response : Urdu زربسہ,Translation Zarbasa
+2024-08-06 12:54:15.871 +05:00 [INF] Save Response : Urdu نیامتیں,Translation Niyamatain
+2024-08-06 12:54:17.108 +05:00 [INF] Save Response : Urdu منڌوري,Translation Mandhori
+2024-08-06 12:54:19.273 +05:00 [INF] Save Response : Urdu صغرٰا,Translation Sughra
+2024-08-06 12:54:20.230 +05:00 [INF] Save Response : Urdu زلمرو,Translation Zalmro
+2024-08-06 12:54:20.898 +05:00 [INF] Save Response : Urdu ختيجه,Translation Khadija
+2024-08-06 12:54:21.779 +05:00 [INF] Save Response : Urdu شاہری,Translation Shahri
+2024-08-06 12:54:22.616 +05:00 [INF] Save Response : Urdu صبوران,Translation Sabooran
+2024-08-06 12:54:23.376 +05:00 [INF] Save Response : Urdu مانجڑہ,Translation Manjhra
+2024-08-06 12:54:24.373 +05:00 [INF] Save Response : Urdu زريت,Translation Zaryat
+2024-08-06 12:54:25.308 +05:00 [INF] Save Response : Urdu ڦتل,Translation Phatal
+2024-08-06 12:54:26.160 +05:00 [INF] Save Response : Urdu زیبنساء,Translation Zebunnisa
+2024-08-06 12:54:26.972 +05:00 [INF] Save Response : Urdu ارجیده,Translation Arjida
+2024-08-06 12:54:27.917 +05:00 [INF] Save Response : Urdu ادیبا,Translation Adeeba
+2024-08-06 12:54:28.813 +05:00 [INF] Save Response : Urdu سعدت,Translation Saadat
+2024-08-06 12:54:29.452 +05:00 [INF] Save Response : Urdu ساحراں,Translation Saharan
+2024-08-06 12:54:32.167 +05:00 [INF] Save Response : Urdu وسمان,Translation Usman
+2024-08-06 12:54:33.190 +05:00 [INF] Save Response : Urdu ظالیحه,Translation Zalīha
+2024-08-06 12:54:33.874 +05:00 [INF] Save Response : Urdu لڈیہ,Translation Ladiya
+2024-08-06 12:54:34.644 +05:00 [INF] Save Response : Urdu پنجمینہ,Translation Panjamina
+2024-08-06 12:54:35.452 +05:00 [INF] Save Response : Urdu مرضمے,Translation Marzmay
+2024-08-06 12:54:36.526 +05:00 [INF] Save Response : Urdu ارظیم,Translation Arzeem
+2024-08-06 12:54:37.490 +05:00 [INF] Save Response : Urdu شعيبہ,Translation Shoaiba
+2024-08-06 12:54:38.475 +05:00 [INF] Save Response : Urdu توتیا,Translation Tutia
+2024-08-06 12:54:39.189 +05:00 [INF] Save Response : Urdu کبریائی,Translation Kubrai
+2024-08-06 12:54:39.879 +05:00 [INF] Save Response : Urdu کرتارو,Translation Kartaro
+2024-08-06 12:54:40.579 +05:00 [INF] Save Response : Urdu نسرو,Translation Nasro
+2024-08-06 12:54:41.373 +05:00 [INF] Save Response : Urdu کمازہ,Translation Kamazah
+2024-08-06 12:54:42.233 +05:00 [INF] Save Response : Urdu سقیدہ,Translation Saqeeda
+2024-08-06 13:36:37.740 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-06 13:36:37.796 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-06 13:36:37.799 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-06 13:36:37.801 +05:00 [INF] Hosting environment: Development
+2024-08-06 13:36:37.803 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-06 13:36:38.629 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-06 13:36:38.878 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 255.4814ms
+2024-08-06 13:36:38.927 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-06 13:36:38.927 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-06 13:36:38.940 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.5227ms
+2024-08-06 13:36:39.003 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 76.9074ms
+2024-08-06 13:36:39.064 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-06 13:36:39.145 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.4798ms
+2024-08-06 13:37:45.989 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-06 13:37:46.036 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-06 13:37:46.039 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-06 13:37:46.041 +05:00 [INF] Hosting environment: Development
+2024-08-06 13:37:46.043 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-06 13:37:46.600 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-06 13:37:46.869 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 274.5228ms
+2024-08-06 13:37:46.898 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-06 13:37:46.898 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-06 13:37:46.911 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 12.8882ms
+2024-08-06 13:37:46.964 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.498ms
+2024-08-06 13:37:47.036 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-06 13:37:47.127 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.2175ms
+2024-08-06 13:38:00.369 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-06 13:38:00.379 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 13:38:00.399 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-06 13:38:00.965 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-06 13:38:00.970 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 564.2646ms
+2024-08-06 13:38:00.971 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 13:38:00.973 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 604.1868ms
+2024-08-06 13:38:07.984 +05:00 [INF] Save Response : Urdu روفیضہ,Translation Rufaidah
+2024-08-06 13:38:09.977 +05:00 [INF] Save Response : Urdu شریب,Translation Shareeb
+2024-08-06 13:38:10.889 +05:00 [INF] Save Response : Urdu اختوم,Translation Akhtoom
+2024-08-06 13:38:11.581 +05:00 [INF] Save Response : Urdu رخشینہ,Translation Rakhshina
+2024-08-06 13:38:12.564 +05:00 [INF] Save Response : Urdu سیدلو,Translation Sayyidlu
+2024-08-06 13:38:13.836 +05:00 [INF] Save Response : Urdu فقیرجمالہ,Translation Faqir Jamala
+2024-08-06 13:38:14.493 +05:00 [INF] Save Response : Urdu ایڈلین,Translation Adeline
+2024-08-06 13:38:15.339 +05:00 [INF] Save Response : Urdu حامیو,Translation Hamiyo
+2024-08-06 13:38:16.026 +05:00 [INF] Save Response : Urdu دھوما,Translation Dhuma
+2024-08-06 13:38:17.213 +05:00 [INF] Save Response : Urdu صبيحا,Translation Sabiha
+2024-08-06 13:38:18.036 +05:00 [INF] Save Response : Urdu رفتیاز,Translation Raftiaz
+2024-08-06 13:38:18.829 +05:00 [INF] Save Response : Urdu زرتان,Translation Zartan
+2024-08-06 13:38:19.586 +05:00 [INF] Save Response : Urdu خورشد,Translation Khursheed
+2024-08-06 13:38:20.238 +05:00 [INF] Save Response : Urdu مینگاخہ,Translation Mingaha
+2024-08-06 13:38:21.605 +05:00 [INF] Save Response : Urdu نورالورہ,Translation Noor ul Wara
+2024-08-06 13:38:22.407 +05:00 [INF] Save Response : Urdu فصیحت,Translation Fasihaat
+2024-08-06 13:38:23.153 +05:00 [INF] Save Response : Urdu صدروی,Translation Sadruddin
+2024-08-06 13:38:23.815 +05:00 [INF] Save Response : Urdu بشينہ,Translation Bashina
+2024-08-06 13:38:24.431 +05:00 [INF] Save Response : Urdu مہابی,Translation Mahabi
+2024-08-06 13:38:25.278 +05:00 [INF] Save Response : Urdu اشرفو,Translation Ashrafu
+2024-08-06 13:38:25.981 +05:00 [INF] Save Response : Urdu معاریفہ,Translation Maarifa
+2024-08-06 13:38:26.566 +05:00 [INF] Save Response : Urdu جواہرات,Translation Jawaharat
+2024-08-06 13:38:27.235 +05:00 [INF] Save Response : Urdu ناظماں,Translation Nazman
+2024-08-06 13:38:28.022 +05:00 [INF] Save Response : Urdu تسرین,Translation Tasreen
+2024-08-06 13:38:28.691 +05:00 [INF] Save Response : Urdu غذرا,Translation Ghuzra
+2024-08-06 13:38:29.416 +05:00 [INF] Save Response : Urdu کاکسو,Translation Kakso
+2024-08-06 13:38:30.077 +05:00 [INF] Save Response : Urdu بصم,Translation Basm
+2024-08-06 13:38:30.884 +05:00 [INF] Save Response : Urdu بختانو,Translation Bakhtano
+2024-08-06 13:38:31.848 +05:00 [INF] Save Response : Urdu مبارکاں,Translation Mubarakan
+2024-08-06 13:38:32.433 +05:00 [INF] Save Response : Urdu حميداں,Translation Hamidan
+2024-08-06 13:38:33.232 +05:00 [INF] Save Response : Urdu قدرخیلہ,Translation Qadarkhela
+2024-08-06 13:38:34.107 +05:00 [INF] Save Response : Urdu امراھم,Translation Amrahm
+2024-08-06 13:38:34.767 +05:00 [INF] Save Response : Urdu تیذیب,Translation Tayzib
+2024-08-06 13:38:35.494 +05:00 [INF] Save Response : Urdu پتکہ,Translation Patka
+2024-08-06 13:38:36.468 +05:00 [INF] Save Response : Urdu کوندری,Translation Kunderi
+2024-08-06 13:38:37.368 +05:00 [INF] Save Response : Urdu اُُم,Translation Um
+2024-08-06 13:38:38.000 +05:00 [INF] Save Response : Urdu کشمير,Translation Kashmir
+2024-08-06 13:38:38.693 +05:00 [INF] Save Response : Urdu شمشادی,Translation Shamshadi
+2024-08-06 13:38:39.458 +05:00 [INF] Save Response : Urdu گلشاں,Translation Gulshan
+2024-08-06 13:38:40.185 +05:00 [INF] Save Response : Urdu نینگارہ,Translation Ningara
+2024-08-06 13:38:40.874 +05:00 [INF] Save Response : Urdu رقعيت,Translation Ruqayyat
+2024-08-06 13:38:41.453 +05:00 [INF] Save Response : Urdu شہلاناہید,Translation Shehla Naheed
+2024-08-06 13:38:42.102 +05:00 [INF] Save Response : Urdu نامدانہ,Translation Namdana
+2024-08-06 13:38:43.298 +05:00 [INF] Save Response : Urdu البہا,Translation Al Baha
+2024-08-06 13:38:44.266 +05:00 [INF] Save Response : Urdu ناواری,Translation Nawari
+2024-08-06 13:38:44.962 +05:00 [INF] Save Response : Urdu صدیقه,Translation Sadiqa
+2024-08-06 13:38:45.662 +05:00 [INF] Save Response : Urdu صبیخہ,Translation Sabiha
+2024-08-06 13:38:46.389 +05:00 [INF] Save Response : Urdu خیرجہ,Translation Kherjah
+2024-08-06 13:38:47.180 +05:00 [INF] Save Response : Urdu صالخاء,Translation Salikha
+2024-08-06 13:38:47.829 +05:00 [INF] Save Response : Urdu حتمینہ,Translation Hatimah
+2024-08-06 13:38:48.480 +05:00 [INF] Save Response : Urdu مخیدہ,Translation Mukhida
+2024-08-06 13:38:49.282 +05:00 [INF] Save Response : Urdu بسلیدہ,Translation Basleeda
+2024-08-06 13:38:50.080 +05:00 [INF] Save Response : Urdu گلبانو,Translation Gulbano
+2024-08-06 13:38:50.744 +05:00 [INF] Save Response : Urdu گنجاتوں,Translation Ganjaton
+2024-08-06 13:38:51.517 +05:00 [INF] Save Response : Urdu زرناز,Translation Zarnaz
+2024-08-06 13:38:52.483 +05:00 [INF] Save Response : Urdu دلزر,Translation Dilzar
+2024-08-06 13:38:53.179 +05:00 [INF] Save Response : Urdu شادباہ,Translation Shadbah
+2024-08-06 13:38:53.905 +05:00 [INF] Save Response : Urdu گورجان,Translation Gorjan
+2024-08-06 13:38:54.494 +05:00 [INF] Save Response : Urdu صغوران,Translation Saguran
+2024-08-06 13:38:55.543 +05:00 [INF] Save Response : Urdu مزران,Translation Mazran
+2024-08-06 13:38:56.109 +05:00 [INF] Save Response : Urdu گلواری,Translation Gulwari
+2024-08-06 13:38:56.765 +05:00 [INF] Save Response : Urdu غرثنئی,Translation Gharshnai
+2024-08-06 13:38:57.416 +05:00 [INF] Save Response : Urdu زارقیم,Translation Zarqeem
+2024-08-06 13:38:58.292 +05:00 [INF] Save Response : Urdu جیرانہ,Translation Jirana
+2024-08-06 13:38:59.088 +05:00 [INF] Save Response : Urdu ممیزہ,Translation Mumayizah
+2024-08-06 13:38:59.845 +05:00 [INF] Save Response : Urdu زليخہ,Translation Zulaikha
+2024-08-06 13:39:00.840 +05:00 [INF] Save Response : Urdu بشریٰٖ,Translation Bushra
+2024-08-06 13:39:01.535 +05:00 [INF] Save Response : Urdu آباغہ,Translation Abagha
+2024-08-06 13:39:02.459 +05:00 [INF] Save Response : Urdu نشفت,Translation Nashfat
+2024-08-06 13:39:03.238 +05:00 [INF] Save Response : Urdu تسیر,Translation Taseer
+2024-08-06 13:39:04.159 +05:00 [INF] Save Response : Urdu وکیلن,Translation Wakeelan
+2024-08-06 13:39:04.837 +05:00 [INF] Save Response : Urdu اقطارہ,Translation Aqtara
+2024-08-06 13:39:05.513 +05:00 [INF] Save Response : Urdu نطيراں,Translation Nateeran
+2024-08-06 13:39:06.387 +05:00 [INF] Save Response : Urdu عبرانہ,Translation Abrana
+2024-08-06 13:39:07.019 +05:00 [INF] Save Response : Urdu فرزانی,Translation Farzani
+2024-08-06 13:39:07.988 +05:00 [INF] Save Response : Urdu تلڇي,Translation Talchi
+2024-08-06 13:39:08.666 +05:00 [INF] Save Response : Urdu عسیہٰ,Translation Asiya
+2024-08-06 13:39:09.341 +05:00 [INF] Save Response : Urdu درنار,Translation Durnaar
+2024-08-06 13:39:09.997 +05:00 [INF] Save Response : Urdu فریدبیگم,Translation Fareed Begum
+2024-08-06 13:39:12.216 +05:00 [INF] Save Response : Urdu برفو,Translation Barfo
+2024-08-06 13:39:13.030 +05:00 [INF] Save Response : Urdu عیسیان,Translation Isiyan
+2024-08-06 13:39:13.675 +05:00 [INF] Save Response : Urdu جیئندی,Translation Jeendi
+2024-08-06 13:39:14.506 +05:00 [INF] Save Response : Urdu رحباں,Translation Rahban
+2024-08-06 13:39:15.409 +05:00 [INF] Save Response : Urdu پاپئی,Translation Papayi
+2024-08-06 13:39:16.032 +05:00 [INF] Save Response : Urdu نذیرں,Translation Naziran
+2024-08-06 13:39:17.612 +05:00 [INF] Save Response : Urdu شاؤرانہ,Translation Shaurana
+2024-08-06 13:39:18.231 +05:00 [INF] Save Response : Urdu خواژم,Translation Khvajam
+2024-08-06 13:39:20.028 +05:00 [INF] Save Response : Urdu صادرہ,Translation Sadira
+2024-08-06 13:39:20.679 +05:00 [INF] Save Response : Urdu نازکو,Translation Nazko
+2024-08-06 13:39:21.593 +05:00 [INF] Save Response : Urdu مسطر,Translation Mastar
+2024-08-06 13:39:22.309 +05:00 [INF] Save Response : Urdu مانان,Translation Manan
+2024-08-06 13:39:23.247 +05:00 [INF] Save Response : Urdu خیبرا,Translation Khybera
+2024-08-06 13:39:23.912 +05:00 [INF] Save Response : Urdu صدیقاّ,Translation Siddiqa
+2024-08-06 13:39:24.589 +05:00 [INF] Save Response : Urdu رویلاں,Translation Ruilan
+2024-08-06 13:39:25.235 +05:00 [INF] Save Response : Urdu گشپوری,Translation Gashpuri
+2024-08-06 13:39:26.131 +05:00 [INF] Save Response : Urdu مٽل,Translation Matal
+2024-08-06 13:39:26.846 +05:00 [INF] Save Response : Urdu غفرانیہ,Translation Ghufraniya
+2024-08-06 13:39:27.591 +05:00 [INF] Save Response : Urdu ساکریا,Translation Sakariya
+2024-08-06 13:39:28.642 +05:00 [INF] Save Response : Urdu خیرازا,Translation Kheraza
+2024-08-06 13:39:29.393 +05:00 [INF] Save Response : Urdu نئیرہ,Translation Naiyra
+2024-08-06 13:39:30.157 +05:00 [INF] Save Response : Urdu زرخیز,Translation Zarkhez
+2024-08-06 13:39:30.966 +05:00 [INF] Save Response : Urdu جبارخیلہ,Translation Jabbar Khelah
+2024-08-06 13:39:31.993 +05:00 [INF] Save Response : Urdu سرورطاہرہ,Translation Sarwar Tahira
+2024-08-06 13:39:32.721 +05:00 [INF] Save Response : Urdu روقیدہ,Translation Roqeeda
+2024-08-06 13:39:33.642 +05:00 [INF] Save Response : Urdu گلانئی,Translation Gulani
+2024-08-06 13:39:35.444 +05:00 [INF] Save Response : Urdu حکيمان,Translation Hakeeman
+2024-08-06 13:39:36.075 +05:00 [INF] Save Response : Urdu جابئی,Translation Jabai
+2024-08-06 13:39:36.746 +05:00 [INF] Save Response : Urdu زرسرہ,Translation Zarsarah
+2024-08-06 13:39:37.424 +05:00 [INF] Save Response : Urdu ذوجان,Translation Zaujan
+2024-08-06 13:39:38.188 +05:00 [INF] Save Response : Urdu حکمر,Translation Hikmar
+2024-08-06 13:39:38.848 +05:00 [INF] Save Response : Urdu پالاکہ,Translation Palaka
+2024-08-06 13:39:39.663 +05:00 [INF] Save Response : Urdu میردانہ,Translation Mirdana
+2024-08-06 13:39:40.293 +05:00 [INF] Save Response : Urdu رڪان,Translation Rakan
+2024-08-06 13:39:40.949 +05:00 [INF] Save Response : Urdu صبا٫,Translation Saba
+2024-08-06 13:39:42.008 +05:00 [INF] Save Response : Urdu سریادہ,Translation Saryada
+2024-08-06 13:39:42.687 +05:00 [INF] Save Response : Urdu دراتون,Translation Daraton
+2024-08-06 13:39:43.451 +05:00 [INF] Save Response : Urdu زارنومہ,Translation Zarnoma
+2024-08-06 13:39:44.142 +05:00 [INF] Save Response : Urdu تائمینہ,Translation Taimeena
+2024-08-06 13:39:44.805 +05:00 [INF] Save Response : Urdu فرہادبیگم,Translation Farhad Begum
+2024-08-06 13:39:45.533 +05:00 [INF] Save Response : Urdu نظیرن,Translation Naziran
+2024-08-06 13:39:46.319 +05:00 [INF] Save Response : Urdu منظرخیلہ,Translation Manzarkhela
+2024-08-06 13:39:48.391 +05:00 [INF] Save Response : Urdu رٖؤف,Translation Rauf
+2024-08-06 13:39:48.969 +05:00 [INF] Save Response : Urdu آرا٫,Translation Ara
+2024-08-06 13:39:49.730 +05:00 [INF] Save Response : Urdu سانمانی,Translation Sanmani
+2024-08-06 13:39:50.394 +05:00 [INF] Save Response : Urdu نصیران,Translation Nasiran
+2024-08-06 13:39:51.305 +05:00 [INF] Save Response : Urdu تاجریحان,Translation Taj Rehan
+2024-08-06 13:39:52.011 +05:00 [INF] Save Response : Urdu چپالے,Translation Chapalay
+2024-08-06 13:39:52.673 +05:00 [INF] Save Response : Urdu باچاسلطان,Translation Bacha Sultan
+2024-08-06 13:39:53.400 +05:00 [INF] Save Response : Urdu زلیخاخاتون,Translation Zulaikha Khatoon
+2024-08-06 13:39:54.018 +05:00 [INF] Save Response : Urdu دیندرا,Translation Deendra
+2024-08-06 13:39:54.707 +05:00 [INF] Save Response : Urdu فیروزبہا,Translation Feroz Baha
+2024-08-06 13:39:55.472 +05:00 [INF] Save Response : Urdu حادیه,Translation Hadiya
+2024-08-06 13:39:56.078 +05:00 [INF] Save Response : Urdu گلزادی,Translation Gulzadi
+2024-08-06 13:39:56.647 +05:00 [INF] Save Response : Urdu مشاطہ,Translation Mashata
+2024-08-06 13:39:57.296 +05:00 [INF] Save Response : Urdu بلیقس,Translation Balaqis
+2024-08-06 13:39:58.295 +05:00 [INF] Save Response : Urdu محفوظً,Translation Mahfooz
+2024-08-06 13:39:59.126 +05:00 [INF] Save Response : Urdu جانار,Translation Janar
+2024-08-06 13:39:59.830 +05:00 [INF] Save Response : Urdu سعيدن,Translation Saeedan
+2024-08-06 13:40:00.682 +05:00 [INF] Save Response : Urdu وجونتی,Translation Vajonti
+2024-08-06 13:40:01.367 +05:00 [INF] Save Response : Urdu تلوکی,Translation Taluki
+2024-08-06 13:40:02.135 +05:00 [INF] Save Response : Urdu بخشت,Translation Bakhshat
+2024-08-06 13:40:02.892 +05:00 [INF] Save Response : Urdu شہنازعظیم,Translation Shehnaz Azim
+2024-08-06 13:40:03.590 +05:00 [INF] Save Response : Urdu ڪنوربائي,Translation Kunwarbai
+2024-08-06 13:40:04.796 +05:00 [INF] Save Response : Urdu منتنفہ,Translation Muntanifa
+2024-08-06 13:40:05.606 +05:00 [INF] Save Response : Urdu قمرطلعت,Translation Qamar Talat
+2024-08-06 13:40:06.383 +05:00 [INF] Save Response : Urdu زمونہ,Translation Zamuna
+2024-08-06 13:40:07.453 +05:00 [INF] Save Response : Urdu یارمرو,Translation Yaar Maro
+2024-08-06 13:40:08.124 +05:00 [INF] Save Response : Urdu ذنود,Translation Zunood
+2024-08-06 13:40:09.295 +05:00 [INF] Save Response : Urdu روشنڑہ,Translation Roshana
+2024-08-06 13:40:09.967 +05:00 [INF] Save Response : Urdu الیزا,Translation Aliza
+2024-08-06 13:40:10.972 +05:00 [INF] Save Response : Urdu فیظن,Translation Faizan
+2024-08-06 13:40:11.639 +05:00 [INF] Save Response : Urdu چونپا,Translation Chunpa
+2024-08-06 13:40:12.301 +05:00 [INF] Save Response : Urdu شھَناز,Translation Shehnaz
+2024-08-06 13:40:12.925 +05:00 [INF] Save Response : Urdu سرحادہ,Translation Sarhada
+2024-08-06 13:40:13.577 +05:00 [INF] Save Response : Urdu صابراہ,Translation Sabrah
+2024-08-06 13:40:14.574 +05:00 [INF] Save Response : Urdu خیبرو,Translation Khybero
+2024-08-06 13:40:15.156 +05:00 [INF] Save Response : Urdu چونپی,Translation Chonpi
+2024-08-06 13:40:16.044 +05:00 [INF] Save Response : Urdu ماجوب,Translation Majub
+2024-08-06 13:40:16.737 +05:00 [INF] Save Response : Urdu افسربیگم,Translation Afser Begum
+2024-08-06 13:40:17.628 +05:00 [INF] Save Response : Urdu فرغیہ,Translation Fargiya
+2024-08-06 13:40:18.563 +05:00 [INF] Save Response : Urdu روسولاں,Translation Rusolan
+2024-08-06 13:40:19.451 +05:00 [INF] Save Response : Urdu ذریفہ,Translation Zarifa
+2024-08-06 13:40:20.303 +05:00 [INF] Save Response : Urdu محتاراں,Translation Mukhtaran
+2024-08-06 13:40:21.002 +05:00 [INF] Save Response : Urdu بصوالہ,Translation Baswala
+2024-08-06 13:40:22.557 +05:00 [INF] Save Response : Urdu خومارو,Translation Khumaro
+2024-08-06 13:40:23.469 +05:00 [INF] Save Response : Urdu جمیلان,Translation Jamilan
+2024-08-06 13:40:24.085 +05:00 [INF] Save Response : Urdu لتیشاء,Translation Latesha
+2024-08-06 13:40:24.937 +05:00 [INF] Save Response : Urdu نصیبئی,Translation Naseebei
+2024-08-06 13:40:25.691 +05:00 [INF] Save Response : Urdu بسخودارہ,Translation Baskhudara
+2024-08-06 13:40:26.518 +05:00 [INF] Save Response : Urdu نصاراں,Translation Nisaran
+2024-08-06 13:40:27.206 +05:00 [INF] Save Response : Urdu سیدبیگم,Translation Syed Begum
+2024-08-06 13:40:28.349 +05:00 [INF] Save Response : Urdu زوقی,Translation Zauqi
+2024-08-06 13:40:29.093 +05:00 [INF] Save Response : Urdu سروبان,Translation Saroban
+2024-08-06 13:40:29.807 +05:00 [INF] Save Response : Urdu مفیضیہ,Translation Mafiziyah
+2024-08-06 13:40:30.466 +05:00 [INF] Save Response : Urdu شهریبا,Translation Shehriba
+2024-08-06 13:40:31.120 +05:00 [INF] Save Response : Urdu چھمی,Translation Chhami
+2024-08-06 13:40:31.788 +05:00 [INF] Save Response : Urdu ذاکیہ,Translation Zakia
+2024-08-06 13:40:32.818 +05:00 [INF] Save Response : Urdu خوبانئ,Translation Khubani
+2024-08-06 13:40:33.617 +05:00 [INF] Save Response : Urdu گہاراں,Translation Gaharan
+2024-08-06 13:40:34.271 +05:00 [INF] Save Response : Urdu ثیمک,Translation Thaimak
+2024-08-06 13:40:34.978 +05:00 [INF] Save Response : Urdu ماجیدے,Translation Majide
+2024-08-06 13:40:35.781 +05:00 [INF] Save Response : Urdu انورخاتون,Translation Anwar Khatoon
+2024-08-06 13:40:36.429 +05:00 [INF] Save Response : Urdu زائب,Translation Zaib
+2024-08-06 13:40:37.419 +05:00 [INF] Save Response : Urdu پھکراج,Translation Phakraj
+2024-08-06 13:40:38.139 +05:00 [INF] Save Response : Urdu خوشنید,Translation Khushneed
+2024-08-06 13:40:38.791 +05:00 [INF] Save Response : Urdu رمضانن,Translation Ramzan
+2024-08-06 13:40:39.468 +05:00 [INF] Save Response : Urdu بلفونہ,Translation Balfona
+2024-08-06 13:40:40.128 +05:00 [INF] Save Response : Urdu فرحیما,Translation Farahima
+2024-08-06 13:40:41.134 +05:00 [INF] Save Response : Urdu صغورہ,Translation Saghura
+2024-08-06 13:40:41.836 +05:00 [INF] Save Response : Urdu نیررفیق,Translation Nayyar Rafiq
+2024-08-06 13:40:42.743 +05:00 [INF] Save Response : Urdu مارواری,Translation Marwari
+2024-08-06 13:40:43.451 +05:00 [INF] Save Response : Urdu عرضینہ,Translation Arzena
+2024-08-06 13:40:44.116 +05:00 [INF] Save Response : Urdu نبيعت,Translation Nabiat
+2024-08-06 13:40:44.795 +05:00 [INF] Save Response : Urdu ساحراماں,Translation Sahar Aman
+2024-08-06 13:40:45.540 +05:00 [INF] Save Response : Urdu ڪبرٰي,Translation Kubra
+2024-08-06 13:40:46.453 +05:00 [INF] Save Response : Urdu نشترو,Translation Nishtar
+2024-08-06 13:40:47.149 +05:00 [INF] Save Response : Urdu مہرسلطانہ,Translation Mehr Sultana
+2024-08-06 13:40:47.895 +05:00 [INF] Save Response : Urdu جهانزیبه,Translation Jahanzeb
+2024-08-06 13:40:48.595 +05:00 [INF] Save Response : Urdu شاینہ,Translation Shaeena
+2024-08-06 13:40:49.378 +05:00 [INF] Save Response : Urdu اکبرسلطان,Translation Akbar Sultan
+2024-08-06 13:40:50.035 +05:00 [INF] Save Response : Urdu ویروں,Translation Veeron
+2024-08-06 13:40:50.737 +05:00 [INF] Save Response : Urdu بادشازادی,Translation Badshazadi
+2024-08-06 13:40:51.447 +05:00 [INF] Save Response : Urdu خنف,Translation Khanf
+2024-08-06 13:40:52.196 +05:00 [INF] Save Response : Urdu گلادامہ,Translation Guladamah
+2024-08-06 13:40:52.819 +05:00 [INF] Save Response : Urdu خفیظاں,Translation Khafizan
+2024-08-06 13:40:53.691 +05:00 [INF] Save Response : Urdu فقیرذادگئی,Translation Faqirzadgai
+2024-08-06 13:40:54.377 +05:00 [INF] Save Response : Urdu سراسیا,Translation Sarasiyya
+2024-08-06 13:40:55.189 +05:00 [INF] Save Response : Urdu کلاچئی,Translation Kalachei
+2024-08-06 13:40:55.923 +05:00 [INF] Save Response : Urdu ذیان,Translation Ziyan
+2024-08-06 13:40:56.717 +05:00 [INF] Save Response : Urdu خيرت,Translation Khayrat
+2024-08-06 13:40:57.459 +05:00 [INF] Save Response : Urdu آشناک,Translation Ashnak
+2024-08-06 13:40:58.074 +05:00 [INF] Save Response : Urdu شادنہ,Translation Shadna
+2024-08-06 13:40:58.775 +05:00 [INF] Save Response : Urdu زبرنساء,Translation Zabarnisa
+2024-08-06 13:40:59.504 +05:00 [INF] Save Response : Urdu کفیلا,Translation Kafeela
+2024-08-06 13:41:00.186 +05:00 [INF] Save Response : Urdu عضلان,Translation Azlan
+2024-08-06 13:41:00.896 +05:00 [INF] Save Response : Urdu بدیہل,Translation Badiul
+2024-08-06 13:41:01.647 +05:00 [INF] Save Response : Urdu مارحومہ,Translation Marhooma
+2024-08-06 13:41:02.396 +05:00 [INF] Save Response : Urdu حبزہ,Translation Habza
+2024-08-06 13:41:03.066 +05:00 [INF] Save Response : Urdu فرختاج,Translation Farkhtaj
+2024-08-06 13:41:03.718 +05:00 [INF] Save Response : Urdu ویملا,Translation Vimla
+2024-08-06 13:41:04.363 +05:00 [INF] Save Response : Urdu مرہم,Translation Marham
+2024-08-06 13:41:05.618 +05:00 [INF] Save Response : Urdu باچاگرانہ,Translation Bachagarana
+2024-08-06 13:41:06.347 +05:00 [INF] Save Response : Urdu صحبوئی,Translation Sahboi
+2024-08-06 13:41:07.117 +05:00 [INF] Save Response : Urdu ثریااختر,Translation Suraya Akhtar
+2024-08-06 13:41:07.813 +05:00 [INF] Save Response : Urdu فریام,Translation Fariyam
+2024-08-06 13:41:08.537 +05:00 [INF] Save Response : Urdu مستازیمہ,Translation Mustazimah
+2024-08-06 13:41:09.278 +05:00 [INF] Save Response : Urdu گلفاس,Translation Gulfaz
+2024-08-06 13:41:09.900 +05:00 [INF] Save Response : Urdu انجمینہ,Translation Anjumeena
+2024-08-06 13:41:10.553 +05:00 [INF] Save Response : Urdu عرفیعہ,Translation Urfiya
+2024-08-06 13:41:11.301 +05:00 [INF] Save Response : Urdu ناجراں,Translation Najran
+2024-08-06 13:41:12.000 +05:00 [INF] Save Response : Urdu دلفرزہ,Translation Dalfarza
+2024-08-06 13:41:12.648 +05:00 [INF] Save Response : Urdu گمالی,Translation Gamali
+2024-08-06 13:41:13.321 +05:00 [INF] Save Response : Urdu نرپری,Translation Narpuri
+2024-08-06 13:41:14.068 +05:00 [INF] Save Response : Urdu بینفشا,Translation Binafsha
+2024-08-06 13:41:14.759 +05:00 [INF] Save Response : Urdu بنیری,Translation Baneri
+2024-08-06 13:41:15.498 +05:00 [INF] Save Response : Urdu رفیقاَ,Translation Rafiqa
+2024-08-06 13:41:16.153 +05:00 [INF] Save Response : Urdu روینہ,Translation Raveena
+2024-08-06 13:41:16.862 +05:00 [INF] Save Response : Urdu سفیربیگم,Translation Safeer Begum
+2024-08-06 13:41:17.572 +05:00 [INF] Save Response : Urdu زلفرو,Translation Zulfroo
+2024-08-06 13:41:18.343 +05:00 [INF] Save Response : Urdu شخاتوں,Translation Shakhaton
+2024-08-06 13:41:19.176 +05:00 [INF] Save Response : Urdu شاہنوانی,Translation Shahnawani
+2024-08-06 13:41:19.833 +05:00 [INF] Save Response : Urdu تہذینہ,Translation Tahzeena
+2024-08-06 13:41:20.475 +05:00 [INF] Save Response : Urdu بخروم,Translation Bakhrum
+2024-08-06 13:41:21.257 +05:00 [INF] Save Response : Urdu پرجی,Translation Parji
+2024-08-06 13:41:21.908 +05:00 [INF] Save Response : Urdu حنابانو,Translation Hana Bano
+2024-08-06 13:41:22.941 +05:00 [INF] Save Response : Urdu متھانی,Translation Muthani
+2024-08-06 13:41:23.682 +05:00 [INF] Save Response : Urdu رومزہ,Translation Rumza
+2024-08-06 13:41:24.569 +05:00 [INF] Save Response : Urdu اميرمحمدٻروسر,Translation Ameer Muhammad Buroser
+2024-08-06 13:41:25.210 +05:00 [INF] Save Response : Urdu صدرلدین,Translation Sadruddin
+2024-08-06 13:41:26.004 +05:00 [INF] Save Response : Urdu منتحٰہ,Translation Muntaha
+2024-08-06 13:41:26.790 +05:00 [INF] Save Response : Urdu پھوژ,Translation Phuj
+2024-08-06 13:41:29.806 +05:00 [INF] Save Response : Urdu گھڻبير,Translation Ghunbeer
+2024-08-06 13:41:30.986 +05:00 [INF] Save Response : Urdu ثمریزہ,Translation Samreeza
+2024-08-06 13:41:31.717 +05:00 [INF] Save Response : Urdu نارنس,Translation Narans
+2024-08-06 13:41:32.427 +05:00 [INF] Save Response : Urdu انجلي,Translation Anjali
+2024-08-06 13:41:32.964 +05:00 [INF] Save Response : Urdu مڙهائي,Translation Murhai
+2024-08-06 13:41:33.789 +05:00 [INF] Save Response : Urdu قمرالہدٰی,Translation Qamarul Huda
+2024-08-06 13:41:34.454 +05:00 [INF] Save Response : Urdu ڪَڪُو,Translation Kaku
+2024-08-06 13:41:35.152 +05:00 [INF] Save Response : Urdu ڏوڪي,Translation Doki
+2024-08-06 13:41:37.087 +05:00 [INF] Save Response : Urdu مثیم,Translation Matheem
+2024-08-06 13:41:37.788 +05:00 [INF] Save Response : Urdu ٔهاشم,Translation Hashim
+2024-08-06 13:41:38.670 +05:00 [INF] Save Response : Urdu بہارمل,Translation Baharmal
+2024-08-06 13:41:39.339 +05:00 [INF] Save Response : Urdu جائو,Translation Jao
+2024-08-06 13:41:40.149 +05:00 [INF] Save Response : Urdu فاروقِی,Translation Farooqi
+2024-08-06 13:41:40.812 +05:00 [INF] Save Response : Urdu امبيو,Translation Ambiyo
+2024-08-06 13:41:41.654 +05:00 [INF] Save Response : Urdu جنیدادریس,Translation Junaid Idrees
+2024-08-06 13:41:42.371 +05:00 [INF] Save Response : Urdu ھتيسنگھ,Translation Hateesingh
+2024-08-06 13:41:43.045 +05:00 [INF] Save Response : Urdu پھنو,Translation Phannu
+2024-08-06 13:41:43.720 +05:00 [INF] Save Response : Urdu سنادار,Translation Sanadar
+2024-08-06 13:41:45.403 +05:00 [INF] Save Response : Urdu محُسن,Translation Mohsin
+2024-08-06 13:41:46.054 +05:00 [INF] Save Response : Urdu واہیت,Translation Wahiyat
+2024-08-06 13:41:46.759 +05:00 [INF] Save Response : Urdu آمیڑو,Translation Aamiro
+2024-08-06 13:41:47.435 +05:00 [INF] Save Response : Urdu مينھَنو,Translation Meenhanu
+2024-08-06 13:41:48.098 +05:00 [INF] Save Response : Urdu مونديئير,Translation Mundiyar
+2024-08-06 13:41:48.847 +05:00 [INF] Save Response : Urdu ذوغن,Translation Zaughan
+2024-08-06 13:41:49.505 +05:00 [INF] Save Response : Urdu ميھارو,Translation Miharo
+2024-08-06 13:41:50.242 +05:00 [INF] Save Response : Urdu ٰرحمت,Translation Rehmat
+2024-08-06 13:41:50.912 +05:00 [INF] Save Response : Urdu لدّھا,Translation Luddha
+2024-08-06 13:41:51.631 +05:00 [INF] Save Response : Urdu ذوالفرح,Translation Zulfarah
+2024-08-06 13:41:52.370 +05:00 [INF] Save Response : Urdu جوساب,Translation Josab
+2024-08-06 13:41:52.998 +05:00 [INF] Save Response : Urdu شیگان,Translation Sheegan
+2024-08-06 13:41:54.034 +05:00 [INF] Save Response : Urdu رُومانہ,Translation Rumana
+2024-08-06 13:41:54.761 +05:00 [INF] Save Response : Urdu پرویزالرحمٰن,Translation Parvezurrahman
+2024-08-06 13:41:55.499 +05:00 [INF] Save Response : Urdu شفناز,Translation Shafnaz
+2024-08-06 13:41:56.155 +05:00 [INF] Save Response : Urdu تقدیم,Translation Taqdeem
+2024-08-06 13:41:56.885 +05:00 [INF] Save Response : Urdu دشدل,Translation Dushdil
+2024-08-06 13:41:57.645 +05:00 [INF] Save Response : Urdu کشویدہ,Translation Kashweeda
+2024-08-06 13:41:58.393 +05:00 [INF] Save Response : Urdu عمرگجڙيو,Translation Umar Gajjo
+2024-08-06 13:41:59.142 +05:00 [INF] Save Response : Urdu ذیمور,Translation Zaimur
+2024-08-06 13:41:59.860 +05:00 [INF] Save Response : Urdu عمرڪانھ,Translation Umarkanh
+2024-08-06 13:42:00.656 +05:00 [INF] Save Response : Urdu اصغرملڪاني,Translation Asghar Malkani
+2024-08-06 13:42:01.406 +05:00 [INF] Save Response : Urdu جرارڈ,Translation Jarrard
+2024-08-06 13:42:02.111 +05:00 [INF] Save Response : Urdu عابدہمایوں,Translation Abid Humayun
+2024-08-06 13:42:02.798 +05:00 [INF] Save Response : Urdu تذوین,Translation Tazvin
+2024-08-06 13:42:03.463 +05:00 [INF] Save Response : Urdu طاخا,Translation Taha
+2024-08-06 13:42:04.146 +05:00 [INF] Save Response : Urdu مرزاناصرمحمودبیگ,Translation Mirza Nasir Mahmood Baig
+2024-08-06 13:42:04.874 +05:00 [INF] Save Response : Urdu توذیم,Translation Tozeem
+2024-08-06 13:42:05.857 +05:00 [INF] Save Response : Urdu احمداسمعٰیل,Translation Ahmad Ismail
+2024-08-06 13:42:06.598 +05:00 [INF] Save Response : Urdu انبیلہ,Translation Anbila
+2024-08-06 13:42:07.524 +05:00 [INF] Save Response : Urdu اقصاد,Translation Aqsaad
+2024-08-06 13:42:08.183 +05:00 [INF] Save Response : Urdu نثارعباسي,Translation Nisar Abbasi
+2024-08-06 13:42:08.898 +05:00 [INF] Save Response : Urdu لاتی,Translation Lati
+2024-08-06 13:42:09.521 +05:00 [INF] Save Response : Urdu جونیزیا,Translation Jonezia
+2024-08-06 13:42:10.235 +05:00 [INF] Save Response : Urdu صاحبڏنومنگنھار,Translation Sahibdino Manghanhar
+2024-08-06 13:42:10.920 +05:00 [INF] Save Response : Urdu اولت,Translation Aulat
+2024-08-06 13:42:11.724 +05:00 [INF] Save Response : Urdu زرداس,Translation Zardas
+2024-08-06 13:42:12.627 +05:00 [INF] Save Response : Urdu فیبیان,Translation Fabian
+2024-08-06 13:42:13.401 +05:00 [INF] Save Response : Urdu کيندو,Translation Kainu
+2024-08-06 13:42:14.052 +05:00 [INF] Save Response : Urdu سنکھار,Translation Sankhar
+2024-08-06 13:42:14.865 +05:00 [INF] Save Response : Urdu نورزیت,Translation Noorzait
+2024-08-06 13:42:15.547 +05:00 [INF] Save Response : Urdu ونگرا,Translation Wungra
+2024-08-06 13:42:16.637 +05:00 [INF] Save Response : Urdu عبدالظفیر,Translation Abdul Zafeer
+2024-08-06 13:42:17.343 +05:00 [INF] Save Response : Urdu یاسرانصاری,Translation Yasar Ansari
+2024-08-06 13:42:18.132 +05:00 [INF] Save Response : Urdu داورد,Translation Dawood
+2024-08-06 13:42:19.051 +05:00 [INF] Save Response : Urdu اریدگل,Translation Areej Gul
+2024-08-06 13:42:20.131 +05:00 [INF] Save Response : Urdu قیلا,Translation Qila
+2024-08-06 13:42:20.879 +05:00 [INF] Save Response : Urdu سروزرین,Translation Saruzreen
+2024-08-06 13:42:21.776 +05:00 [INF] Save Response : Urdu آصِف,Translation Asif
+2024-08-06 13:42:22.519 +05:00 [INF] Save Response : Urdu سیدملی,Translation Syed Mali
+2024-08-06 13:42:23.285 +05:00 [INF] Save Response : Urdu وریشا,Translation Vareesha
+2024-08-06 13:42:24.117 +05:00 [INF] Save Response : Urdu توشیر,Translation Toshir
+2024-08-06 13:42:24.801 +05:00 [INF] Save Response : Urdu ویرسین,Translation Veer Singh
+2024-08-06 13:42:25.461 +05:00 [INF] Save Response : Urdu دنڈا,Translation Danda
+2024-08-06 13:42:26.497 +05:00 [INF] Save Response : Urdu رضاالرحٰمن,Translation Raza ur Rehman
+2024-08-06 13:42:27.124 +05:00 [INF] Save Response : Urdu امبرالطاف,Translation Ambar Altaf
+2024-08-06 13:42:27.866 +05:00 [INF] Save Response : Urdu ایوشارانیہ,Translation Ayusharaniya
+2024-08-06 13:42:28.540 +05:00 [INF] Save Response : Urdu شروزخان,Translation Shahroz Khan
+2024-08-06 13:42:29.175 +05:00 [INF] Save Response : Urdu ثّمینہ,Translation Samina
+2024-08-06 13:42:30.331 +05:00 [INF] Save Response : Urdu متقیل,Translation Mutaqil
+2024-08-06 13:42:31.141 +05:00 [INF] Save Response : Urdu معیش,Translation Maeesh
+2024-08-06 13:42:31.901 +05:00 [INF] Save Response : Urdu حواست,Translation Hawast
+2024-08-06 13:42:32.635 +05:00 [INF] Save Response : Urdu اصغراظہربھٹی,Translation Asghar Azhar Bhatti
+2024-08-06 13:42:33.308 +05:00 [INF] Save Response : Urdu چجھکوں,Translation Chajhkon
+2024-08-06 13:42:33.863 +05:00 [INF] Save Response : Urdu تاشبہ,Translation Tasbih
+2024-08-06 13:42:34.568 +05:00 [INF] Save Response : Urdu ابوقتادہ,Translation Abu Qatadah
+2024-08-06 13:42:35.510 +05:00 [INF] Save Response : Urdu البان,Translation Alban
+2024-08-06 13:42:36.379 +05:00 [INF] Save Response : Urdu جمزرین,Translation Jamzareen
+2024-08-06 13:42:36.948 +05:00 [INF] Save Response : Urdu کاٹور,Translation Kator
+2024-08-06 13:42:37.616 +05:00 [INF] Save Response : Urdu حضورو,Translation Huzoor
+2024-08-06 13:42:38.310 +05:00 [INF] Save Response : Urdu یاریا,Translation Yaria
+2024-08-06 13:42:40.298 +05:00 [INF] Save Response : Urdu شیراتراء,Translation Sheeratra
+2024-08-06 13:42:41.085 +05:00 [INF] Save Response : Urdu فہدیامین,Translation Fahd Yamin
+2024-08-06 13:42:41.766 +05:00 [INF] Save Response : Urdu نہیرامان,Translation Nehiraman
+2024-08-06 13:42:42.815 +05:00 [INF] Save Response : Urdu چيهنو,Translation Chehno
+2024-08-06 13:42:43.524 +05:00 [INF] Save Response : Urdu نپیا,Translation Napiya
+2024-08-06 13:42:44.167 +05:00 [INF] Save Response : Urdu میرپیاؤگل,Translation Mir Piao Gul
+2024-08-06 13:42:45.131 +05:00 [INF] Save Response : Urdu غجلوں,Translation Ghajlon
+2024-08-06 13:42:45.864 +05:00 [INF] Save Response : Urdu کعظم,Translation Kazam
+2024-08-06 13:42:46.408 +05:00 [INF] Save Response : Urdu حیزر,Translation Haider
+2024-08-06 13:42:46.994 +05:00 [INF] Save Response : Urdu رائومحمد,Translation Rao Muhammad
+2024-08-06 13:42:47.800 +05:00 [INF] Save Response : Urdu ڏنورند,Translation Dinoorand
+2024-08-06 13:42:48.522 +05:00 [INF] Save Response : Urdu هیمو,Translation Hemu
+2024-08-06 13:42:49.436 +05:00 [INF] Save Response : Urdu پنچرام,Translation Panchram
+2024-08-06 13:42:50.103 +05:00 [INF] Save Response : Urdu لاہب,Translation Laahib
+2024-08-06 13:42:50.849 +05:00 [INF] Save Response : Urdu راخموالدین,Translation Rakhmuddin
+2024-08-06 13:42:51.528 +05:00 [INF] Save Response : Urdu ساہڈ,Translation Saahd
+2024-08-06 13:42:52.437 +05:00 [INF] Save Response : Urdu احمدجہان,Translation Ahmed Jehan
+2024-08-06 13:42:53.137 +05:00 [INF] Save Response : Urdu اڪبرحسين,Translation Akbar Hussain
+2024-08-06 13:42:53.800 +05:00 [INF] Save Response : Urdu امیرعادل,Translation Ameer Adil
+2024-08-06 13:42:54.563 +05:00 [INF] Save Response : Urdu لچھمنی,Translation Lachhmani
+2024-08-06 13:42:55.321 +05:00 [INF] Save Response : Urdu مياںمشھودمحمد,Translation Mian Mashhood Muhammad
+2024-08-06 13:42:55.977 +05:00 [INF] Save Response : Urdu برنادڈ,Translation Bernard
+2024-08-06 13:42:56.688 +05:00 [INF] Save Response : Urdu نوازشاهد,Translation Nawaz Sharif
+2024-08-06 13:42:57.350 +05:00 [INF] Save Response : Urdu صامعہ,Translation Samia
+2024-08-06 13:42:57.947 +05:00 [INF] Save Response : Urdu ہمظو,Translation Hamzo
+2024-08-06 13:42:58.592 +05:00 [INF] Save Response : Urdu پانین,Translation Paneen
+2024-08-06 13:42:59.268 +05:00 [INF] Save Response : Urdu دعوہ,Translation Dawah
+2024-08-06 13:42:59.950 +05:00 [INF] Save Response : Urdu خزري,Translation Khazri
+2024-08-06 13:43:00.686 +05:00 [INF] Save Response : Urdu تیجیا,Translation Tejiya
+2024-08-06 13:43:01.429 +05:00 [INF] Save Response : Urdu عبدالغسفور,Translation Abdul Ghafoor
+2024-08-06 13:43:02.096 +05:00 [INF] Save Response : Urdu شکرور,Translation Shakarwar
+2024-08-06 13:43:02.815 +05:00 [INF] Save Response : Urdu پڑہیاڑ,Translation Parhiyar
+2024-08-06 13:43:03.549 +05:00 [INF] Save Response : Urdu پرھياڙڑ,Translation Parhiyarh
+2024-08-06 13:43:04.120 +05:00 [INF] Save Response : Urdu بعیدئے,Translation Baeedie
+2024-08-06 13:43:04.829 +05:00 [INF] Save Response : Urdu ععبدالفہیم,Translation Abdul Faheem
+2024-08-06 13:43:05.477 +05:00 [INF] Save Response : Urdu سلیُمان,Translation Suleman
+2024-08-06 13:43:06.186 +05:00 [INF] Save Response : Urdu کاچھیلہ,Translation Kachela
+2024-08-06 13:43:06.893 +05:00 [INF] Save Response : Urdu ملائبان,Translation Malaiban
+2024-08-06 13:43:07.579 +05:00 [INF] Save Response : Urdu ونہيل,Translation Waneel
+2024-08-06 13:43:08.238 +05:00 [INF] Save Response : Urdu عبدالسلا,Translation Abdul Salam
+2024-08-06 13:43:08.941 +05:00 [INF] Save Response : Urdu فامرہ,Translation Famara
+2024-08-06 13:43:09.691 +05:00 [INF] Save Response : Urdu مینہں,Translation Mehn
+2024-08-06 13:43:10.590 +05:00 [INF] Save Response : Urdu هيمراج,Translation Hemraj
+2024-08-06 13:43:11.178 +05:00 [INF] Save Response : Urdu گنھوںرام,Translation Ganhoram
+2024-08-06 13:43:11.905 +05:00 [INF] Save Response : Urdu سیدتنزیل,Translation Syed Tanzil
+2024-08-06 13:43:12.487 +05:00 [INF] Save Response : Urdu گردھر,Translation Girdhar
+2024-08-06 13:43:13.670 +05:00 [INF] Save Response : Urdu بندواڻي,Translation Bandwani
+2024-08-06 13:43:14.381 +05:00 [INF] Save Response : Urdu مجيدانو,Translation Majeedano
+2024-08-06 13:43:15.088 +05:00 [INF] Save Response : Urdu خج,Translation Khawaja
+2024-08-06 13:43:15.849 +05:00 [INF] Save Response : Urdu تتنا,Translation Tatna
+2024-08-06 13:43:16.815 +05:00 [INF] Save Response : Urdu وقارالقیوم,Translation Waqar Al Qayoom
+2024-08-06 13:43:17.491 +05:00 [INF] Save Response : Urdu زوڑیے,Translation Zauriye
+2024-08-06 13:43:18.150 +05:00 [INF] Save Response : Urdu سوپیاںمائی,Translation Sopyanmai
+2024-08-06 13:43:19.131 +05:00 [INF] Save Response : Urdu ممبیا,Translation Mumbai
+2024-08-06 13:43:19.936 +05:00 [INF] Save Response : Urdu ناھیرالله,Translation Naheeralah
+2024-08-06 13:43:20.650 +05:00 [INF] Save Response : Urdu زیوت,Translation Ziot
+2024-08-06 13:43:21.299 +05:00 [INF] Save Response : Urdu عمیرین,Translation Umayreen
+2024-08-06 13:43:21.831 +05:00 [INF] Save Response : Urdu پتھیں,Translation Pathein
+2024-08-06 13:43:22.814 +05:00 [INF] Save Response : Urdu پئاوء,Translation Pyao
+2024-08-06 13:43:23.557 +05:00 [INF] Save Response : Urdu زرآتون,Translation Zaratoon
+2024-08-06 13:43:24.379 +05:00 [INF] Save Response : Urdu دلفہ,Translation Dulfa
+2024-08-06 13:43:25.003 +05:00 [INF] Save Response : Urdu پوپڑی,Translation Popri
+2024-08-06 13:43:25.827 +05:00 [INF] Save Response : Urdu شہميرملاح,Translation Shahmir Mallah
+2024-08-06 13:43:26.445 +05:00 [INF] Save Response : Urdu روشنه,Translation Roshna
+2024-08-06 13:43:27.433 +05:00 [INF] Save Response : Urdu جمخانے,Translation Jumkhane
+2024-08-06 13:43:28.222 +05:00 [INF] Save Response : Urdu ظونیرہ,Translation Zunaira
+2024-08-06 13:43:29.237 +05:00 [INF] Save Response : Urdu موبیلہ,Translation Mobila
+2024-08-06 13:43:30.499 +05:00 [INF] Save Response : Urdu مصطفےسلہریا,Translation Mustafa Salheria
+2024-08-06 13:43:31.185 +05:00 [INF] Save Response : Urdu الحرمہ,Translation Al Haramah
+2024-08-06 13:43:31.904 +05:00 [INF] Save Response : Urdu ادوزے,Translation Adoze
+2024-08-06 13:43:32.536 +05:00 [INF] Save Response : Urdu حاسون,Translation Hasoon
+2024-08-06 13:43:33.362 +05:00 [INF] Save Response : Urdu چَنڱُل,Translation Changal
+2024-08-06 13:43:34.103 +05:00 [INF] Save Response : Urdu سیدہمایوںاقبال,Translation Syeda Humayun Iqbal
+2024-08-06 13:43:34.865 +05:00 [INF] Save Response : Urdu زربیبی,Translation Zarbibi
+2024-08-06 13:43:35.548 +05:00 [INF] Save Response : Urdu گبیروالدین,Translation Gabiruddin
+2024-08-06 13:43:36.202 +05:00 [INF] Save Response : Urdu بخشڪل,Translation Bakhshkal
+2024-08-06 13:43:36.846 +05:00 [INF] Save Response : Urdu آئڏان,Translation Aidan
+2024-08-06 13:43:37.509 +05:00 [INF] Save Response : Urdu بتاجہ,Translation Bataja
+2024-08-06 13:43:38.174 +05:00 [INF] Save Response : Urdu میرقندہ,Translation Meerqandah
+2024-08-06 13:43:38.940 +05:00 [INF] Save Response : Urdu ابوحریرا,Translation Abu Huraira
+2024-08-06 13:43:39.541 +05:00 [INF] Save Response : Urdu مرادنً,Translation Muradan
+2024-08-06 13:43:40.489 +05:00 [INF] Save Response : Urdu طنیفه,Translation Taneefa
+2024-08-06 13:43:41.197 +05:00 [INF] Save Response : Urdu منسیدخان,Translation Mansid Khan
+2024-08-06 13:43:41.921 +05:00 [INF] Save Response : Urdu عمارتگین,Translation Imaratgin
+2024-08-06 13:43:42.522 +05:00 [INF] Save Response : Urdu حیاںجان,Translation Hayaan Jaan
+2024-08-06 13:43:43.193 +05:00 [INF] Save Response : Urdu ننگریشه,Translation Nangresha
+2024-08-06 13:43:44.447 +05:00 [INF] Save Response : Urdu واڑنگ,Translation Warang
+2024-08-06 13:43:45.225 +05:00 [INF] Save Response : Urdu عنصرمالک,Translation Ansar Malik
+2024-08-06 13:43:45.971 +05:00 [INF] Save Response : Urdu خوبابہ,Translation Khubaaba
+2024-08-06 13:43:46.826 +05:00 [INF] Save Response : Urdu بالمان,Translation Balman
+2024-08-06 13:43:47.471 +05:00 [INF] Save Response : Urdu ناھدہ,Translation Nahida
+2024-08-06 13:43:48.152 +05:00 [INF] Save Response : Urdu هذ,Translation Haz
+2024-08-06 13:43:50.377 +05:00 [INF] Save Response : Urdu واثف,Translation Wasif
+2024-08-06 13:43:51.184 +05:00 [INF] Save Response : Urdu راکھائی,Translation Rakhai
+2024-08-06 13:43:52.068 +05:00 [INF] Save Response : Urdu جانسرین,Translation Jansereen
+2024-08-06 13:43:52.624 +05:00 [INF] Save Response : Urdu باوٴ,Translation Bao
+2024-08-06 13:43:53.341 +05:00 [INF] Save Response : Urdu پخینه,Translation Pakhina
+2024-08-06 13:43:54.037 +05:00 [INF] Save Response : Urdu شفیعان,Translation Shafian
+2024-08-06 13:43:54.699 +05:00 [INF] Save Response : Urdu شرتاں,Translation Shartan
+2024-08-06 13:43:55.411 +05:00 [INF] Save Response : Urdu ُمغل,Translation Mughal
+2024-08-06 13:43:56.084 +05:00 [INF] Save Response : Urdu العدوی,Translation Al Adawi
+2024-08-06 13:43:56.811 +05:00 [INF] Save Response : Urdu حمیرامجید,Translation Humeira Majeed
+2024-08-06 13:43:57.753 +05:00 [INF] Save Response : Urdu شادرام,Translation Shadram
+2024-08-06 13:43:58.439 +05:00 [INF] Save Response : Urdu نویج,Translation Naveej
+2024-08-06 13:43:59.217 +05:00 [INF] Save Response : Urdu سمیران,Translation Sameeran
+2024-08-06 13:43:59.941 +05:00 [INF] Save Response : Urdu وحیدالرّحمٰن,Translation Waheed ur Rahman
+2024-08-06 13:44:01.741 +05:00 [INF] Save Response : Urdu تاروز,Translation Taroz
+2024-08-06 13:44:02.360 +05:00 [INF] Save Response : Urdu چوٹھائی,Translation Chothai
+2024-08-06 13:44:03.003 +05:00 [INF] Save Response : Urdu ناتول,Translation Natol
+2024-08-06 13:44:03.677 +05:00 [INF] Save Response : Urdu شفیداحمد,Translation Shafid Ahmad
+2024-08-06 13:44:04.472 +05:00 [INF] Save Response : Urdu عنرعلی,Translation Anar Ali
+2024-08-06 13:44:10.363 +05:00 [INF] Save Response : Urdu سیدحمادحسین,Translation Syed Hammad Hussain
+2024-08-06 13:44:11.265 +05:00 [INF] Save Response : Urdu شہبازالحسن,Translation Shehbaz ul Hasan
+2024-08-06 13:44:12.068 +05:00 [INF] Save Response : Urdu گينڊو,Translation Gindo
+2024-08-06 13:44:12.803 +05:00 [INF] Save Response : Urdu شهامده,Translation Shahamdah
+2024-08-06 13:44:13.413 +05:00 [INF] Save Response : Urdu جاپور,Translation Jaipur
+2024-08-06 13:44:13.961 +05:00 [INF] Save Response : Urdu بہليم,Translation Bahleem
+2024-08-06 13:44:15.045 +05:00 [INF] Save Response : Urdu عرفرہ,Translation Irfrah
+2024-08-06 13:44:15.695 +05:00 [INF] Save Response : Urdu حالے,Translation Hale
+2024-08-06 13:44:16.392 +05:00 [INF] Save Response : Urdu شگتا,Translation Shagufta
+2024-08-06 13:44:17.172 +05:00 [INF] Save Response : Urdu وحمانی,Translation Wahmani
+2024-08-06 13:44:17.799 +05:00 [INF] Save Response : Urdu خصب,Translation Khasab
+2024-08-06 13:44:18.748 +05:00 [INF] Save Response : Urdu عنابہ,Translation Anaba
+2024-08-06 13:44:19.476 +05:00 [INF] Save Response : Urdu خضومہ,Translation Khuzooma
+2024-08-06 13:44:20.132 +05:00 [INF] Save Response : Urdu پنبھتہ,Translation Panbhata
+2024-08-06 13:44:20.843 +05:00 [INF] Save Response : Urdu زرمول,Translation Zarmool
+2024-08-06 13:44:21.563 +05:00 [INF] Save Response : Urdu ظاہین,Translation Zaheen
+2024-08-06 13:44:22.281 +05:00 [INF] Save Response : Urdu معدمل,Translation Muadamal
+2024-08-06 13:44:22.985 +05:00 [INF] Save Response : Urdu ریبقہ,Translation Rebqa
+2024-08-06 13:44:23.712 +05:00 [INF] Save Response : Urdu افضانہ,Translation Afzana
+2024-08-06 13:44:24.355 +05:00 [INF] Save Response : Urdu میروسیم,Translation Mirosim
+2024-08-06 13:44:25.070 +05:00 [INF] Save Response : Urdu نورنِشاں,Translation Noor Nishan
+2024-08-06 13:44:26.736 +05:00 [INF] Save Response : Urdu بشقیندہ,Translation Bashqeenda
+2024-08-06 13:44:27.510 +05:00 [INF] Save Response : Urdu ساوجہ,Translation Sawja
+2024-08-06 13:44:28.159 +05:00 [INF] Save Response : Urdu بئندہ,Translation Bainda
+2024-08-06 13:44:29.111 +05:00 [INF] Save Response : Urdu ولمي,Translation Walmi
+2024-08-06 13:44:29.835 +05:00 [INF] Save Response : Urdu شہمیربن,Translation Shahmeer Bin
+2024-08-06 13:44:30.549 +05:00 [INF] Save Response : Urdu ارفضاء,Translation Arfaza
+2024-08-06 13:44:31.610 +05:00 [INF] Save Response : Urdu مطمین,Translation Mutmain
+2024-08-06 13:44:32.184 +05:00 [INF] Save Response : Urdu زرخالد,Translation Zar Khalid
+2024-08-06 13:44:32.864 +05:00 [INF] Save Response : Urdu َظھير,Translation Zahir
+2024-08-06 13:44:33.698 +05:00 [INF] Save Response : Urdu سمندیار,Translation Samandiyar
+2024-08-06 13:44:34.348 +05:00 [INF] Save Response : Urdu مرفعت,Translation Marfat
+2024-08-06 13:44:34.951 +05:00 [INF] Save Response : Urdu ثوبیقہ,Translation Saubiqa
+2024-08-06 13:44:36.006 +05:00 [INF] Save Response : Urdu کيروملاح,Translation Kairumullah
+2024-08-06 13:44:37.633 +05:00 [INF] Save Response : Urdu مشاہب,Translation Mashaib
+2024-08-06 13:44:39.016 +05:00 [INF] Save Response : Urdu سهنا,Translation Sehna
+2024-08-06 13:44:39.977 +05:00 [INF] Save Response : Urdu جونتا,Translation Junta
+2024-08-06 13:44:41.192 +05:00 [INF] Save Response : Urdu پتوئی,Translation Patoei
+2024-08-06 13:44:42.893 +05:00 [INF] Save Response : Urdu خواہر,Translation Khawahar
+2024-08-06 13:44:43.501 +05:00 [INF] Save Response : Urdu ھيماں,Translation Himan
+2024-08-06 13:44:44.149 +05:00 [INF] Save Response : Urdu ياقوت,Translation Yaqut
+2024-08-06 13:44:44.824 +05:00 [INF] Save Response : Urdu پرنامل,Translation Purnamal
+2024-08-06 13:44:45.559 +05:00 [INF] Save Response : Urdu ذریق,Translation Zariq
+2024-08-06 13:44:48.193 +05:00 [INF] Save Response : Urdu کُنزلا,Translation Kunzala
+2024-08-06 13:44:48.949 +05:00 [INF] Save Response : Urdu جانسیت,Translation Jansit
+2024-08-06 13:44:49.618 +05:00 [INF] Save Response : Urdu فیضرو,Translation Faizroo
+2024-08-06 13:44:50.278 +05:00 [INF] Save Response : Urdu فرزامینہ,Translation Farzameena
+2024-08-06 13:44:50.939 +05:00 [INF] Save Response : Urdu شاھواں,Translation Shahwan
+2024-08-06 13:44:51.569 +05:00 [INF] Save Response : Urdu عطیس,Translation Atis
+2024-08-06 16:11:24.547 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-06 16:11:24.580 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-06 16:11:24.582 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-06 16:11:24.583 +05:00 [INF] Hosting environment: Development
+2024-08-06 16:11:24.584 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-06 16:11:25.549 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-06 16:11:25.824 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 281.4032ms
+2024-08-06 16:11:25.866 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-06 16:11:25.866 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-06 16:11:25.876 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 10.4465ms
+2024-08-06 16:11:25.923 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 58.0738ms
+2024-08-06 16:11:26.109 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-06 16:11:26.200 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.5144ms
+2024-08-06 16:11:39.111 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-06 16:11:39.122 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 16:11:39.142 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-06 16:11:39.671 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-06 16:11:39.677 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 526.3668ms
+2024-08-06 16:11:39.678 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-06 16:11:39.680 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 569.133ms
+2024-08-06 16:11:42.123 +05:00 [INF] Save Response : Urdu صومیا,Translation Soumia
+2024-08-06 16:11:42.919 +05:00 [INF] Save Response : Urdu ماتوب,Translation Matub
+2024-08-06 16:11:43.611 +05:00 [INF] Save Response : Urdu هره,Translation Hira
+2024-08-06 16:11:44.382 +05:00 [INF] Save Response : Urdu پچونڑہ,Translation Pachonra
+2024-08-06 16:11:45.076 +05:00 [INF] Save Response : Urdu سافورا,Translation Safura
+2024-08-06 16:11:45.773 +05:00 [INF] Save Response : Urdu قائمو,Translation Qaimo
+2024-08-06 16:11:48.015 +05:00 [INF] Save Response : Urdu سُہاگن,Translation Suhagan
+2024-08-06 16:11:48.785 +05:00 [INF] Save Response : Urdu علیسہ,Translation Alisa
+2024-08-06 16:11:49.393 +05:00 [INF] Save Response : Urdu شریناں,Translation Shireenan
+2024-08-06 16:11:50.138 +05:00 [INF] Save Response : Urdu نوشازہ,Translation Noshaza
+2024-08-06 16:11:50.836 +05:00 [INF] Save Response : Urdu خاروث,Translation Kharuth
+2024-08-06 16:11:51.467 +05:00 [INF] Save Response : Urdu نیازمالیک,Translation Niaz Malik
+2024-08-06 16:11:52.206 +05:00 [INF] Save Response : Urdu سامئی,Translation Samai
+2024-08-06 16:11:52.893 +05:00 [INF] Save Response : Urdu جاجران,Translation Jajran
+2024-08-06 16:11:53.676 +05:00 [INF] Save Response : Urdu ارشاده,Translation Arshadah
+2024-08-06 16:11:54.257 +05:00 [INF] Save Response : Urdu عنانہ,Translation Anana
+2024-08-06 16:11:54.972 +05:00 [INF] Save Response : Urdu خانسہرہ,Translation Khansarah
+2024-08-06 16:11:55.720 +05:00 [INF] Save Response : Urdu شہاروں,Translation Shaharon
+2024-08-06 16:11:56.410 +05:00 [INF] Save Response : Urdu رقیماں,Translation Raqiman
+2024-08-06 16:11:57.065 +05:00 [INF] Save Response : Urdu صانحین,Translation Sanahin
+2024-08-06 16:11:57.732 +05:00 [INF] Save Response : Urdu درخیلہ,Translation Darakhela
+2024-08-06 16:11:58.443 +05:00 [INF] Save Response : Urdu ميرڪان,Translation Mirkan
+2024-08-06 16:11:59.161 +05:00 [INF] Save Response : Urdu باچاہیزہ,Translation Bachahiza
+2024-08-06 16:11:59.835 +05:00 [INF] Save Response : Urdu مذراں,Translation Mazraan
+2024-08-06 16:12:00.872 +05:00 [INF] Save Response : Urdu حضورن,Translation Huzooran
+2024-08-06 16:12:01.625 +05:00 [INF] Save Response : Urdu شولنگی,Translation Sholangi
+2024-08-06 16:12:02.743 +05:00 [INF] Save Response : Urdu زربندہ,Translation Zarbanda
+2024-08-06 16:12:03.447 +05:00 [INF] Save Response : Urdu ناجیدہ,Translation Najida
+2024-08-06 16:12:04.202 +05:00 [INF] Save Response : Urdu ستوره,Translation Sitora
+2024-08-06 16:12:04.838 +05:00 [INF] Save Response : Urdu شاجاہ,Translation Shajah
+2024-08-06 16:12:05.478 +05:00 [INF] Save Response : Urdu سويرہ,Translation Sawera
+2024-08-06 16:12:06.201 +05:00 [INF] Save Response : Urdu شیزینہ,Translation Shizeena
+2024-08-06 16:12:06.920 +05:00 [INF] Save Response : Urdu سھجی,Translation Sahji
+2024-08-06 16:12:07.614 +05:00 [INF] Save Response : Urdu سیداغجان,Translation Syed Agha Jan
+2024-08-06 16:12:08.503 +05:00 [INF] Save Response : Urdu مسخینہ,Translation Muskhina
+2024-08-06 16:12:09.210 +05:00 [INF] Save Response : Urdu جنیدالدین,Translation Junaid ud Din
+2024-08-06 16:12:09.869 +05:00 [INF] Save Response : Urdu اعالم,Translation Aalam
+2024-08-06 16:12:10.613 +05:00 [INF] Save Response : Urdu واجدین,Translation Wajidin
+2024-08-06 16:12:11.223 +05:00 [INF] Save Response : Urdu روابت,Translation Rawabit
+2024-08-06 16:12:11.947 +05:00 [INF] Save Response : Urdu لکچھمی,Translation Laxmi
+2024-08-06 16:12:12.604 +05:00 [INF] Save Response : Urdu ٹھوں,Translation Thoon
+2024-08-06 16:12:13.279 +05:00 [INF] Save Response : Urdu احمدہشام,Translation Ahmad Hisham
+2024-08-06 16:12:14.026 +05:00 [INF] Save Response : Urdu لالیئی,Translation Lalayi
+2024-08-06 16:12:14.686 +05:00 [INF] Save Response : Urdu رھيلان,Translation Raheelan
+2024-08-06 16:12:15.411 +05:00 [INF] Save Response : Urdu نوشرائی,Translation Noshrai
+2024-08-06 16:12:16.101 +05:00 [INF] Save Response : Urdu مھیک,Translation Mahek
+2024-08-06 16:12:16.777 +05:00 [INF] Save Response : Urdu قادرڏني,Translation Qadardani
+2024-08-06 16:12:17.428 +05:00 [INF] Save Response : Urdu ابوڑان,Translation Aburan
+2024-08-06 16:12:18.146 +05:00 [INF] Save Response : Urdu ويربائي,Translation Veerbai
+2024-08-06 16:12:19.094 +05:00 [INF] Save Response : Urdu سائیندادمری,Translation Saindad Muri
+2024-08-06 16:12:19.944 +05:00 [INF] Save Response : Urdu زمہیلال,Translation Zamheelal
+2024-08-06 16:12:20.983 +05:00 [INF] Save Response : Urdu بشیرالٰہی,Translation Bashir Ilahi
+2024-08-06 16:12:22.482 +05:00 [INF] Save Response : Urdu ثرب,Translation Tharab
+2024-08-06 16:12:23.145 +05:00 [INF] Save Response : Urdu لُلبی,Translation Lulbi
+2024-08-06 16:12:24.137 +05:00 [INF] Save Response : Urdu ڀٿو,Translation Bhutto
+2024-08-06 16:12:24.783 +05:00 [INF] Save Response : Urdu خيتو,Translation Khetu
+2024-08-06 16:12:25.430 +05:00 [INF] Save Response : Urdu گوکلو,Translation Goklu
+2024-08-06 16:12:26.159 +05:00 [INF] Save Response : Urdu جنودہ,Translation Junaid
+2024-08-06 16:12:26.857 +05:00 [INF] Save Response : Urdu آبيو,Translation Abyo
+2024-08-06 16:12:27.622 +05:00 [INF] Save Response : Urdu امتازارو,Translation Umtazaroo
+2024-08-06 16:12:28.287 +05:00 [INF] Save Response : Urdu مہاجو,Translation Mahajo
+2024-08-06 16:12:28.981 +05:00 [INF] Save Response : Urdu باڈئی,Translation Badayi
+2024-08-06 16:12:29.636 +05:00 [INF] Save Response : Urdu طورانائی,Translation Toranai
+2024-08-06 16:12:32.113 +05:00 [INF] Save Response : Urdu سوبازہ,Translation Sobaza
+2024-08-06 16:12:32.771 +05:00 [INF] Save Response : Urdu سدابی,Translation Sadabi
+2024-08-06 16:12:33.623 +05:00 [INF] Save Response : Urdu سيديو,Translation Siddiqui
+2024-08-06 16:12:34.322 +05:00 [INF] Save Response : Urdu لکھماں,Translation Lakhman
+2024-08-06 16:12:35.036 +05:00 [INF] Save Response : Urdu یسردارہ,Translation Yesardarah
+2024-08-06 16:12:35.769 +05:00 [INF] Save Response : Urdu پھیرلی,Translation Pherli
+2024-08-06 16:12:36.480 +05:00 [INF] Save Response : Urdu ميمل,Translation Miml
+2024-08-06 16:12:37.149 +05:00 [INF] Save Response : Urdu پیرئ,Translation Piry
+2024-08-06 16:12:37.824 +05:00 [INF] Save Response : Urdu انضلا,Translation Anzala
+2024-08-06 16:12:38.589 +05:00 [INF] Save Response : Urdu باچاہیرن,Translation Bachahiran
+2024-08-06 16:12:39.305 +05:00 [INF] Save Response : Urdu ابراریہ,Translation Abrariya
+2024-08-06 16:12:39.979 +05:00 [INF] Save Response : Urdu نارَائن,Translation Narain
+2024-08-06 16:12:40.620 +05:00 [INF] Save Response : Urdu بھودرو,Translation Bhudro
+2024-08-06 16:12:41.337 +05:00 [INF] Save Response : Urdu سلیمٰان,Translation Sulaiman
+2024-08-06 16:12:42.051 +05:00 [INF] Save Response : Urdu ربيع,Translation Rabia
+2024-08-06 16:12:42.840 +05:00 [INF] Save Response : Urdu بسون,Translation Basoon
+2024-08-06 16:12:44.059 +05:00 [INF] Save Response : Urdu بالشتہ,Translation Balashta
+2024-08-06 16:12:44.834 +05:00 [INF] Save Response : Urdu وریجت,Translation Varijat
+2024-08-06 16:12:45.755 +05:00 [INF] Save Response : Urdu رغزادہ,Translation Raghzada
+2024-08-06 16:12:46.383 +05:00 [INF] Save Response : Urdu اپلونیہ,Translation Aplonia
+2024-08-06 16:12:47.114 +05:00 [INF] Save Response : Urdu افضیل,Translation Afzal
+2024-08-06 16:12:47.848 +05:00 [INF] Save Response : Urdu شنڈو,Translation Shindo
+2024-08-06 16:12:48.521 +05:00 [INF] Save Response : Urdu شیراوہ,Translation Sheerawa
+2024-08-06 16:12:49.142 +05:00 [INF] Save Response : Urdu مرکلام,Translation Markalam
+2024-08-06 16:12:50.260 +05:00 [INF] Save Response : Urdu انزولا,Translation Anzula
+2024-08-06 16:12:51.007 +05:00 [INF] Save Response : Urdu وکیلاںبیگم,Translation Vakeelan Begum
+2024-08-06 16:12:51.708 +05:00 [INF] Save Response : Urdu نہائیت,Translation Nahayat
+2024-08-06 16:12:52.394 +05:00 [INF] Save Response : Urdu سیدشہناز,Translation Syed Shehnaz
+2024-08-06 16:12:53.105 +05:00 [INF] Save Response : Urdu ازروبیگم,Translation Azro Begum
+2024-08-06 16:12:53.968 +05:00 [INF] Save Response : Urdu مجيدن,Translation Majeedan
+2024-08-06 16:12:54.687 +05:00 [INF] Save Response : Urdu کنیزبیوی,Translation Kaniz Bivi
+2024-08-06 16:12:55.364 +05:00 [INF] Save Response : Urdu جوزانہ,Translation Jozana
+2024-08-06 16:12:56.027 +05:00 [INF] Save Response : Urdu بکاں,Translation Bakan
+2024-08-06 16:12:56.591 +05:00 [INF] Save Response : Urdu چھٹلی,Translation Chhatli
+2024-08-06 16:12:57.251 +05:00 [INF] Save Response : Urdu شاریستان,Translation Sharistan
+2024-08-06 16:12:57.954 +05:00 [INF] Save Response : Urdu مابیئے,Translation Mabiye
+2024-08-06 16:12:58.969 +05:00 [INF] Save Response : Urdu کرساں,Translation Karsan
+2024-08-06 16:12:59.653 +05:00 [INF] Save Response : Urdu راسيت,Translation Rasit
+2024-08-06 16:13:00.350 +05:00 [INF] Save Response : Urdu نورمتہ,Translation Noormata
+2024-08-06 16:13:01.110 +05:00 [INF] Save Response : Urdu امرنوساء,Translation Amarnusa
+2024-08-06 16:13:01.904 +05:00 [INF] Save Response : Urdu ویتن,Translation Witan
+2024-08-06 16:13:02.715 +05:00 [INF] Save Response : Urdu دلدارو,Translation Dildaro
+2024-08-06 16:13:03.324 +05:00 [INF] Save Response : Urdu کنیزان,Translation Kanizan
+2024-08-06 16:13:04.149 +05:00 [INF] Save Response : Urdu ماولہ,Translation Mawla
+2024-08-06 16:13:05.279 +05:00 [INF] Save Response : Urdu وزیراختر,Translation Wazir Akhtar
+2024-08-06 16:13:05.952 +05:00 [INF] Save Response : Urdu خائز,Translation Khaiz
+2024-08-06 16:13:07.050 +05:00 [INF] Save Response : Urdu روپاں,Translation Rupan
+2024-08-06 16:13:07.756 +05:00 [INF] Save Response : Urdu زاھدھ,Translation Zahida
+2024-08-06 16:13:08.705 +05:00 [INF] Save Response : Urdu ملونک,Translation Maloonak
+2024-08-06 16:13:09.430 +05:00 [INF] Save Response : Urdu خدڻ,Translation Khudun
+2024-08-06 16:13:10.052 +05:00 [INF] Save Response : Urdu بختاراں,Translation Bakhtaran
+2024-08-06 16:13:10.987 +05:00 [INF] Save Response : Urdu عزیزعرف,Translation Aziz Urf
+2024-08-06 16:13:11.657 +05:00 [INF] Save Response : Urdu رفوجان,Translation Rafujan
+2024-08-06 16:13:12.500 +05:00 [INF] Save Response : Urdu زوبیری,Translation Zubairi
+2024-08-06 16:13:13.139 +05:00 [INF] Save Response : Urdu عاسماں,Translation Aasman
+2024-08-06 16:13:13.915 +05:00 [INF] Save Response : Urdu اوزونہ,Translation Ozona
+2024-08-06 16:13:14.652 +05:00 [INF] Save Response : Urdu شرمناز,Translation Sharmnaz
+2024-08-06 16:13:15.427 +05:00 [INF] Save Response : Urdu ولیچه,Translation Walicha
+2024-08-06 16:13:16.156 +05:00 [INF] Save Response : Urdu میئنا,Translation Myana
+2024-08-06 16:13:16.838 +05:00 [INF] Save Response : Urdu پوسيلا,Translation Pusila
+2024-08-06 16:13:17.484 +05:00 [INF] Save Response : Urdu نادربانو,Translation Naderbano
+2024-08-06 16:13:18.251 +05:00 [INF] Save Response : Urdu دانگئی,Translation Dangei
+2024-08-06 16:13:18.916 +05:00 [INF] Save Response : Urdu گلانا,Translation Gulana
+2024-08-06 16:13:19.864 +05:00 [INF] Save Response : Urdu شاراں,Translation Sharan
+2024-08-06 16:13:20.579 +05:00 [INF] Save Response : Urdu زیلورو,Translation Zailoro
+2024-08-06 16:13:21.281 +05:00 [INF] Save Response : Urdu یاثمین,Translation Yasmin
+2024-08-06 16:13:22.140 +05:00 [INF] Save Response : Urdu ڏائي,Translation Daai
+2024-08-06 16:13:22.786 +05:00 [INF] Save Response : Urdu ذھیل,Translation Dheel
+2024-08-06 16:13:23.530 +05:00 [INF] Save Response : Urdu شہنانسرین,Translation Shehnansareen
+2024-08-06 16:13:24.352 +05:00 [INF] Save Response : Urdu روفیدہ,Translation Rufaidah
+2024-08-06 16:13:25.104 +05:00 [INF] Save Response : Urdu فطکورنی,Translation Fatkurni
+2024-08-06 16:13:25.818 +05:00 [INF] Save Response : Urdu زارداں,Translation Zardan
+2024-08-06 16:13:26.543 +05:00 [INF] Save Response : Urdu مرجومہ,Translation Marjuma
+2024-08-06 16:13:27.206 +05:00 [INF] Save Response : Urdu مجران,Translation Mujran
+2024-08-06 16:13:27.966 +05:00 [INF] Save Response : Urdu میرافزون,Translation Mirafzoon
+2024-08-06 16:13:28.892 +05:00 [INF] Save Response : Urdu انجیلنہ,Translation Anjeelina
+2024-08-06 16:13:29.571 +05:00 [INF] Save Response : Urdu ملیاد,Translation Milyad
+2024-08-06 16:13:30.235 +05:00 [INF] Save Response : Urdu شیرلال,Translation Sherlal
+2024-08-06 16:13:30.930 +05:00 [INF] Save Response : Urdu نوشتو,Translation Nushto
+2024-08-06 16:13:31.537 +05:00 [INF] Save Response : Urdu آولیا,Translation Auliya
+2024-08-06 16:13:32.243 +05:00 [INF] Save Response : Urdu صیغرہ,Translation Sighra
+2024-08-06 16:13:33.057 +05:00 [INF] Save Response : Urdu نوربصرا,Translation Noor Basra
+2024-08-06 16:13:33.862 +05:00 [INF] Save Response : Urdu مخرزمینہ,Translation Makhrazmina
+2024-08-06 16:13:34.531 +05:00 [INF] Save Response : Urdu سحت,Translation Saht
+2024-08-06 16:13:35.292 +05:00 [INF] Save Response : Urdu مکمون,Translation Makmoon
+2024-08-06 16:13:35.917 +05:00 [INF] Save Response : Urdu حبساں,Translation Habsan
+2024-08-06 16:13:36.559 +05:00 [INF] Save Response : Urdu ماجھاں,Translation Majhan
+2024-08-06 16:13:37.316 +05:00 [INF] Save Response : Urdu رشتقائی,Translation Rishtaqai
+2024-08-06 16:13:37.893 +05:00 [INF] Save Response : Urdu نزه,Translation Nuzha
+2024-08-06 16:13:38.669 +05:00 [INF] Save Response : Urdu معفیہ,Translation Mafiya
+2024-08-06 16:13:39.307 +05:00 [INF] Save Response : Urdu طومینہ,Translation Tomeena
+2024-08-06 16:13:39.964 +05:00 [INF] Save Response : Urdu توفیقن,Translation Taufiqan
+2024-08-06 16:13:40.721 +05:00 [INF] Save Response : Urdu حفیضاں,Translation Hafizan
+2024-08-06 16:13:41.390 +05:00 [INF] Save Response : Urdu خیروالنساء,Translation Kherulnisa
+2024-08-06 16:13:41.994 +05:00 [INF] Save Response : Urdu حلو,Translation Haloo
+2024-08-06 16:13:42.704 +05:00 [INF] Save Response : Urdu موھِني,Translation Mohini
+2024-08-06 16:13:43.465 +05:00 [INF] Save Response : Urdu شُشيلا,Translation Shushila
+2024-08-06 16:13:44.084 +05:00 [INF] Save Response : Urdu زادل,Translation Zadal
+2024-08-06 16:13:44.707 +05:00 [INF] Save Response : Urdu شامیروزئی,Translation Shamirozai
+2024-08-06 16:13:45.354 +05:00 [INF] Save Response : Urdu آسماتہ,Translation Asmat
+2024-08-06 16:13:46.254 +05:00 [INF] Save Response : Urdu جيني,Translation Jini
+2024-08-06 16:13:47.011 +05:00 [INF] Save Response : Urdu زيبن,Translation Zainab
+2024-08-06 16:13:47.900 +05:00 [INF] Save Response : Urdu مروارد,Translation Marward
+2024-08-06 16:13:48.632 +05:00 [INF] Save Response : Urdu ٖخانم,Translation Khanum
+2024-08-06 16:13:49.265 +05:00 [INF] Save Response : Urdu پرؤ,Translation Paro
+2024-08-06 16:13:50.007 +05:00 [INF] Save Response : Urdu زہمت,Translation Zahmat
+2024-08-06 16:13:50.619 +05:00 [INF] Save Response : Urdu مُطہر,Translation Mutahir
+2024-08-06 16:13:51.270 +05:00 [INF] Save Response : Urdu شہروس,Translation Shehroz
+2024-08-06 16:13:51.946 +05:00 [INF] Save Response : Urdu لمعات,Translation Lamaat
+2024-08-06 16:13:52.610 +05:00 [INF] Save Response : Urdu تالیگے,Translation Talige
+2024-08-06 16:13:53.303 +05:00 [INF] Save Response : Urdu التمس,Translation Altamas
+2024-08-06 16:13:54.070 +05:00 [INF] Save Response : Urdu مہوڑ,Translation Mahoor
+2024-08-06 16:13:54.893 +05:00 [INF] Save Response : Urdu رائیونڈی,Translation Raiwandi
+2024-08-06 16:13:55.641 +05:00 [INF] Save Response : Urdu شہزید,Translation Shehzaid
+2024-08-06 16:13:56.238 +05:00 [INF] Save Response : Urdu فقیره,Translation Faqeera
+2024-08-06 16:13:56.920 +05:00 [INF] Save Response : Urdu میہثم,Translation Meesam
+2024-08-06 16:13:57.887 +05:00 [INF] Save Response : Urdu وحیدرحمن,Translation Waheed Rehman
+2024-08-06 16:13:58.815 +05:00 [INF] Save Response : Urdu التقویم,Translation Al Taqweem
+2024-08-06 16:13:59.536 +05:00 [INF] Save Response : Urdu الھدادپالاري,Translation Alhadad Palari
+2024-08-06 16:14:00.391 +05:00 [INF] Save Response : Urdu قنویر,Translation Qanweer
+2024-08-06 16:14:01.062 +05:00 [INF] Save Response : Urdu مہرزاکبر,Translation Meher Zakbar
+2024-08-06 16:14:01.769 +05:00 [INF] Save Response : Urdu عَبدُالرحمٰن,Translation Abdur Rahman
+2024-08-06 16:14:02.446 +05:00 [INF] Save Response : Urdu قدرائی,Translation Qadrai
+2024-08-06 16:14:03.317 +05:00 [INF] Save Response : Urdu ذباریہ,Translation Zubariya
+2024-08-06 16:14:04.007 +05:00 [INF] Save Response : Urdu اصوت,Translation Aswat
+2024-08-06 16:14:06.106 +05:00 [INF] Save Response : Urdu ذاکرجلیل,Translation Zakir Jaleel
+2024-08-06 16:14:06.873 +05:00 [INF] Save Response : Urdu عمیرالعابدین,Translation Umair al Abidin
+2024-08-06 16:14:07.805 +05:00 [INF] Save Response : Urdu مظہرالحسنینی,Translation Mazhar ul Hasanini
+2024-08-06 16:14:08.595 +05:00 [INF] Save Response : Urdu عمادمطلوب,Translation Imad Matlub
+2024-08-06 16:14:09.683 +05:00 [INF] Save Response : Urdu زبیرعطاری,Translation Zubair Attari
+2024-08-06 16:14:10.397 +05:00 [INF] Save Response : Urdu ذیادت,Translation Ziadat
+2024-08-06 16:14:11.072 +05:00 [INF] Save Response : Urdu عبدالغلیم,Translation Abdul Ghaleem
+2024-08-06 16:14:11.707 +05:00 [INF] Save Response : Urdu سینداد,Translation Seendad
+2024-08-06 16:14:13.385 +05:00 [INF] Save Response : Urdu ٹالیا,Translation Talia
+2024-08-06 16:14:14.077 +05:00 [INF] Save Response : Urdu عَبدالغفار,Translation Abdul Ghafar
+2024-08-06 16:14:14.864 +05:00 [INF] Save Response : Urdu ڀوجھو,Translation Bhojho
+2024-08-06 16:14:15.568 +05:00 [INF] Save Response : Urdu حمزور,Translation Hamzoor
+2024-08-06 16:14:16.293 +05:00 [INF] Save Response : Urdu جيرو,Translation Jero
+2024-08-06 16:14:17.107 +05:00 [INF] Save Response : Urdu حنابیگم,Translation Hana Begum
+2024-08-06 16:14:17.940 +05:00 [INF] Save Response : Urdu کارڈو,Translation Kardo
+2024-08-06 16:14:18.560 +05:00 [INF] Save Response : Urdu حيرو,Translation Hairo
+2024-08-06 16:14:19.229 +05:00 [INF] Save Response : Urdu سیلویا,Translation Silvia
+2024-08-06 16:14:20.392 +05:00 [INF] Save Response : Urdu جناباتی,Translation Janabati
+2024-08-06 16:14:21.250 +05:00 [INF] Save Response : Urdu لٰہی,Translation Lahi
+2024-08-06 16:14:22.138 +05:00 [INF] Save Response : Urdu شافروش,Translation Shafrosh
+2024-08-06 16:14:22.802 +05:00 [INF] Save Response : Urdu خيلو,Translation Khelo
+2024-08-06 16:14:23.435 +05:00 [INF] Save Response : Urdu سھاجو,Translation Suhajo
+2024-08-06 16:14:24.005 +05:00 [INF] Save Response : Urdu ُسفیان,Translation Sufyan
+2024-08-06 16:14:24.765 +05:00 [INF] Save Response : Urdu صامع,Translation Saami
+2024-08-06 16:14:25.345 +05:00 [INF] Save Response : Urdu زایدی,Translation Zaidi
+2024-08-06 16:14:26.089 +05:00 [INF] Save Response : Urdu الرضی,Translation Al Razi
+2024-08-06 16:14:26.740 +05:00 [INF] Save Response : Urdu مسنَ,Translation Musannad
+2024-08-06 16:14:27.451 +05:00 [INF] Save Response : Urdu فیریہ,Translation Fariya
+2024-08-06 16:14:28.114 +05:00 [INF] Save Response : Urdu چتارو,Translation Chitaro
+2024-08-06 16:14:28.737 +05:00 [INF] Save Response : Urdu جُمي,Translation Jumi
+2024-08-06 16:14:29.400 +05:00 [INF] Save Response : Urdu القمرالضیاء,Translation Al Qamar Al Ziya
+2024-08-06 16:14:30.040 +05:00 [INF] Save Response : Urdu سیدمیعصم,Translation Syed Miasam
+2024-08-06 16:14:30.707 +05:00 [INF] Save Response : Urdu بلازجمیل,Translation Blaz Jamil
+2024-08-06 16:14:31.395 +05:00 [INF] Save Response : Urdu رشیدعماری,Translation Rashid Amari
+2024-08-06 16:14:32.055 +05:00 [INF] Save Response : Urdu عبدروان,Translation Abdur Rawan
+2024-08-06 16:14:32.747 +05:00 [INF] Save Response : Urdu اسٹفن,Translation Stephan
+2024-08-06 16:14:33.306 +05:00 [INF] Save Response : Urdu عمُرا,Translation Umera
+2024-08-06 16:14:33.915 +05:00 [INF] Save Response : Urdu تمیزاّ,Translation Tamiza
+2024-08-06 16:14:34.567 +05:00 [INF] Save Response : Urdu تجریبہ,Translation Tajreeba
+2024-08-06 16:14:35.280 +05:00 [INF] Save Response : Urdu ٺھريو,Translation Thario
+2024-08-06 16:14:35.846 +05:00 [INF] Save Response : Urdu االماب,Translation Almaab
+2024-08-06 16:14:36.563 +05:00 [INF] Save Response : Urdu ذرينہ,Translation Zareena
+2024-08-06 16:14:37.352 +05:00 [INF] Save Response : Urdu هاتل,Translation Haatil
+2024-08-06 16:14:38.032 +05:00 [INF] Save Response : Urdu ڀانارام,Translation Bhanaram
+2024-08-06 16:14:38.731 +05:00 [INF] Save Response : Urdu شہنن,Translation Shahnan
+2024-08-06 16:14:39.427 +05:00 [INF] Save Response : Urdu چھتنہ,Translation Chhatnah
+2024-08-06 16:14:40.153 +05:00 [INF] Save Response : Urdu ویزیرہ,Translation Wazira
+2024-08-06 16:14:42.275 +05:00 [INF] Save Response : Urdu شیریو,Translation Sheryo
+2024-08-06 16:14:42.956 +05:00 [INF] Save Response : Urdu میجن,Translation Mijan
+2024-08-06 16:14:43.737 +05:00 [INF] Save Response : Urdu مخبودہ,Translation Makhbuda
+2024-08-06 16:14:44.418 +05:00 [INF] Save Response : Urdu میرغمئے,Translation Meer Ghamay
+2024-08-06 16:14:45.085 +05:00 [INF] Save Response : Urdu رزنفر,Translation Raznfar
+2024-08-06 16:14:45.676 +05:00 [INF] Save Response : Urdu زیباالنساء,Translation Zebanisa
+2024-08-06 16:14:46.364 +05:00 [INF] Save Response : Urdu ناذاتی,Translation Nazati
+2024-08-06 16:14:47.013 +05:00 [INF] Save Response : Urdu سرائیا,Translation Saraiya
+2024-08-06 16:14:47.706 +05:00 [INF] Save Response : Urdu قصد,Translation Qasd
+2024-08-06 16:14:48.392 +05:00 [INF] Save Response : Urdu خفت,Translation Khift
+2024-08-06 16:14:49.104 +05:00 [INF] Save Response : Urdu ہاني,Translation Hani
+2024-08-06 16:14:49.832 +05:00 [INF] Save Response : Urdu نیازگلونہ,Translation Niazgulona
+2024-08-06 16:14:50.596 +05:00 [INF] Save Response : Urdu جھاور,Translation Jhawar
+2024-08-06 16:14:51.740 +05:00 [INF] Save Response : Urdu ميٺان,Translation Mithan
+2024-08-06 16:14:52.434 +05:00 [INF] Save Response : Urdu ميلاڻو,Translation Milano
+2024-08-06 16:14:53.186 +05:00 [INF] Save Response : Urdu نظریم,Translation Nazreem
+2024-08-06 16:14:53.780 +05:00 [INF] Save Response : Urdu تیلورو,Translation Tiloro
+2024-08-06 16:14:54.570 +05:00 [INF] Save Response : Urdu عمله,Translation Amala
+2024-08-06 16:14:55.275 +05:00 [INF] Save Response : Urdu ذمیعہ,Translation Zamiya
+2024-08-06 16:14:56.049 +05:00 [INF] Save Response : Urdu یدشٹر,Translation Yudhishthir
+2024-08-06 16:14:56.746 +05:00 [INF] Save Response : Urdu تاليحہ,Translation Taliha
+2024-08-06 16:14:57.353 +05:00 [INF] Save Response : Urdu شہبز,Translation Shehbaz
+2024-08-06 16:14:58.101 +05:00 [INF] Save Response : Urdu حوريا,Translation Hooria
+2024-08-06 16:14:59.841 +05:00 [INF] Save Response : Urdu قضرت,Translation Qudrat
+2024-08-06 16:15:00.518 +05:00 [INF] Save Response : Urdu عبدالمکین,Translation Abdul Makin
+2024-08-06 16:15:01.238 +05:00 [INF] Save Response : Urdu سودیرہ,Translation Sudeira
+2024-08-06 16:15:01.954 +05:00 [INF] Save Response : Urdu نيڪان,Translation Nikan
+2024-08-06 16:15:02.958 +05:00 [INF] Save Response : Urdu دلیازہ,Translation Daliaza
+2024-08-06 16:15:03.694 +05:00 [INF] Save Response : Urdu شاڪرين,Translation Shakreen
+2024-08-06 16:15:04.497 +05:00 [INF] Save Response : Urdu سیدنجمہ,Translation Syeda Najma
+2024-08-06 16:15:05.142 +05:00 [INF] Save Response : Urdu زملی,Translation Zamli
+2024-08-06 16:15:06.069 +05:00 [INF] Save Response : Urdu کنپوش,Translation Kanposh
+2024-08-06 16:15:07.019 +05:00 [INF] Save Response : Urdu منیرافسر,Translation Munir Afser
+2024-08-06 16:15:07.765 +05:00 [INF] Save Response : Urdu موظلیفہ,Translation Muzlifa
+2024-08-06 16:15:08.458 +05:00 [INF] Save Response : Urdu حميداہ,Translation Hamida
+2024-08-06 16:15:09.182 +05:00 [INF] Save Response : Urdu سرداریاں,Translation Sardariyan
+2024-08-06 16:15:09.833 +05:00 [INF] Save Response : Urdu طغرہ,Translation Tughra
+2024-08-06 16:15:10.588 +05:00 [INF] Save Response : Urdu شریفاَ,Translation Sharifa
+2024-08-06 16:15:11.263 +05:00 [INF] Save Response : Urdu زرتک,Translation Zartak
+2024-08-06 16:15:11.988 +05:00 [INF] Save Response : Urdu سائقه,Translation Saiqah
+2024-08-06 16:15:12.686 +05:00 [INF] Save Response : Urdu مطروجانہ,Translation Matrujanah
+2024-08-06 16:15:13.364 +05:00 [INF] Save Response : Urdu چھتروخاں,Translation Chhatro Khan
+2024-08-06 16:15:14.042 +05:00 [INF] Save Response : Urdu خقیق,Translation Khafiq
+2024-08-06 16:15:14.735 +05:00 [INF] Save Response : Urdu پھاپھلو,Translation Phaphlo
+2024-08-06 16:15:15.483 +05:00 [INF] Save Response : Urdu چنداناز,Translation Chandanaaz
+2024-08-06 16:15:16.174 +05:00 [INF] Save Response : Urdu بلاتو,Translation Plato
+2024-08-06 16:15:16.867 +05:00 [INF] Save Response : Urdu دہمیانی,Translation Dahmiani
+2024-08-06 16:15:17.573 +05:00 [INF] Save Response : Urdu مودًا,Translation Mooda
+2024-08-06 16:15:18.297 +05:00 [INF] Save Response : Urdu شمأزہ,Translation Shamaza
+2024-08-06 16:15:18.989 +05:00 [INF] Save Response : Urdu ڀائتہ,Translation Bhaitha
+2024-08-06 16:15:19.697 +05:00 [INF] Save Response : Urdu جندوڈاہ,Translation Jandodah
+2024-08-06 16:15:20.399 +05:00 [INF] Save Response : Urdu اینارگلہ,Translation Ainargala
+2024-08-06 16:15:21.090 +05:00 [INF] Save Response : Urdu ارفیدہ,Translation Arfida
+2024-08-06 16:15:21.749 +05:00 [INF] Save Response : Urdu شاحیتن,Translation Shahitan
+2024-08-06 16:15:22.422 +05:00 [INF] Save Response : Urdu زارگلینہ,Translation Zargulena
+2024-08-06 16:15:23.211 +05:00 [INF] Save Response : Urdu شہتابی,Translation Shehtabi
+2024-08-06 16:15:23.990 +05:00 [INF] Save Response : Urdu میاںمُہری,Translation Mian Muhri
+2024-08-06 16:15:24.707 +05:00 [INF] Save Response : Urdu گھرامل,Translation Gharamal
+2024-08-06 16:15:25.423 +05:00 [INF] Save Response : Urdu عرشم,Translation Arsham
+2024-08-06 16:15:26.112 +05:00 [INF] Save Response : Urdu گحجنا,Translation Gahjna
+2024-08-06 16:15:26.869 +05:00 [INF] Save Response : Urdu حیمو,Translation Haimo
+2024-08-06 16:15:27.615 +05:00 [INF] Save Response : Urdu نویدشہزادی,Translation Naveed Shahzadi
+2024-08-06 16:15:28.378 +05:00 [INF] Save Response : Urdu زربشینہ,Translation Zarbashina
+2024-08-06 16:15:29.046 +05:00 [INF] Save Response : Urdu سیدشهزادسلطان,Translation Syed Shehzad Sultan
+2024-08-06 16:15:29.690 +05:00 [INF] Save Response : Urdu روخیاصہ,Translation Rukhiasa
+2024-08-06 16:15:30.327 +05:00 [INF] Save Response : Urdu ہوجانہ,Translation Hojana
+2024-08-06 16:15:30.951 +05:00 [INF] Save Response : Urdu محکومن,Translation Mahkooman
+2024-08-06 16:15:31.618 +05:00 [INF] Save Response : Urdu بابراشفاق,Translation Babar Ashfaq
+2024-08-06 16:15:32.277 +05:00 [INF] Save Response : Urdu بخرومند,Translation Bakhrumand
+2024-08-06 16:15:32.947 +05:00 [INF] Save Response : Urdu جواي,Translation Jawai
+2024-08-06 16:15:33.663 +05:00 [INF] Save Response : Urdu وحیدرانا,Translation Waheed Rana
+2024-08-06 16:15:34.272 +05:00 [INF] Save Response : Urdu عمانواءل,Translation Amanuail
+2024-08-06 16:15:35.381 +05:00 [INF] Save Response : Urdu قمیسےٰ,Translation Qameesa
+2024-08-06 16:15:36.058 +05:00 [INF] Save Response : Urdu گوہرالله,Translation Goharullah
+2024-08-06 16:15:36.683 +05:00 [INF] Save Response : Urdu وسیو,Translation Waseyo
+2024-08-06 16:15:37.334 +05:00 [INF] Save Response : Urdu زوغیر,Translation Zughair
+2024-08-06 16:15:38.215 +05:00 [INF] Save Response : Urdu فریداحمدنظامی,Translation Fareed Ahmed Nizami
+2024-08-06 16:15:38.940 +05:00 [INF] Save Response : Urdu عبدالراویل,Translation Abdul Ravil
+2024-08-06 16:15:39.648 +05:00 [INF] Save Response : Urdu مضیب,Translation Muzayb
+2024-08-06 16:15:40.715 +05:00 [INF] Save Response : Urdu پیرنائی,Translation Pirnai
+2024-08-06 16:15:41.375 +05:00 [INF] Save Response : Urdu بندؤ,Translation Bandu
+2024-08-06 16:15:42.032 +05:00 [INF] Save Response : Urdu سومیش,Translation Sumeish
+2024-08-06 16:15:42.720 +05:00 [INF] Save Response : Urdu ببوتیہ,Translation Babutiya
+2024-08-06 16:15:43.525 +05:00 [INF] Save Response : Urdu منورالرحمٰن,Translation Munawwar ur Rahman
+2024-08-06 16:15:44.371 +05:00 [INF] Save Response : Urdu مدثرولائت,Translation Mudasir Walaet
+2024-08-06 16:15:44.955 +05:00 [INF] Save Response : Urdu امرپرکاش,Translation Amarprakash
+2024-08-06 16:15:45.631 +05:00 [INF] Save Response : Urdu شہریارعباس,Translation Shehryar Abbas
+2024-08-06 16:15:46.219 +05:00 [INF] Save Response : Urdu شکھلی,Translation Shikhli
+2024-08-06 16:15:46.966 +05:00 [INF] Save Response : Urdu جنیدالرفیق,Translation Junaid al Rafiq
+2024-08-06 16:15:49.329 +05:00 [INF] Save Response : Urdu مانجھه,Translation Manjh
+2024-08-06 16:15:50.038 +05:00 [INF] Save Response : Urdu میانورگل,Translation Mianur Gul
+2024-08-06 16:15:50.750 +05:00 [INF] Save Response : Urdu قلام,Translation Qalam
+2024-08-06 16:15:51.369 +05:00 [INF] Save Response : Urdu گلاوردین,Translation Gulawardeen
+2024-08-06 16:15:52.082 +05:00 [INF] Save Response : Urdu تاشیم,Translation Tashem
+2024-08-06 16:15:53.052 +05:00 [INF] Save Response : Urdu مورزمین,Translation Moorzamin
+2024-08-06 16:15:53.703 +05:00 [INF] Save Response : Urdu وراسیہ,Translation Warasiya
+2024-08-06 16:15:54.403 +05:00 [INF] Save Response : Urdu شہراللہ,Translation Shehrullah
+2024-08-06 16:15:55.137 +05:00 [INF] Save Response : Urdu ھستاغ,Translation Hastagh
+2024-08-06 16:15:55.841 +05:00 [INF] Save Response : Urdu نورادالله,Translation Nooradullah
+2024-08-06 16:15:56.608 +05:00 [INF] Save Response : Urdu دوستال,Translation Dostal
+2024-08-06 16:15:57.297 +05:00 [INF] Save Response : Urdu ضرمت,Translation Zarmat
+2024-08-06 16:15:57.997 +05:00 [INF] Save Response : Urdu خاتین,Translation Khatin
+2024-08-06 16:15:58.734 +05:00 [INF] Save Response : Urdu روخیازہ,Translation Rokhiaza
+2024-08-06 16:15:59.379 +05:00 [INF] Save Response : Urdu زردولی,Translation Zardoli
+2024-08-06 16:16:00.539 +05:00 [INF] Save Response : Urdu القممر,Translation Alqamar
+2024-08-06 16:16:01.136 +05:00 [INF] Save Response : Urdu زارمالی,Translation Zarmali
+2024-08-06 16:16:01.781 +05:00 [INF] Save Response : Urdu بپّی,Translation Bappi
+2024-08-06 16:16:02.466 +05:00 [INF] Save Response : Urdu ڈیسمنڈ,Translation Desmond
+2024-08-06 16:16:03.189 +05:00 [INF] Save Response : Urdu بخترالدین,Translation Bakht al Din
+2024-08-06 16:16:03.863 +05:00 [INF] Save Response : Urdu بُھورا,Translation Bhoora
+2024-08-06 16:16:04.779 +05:00 [INF] Save Response : Urdu ایگو,Translation Ego
+2024-08-06 16:16:05.582 +05:00 [INF] Save Response : Urdu داؤداصغر,Translation Daud Asghar
+2024-08-06 16:16:06.251 +05:00 [INF] Save Response : Urdu نورسدےجان,Translation Nawras Dejan
+2024-08-06 16:16:06.919 +05:00 [INF] Save Response : Urdu گوہرحسن,Translation Gohar Hasan
+2024-08-06 16:16:07.762 +05:00 [INF] Save Response : Urdu میاںاسجد,Translation Mian Asjad
+2024-08-06 16:16:08.406 +05:00 [INF] Save Response : Urdu فیڈریک,Translation Frederick
+2024-08-06 16:16:09.125 +05:00 [INF] Save Response : Urdu نصیرالشان,Translation Naseer ul Shan
+2024-08-06 16:16:09.857 +05:00 [INF] Save Response : Urdu مرزاراحیل,Translation Mirza Raheel
+2024-08-06 16:16:10.644 +05:00 [INF] Save Response : Urdu یاورسعید,Translation Yawar Saeed
+2024-08-06 16:16:11.320 +05:00 [INF] Save Response : Urdu خلفو,Translation Khalfu
+2024-08-06 16:16:12.026 +05:00 [INF] Save Response : Urdu عمیراعبدالستار,Translation Ameera Abdulsattar
+2024-08-06 16:16:12.750 +05:00 [INF] Save Response : Urdu ذاخد,Translation Zakhad
+2024-08-06 16:16:13.560 +05:00 [INF] Save Response : Urdu نذرالرحمنٰ,Translation Nazr ur Rahman
+2024-08-06 16:16:14.299 +05:00 [INF] Save Response : Urdu احمدباجواہ,Translation Ahmed Bajwah
+2024-08-06 16:16:15.030 +05:00 [INF] Save Response : Urdu کشورسعیدہ,Translation Kishwar Saeeda
+2024-08-06 16:16:15.649 +05:00 [INF] Save Response : Urdu رٹھوال,Translation Rathwal
+2024-08-06 16:16:16.387 +05:00 [INF] Save Response : Urdu لنھن,Translation Lanhan
+2024-08-06 16:16:17.041 +05:00 [INF] Save Response : Urdu نیفور,Translation Nifor
+2024-08-06 16:16:17.616 +05:00 [INF] Save Response : Urdu اُرومه,Translation Uromeh
+2024-08-06 16:16:18.293 +05:00 [INF] Save Response : Urdu اعورہ,Translation Aawrah
+2024-08-06 16:16:18.956 +05:00 [INF] Save Response : Urdu ارجنیا,Translation Arjuniya
+2024-08-06 16:16:19.591 +05:00 [INF] Save Response : Urdu رائےاقدس,Translation Raye Aqdas
+2024-08-06 16:16:20.280 +05:00 [INF] Save Response : Urdu رائينڌڻ,Translation Raindhan
+2024-08-06 16:16:20.932 +05:00 [INF] Save Response : Urdu الاذلان,Translation Al Azlan
+2024-08-06 16:16:21.858 +05:00 [INF] Save Response : Urdu سلامبرخان,Translation Salam Barkhan
+2024-08-06 16:16:22.710 +05:00 [INF] Save Response : Urdu شبيرميراڻي,Translation Shabbir Mirani
+2024-08-06 16:16:23.419 +05:00 [INF] Save Response : Urdu سیدمعازالدین,Translation Syed Muazuddin
+2024-08-06 16:16:24.250 +05:00 [INF] Save Response : Urdu سنگھلیا,Translation Sanghaliya
+2024-08-06 16:16:25.094 +05:00 [INF] Save Response : Urdu سیاڻو,Translation Siyano
+2024-08-06 16:16:25.784 +05:00 [INF] Save Response : Urdu داتر,Translation Datar
+2024-08-06 16:16:26.571 +05:00 [INF] Save Response : Urdu عبدالفریاد,Translation Abdul Faryad
+2024-08-06 16:16:27.297 +05:00 [INF] Save Response : Urdu نافعی,Translation Nafii
+2024-08-06 16:16:28.032 +05:00 [INF] Save Response : Urdu ظہورلون,Translation Zahoor Lon
+2024-08-06 16:16:28.766 +05:00 [INF] Save Response : Urdu ناویه,Translation Nawiya
+2024-08-06 16:16:29.411 +05:00 [INF] Save Response : Urdu نائيدان,Translation Naidan
+2024-08-06 16:16:30.071 +05:00 [INF] Save Response : Urdu ہملاجی,Translation Hamlaji
+2024-08-06 16:16:30.768 +05:00 [INF] Save Response : Urdu نورسالے,Translation Noorsale
+2024-08-06 16:16:31.439 +05:00 [INF] Save Response : Urdu بلوروم,Translation Balorum
+2024-08-06 16:16:32.192 +05:00 [INF] Save Response : Urdu کمریز,Translation Kamreez
+2024-08-06 16:16:32.981 +05:00 [INF] Save Response : Urdu الہدالدین,Translation Alhaaduddin
+2024-08-06 16:16:33.644 +05:00 [INF] Save Response : Urdu حیدار,Translation Haider
+2024-08-06 16:16:34.426 +05:00 [INF] Save Response : Urdu زرواحدخان,Translation Zarwahid Khan
+2024-08-06 16:16:35.654 +05:00 [INF] Save Response : Urdu منگليڌو,Translation Manglitho
+2024-08-06 16:16:36.618 +05:00 [INF] Save Response : Urdu امرشنگ,Translation Amarshang
+2024-08-06 16:16:37.336 +05:00 [INF] Save Response : Urdu پرديف,Translation Pardeef
+2024-08-06 16:16:38.047 +05:00 [INF] Save Response : Urdu کیسیٰ,Translation Kaisa
+2024-08-06 16:16:38.923 +05:00 [INF] Save Response : Urdu بینرجی,Translation Banerjee
+2024-08-06 16:16:39.583 +05:00 [INF] Save Response : Urdu عامرابو,Translation Amirabu
+2024-08-06 16:16:40.300 +05:00 [INF] Save Response : Urdu ِسُمیر,Translation Sumair
+2024-08-06 16:16:41.041 +05:00 [INF] Save Response : Urdu مصلف,Translation Musallaf
+2024-08-06 16:16:41.802 +05:00 [INF] Save Response : Urdu ابرارانجم,Translation Abrar Anjum
+2024-08-06 16:16:42.655 +05:00 [INF] Save Response : Urdu آجرآمان,Translation Ajaraman
+2024-08-06 16:16:43.417 +05:00 [INF] Save Response : Urdu شہبازعباسی,Translation Shehbaz Abbasi
+2024-08-06 16:16:44.198 +05:00 [INF] Save Response : Urdu اشونی,Translation Ashwini
+2024-08-06 16:16:44.866 +05:00 [INF] Save Response : Urdu شائله,Translation Shaaila
+2024-08-06 16:16:45.605 +05:00 [INF] Save Response : Urdu یاسرکمال,Translation Yasir Kamal
+2024-08-06 16:16:46.234 +05:00 [INF] Save Response : Urdu افتِخار,Translation Iftikhar
+2024-08-06 16:16:46.988 +05:00 [INF] Save Response : Urdu عمردرانی,Translation Umar Durrani
+2024-08-06 16:16:47.717 +05:00 [INF] Save Response : Urdu ظاہرسید,Translation Zahir Syed
+2024-08-06 16:16:48.404 +05:00 [INF] Save Response : Urdu نوازباچا,Translation Nawazbacha
+2024-08-06 16:16:49.217 +05:00 [INF] Save Response : Urdu کاجانی,Translation Kajani
+2024-08-06 16:16:49.985 +05:00 [INF] Save Response : Urdu اجمیل,Translation Ajmeel
+2024-08-06 16:16:50.626 +05:00 [INF] Save Response : Urdu سمیرشاہ,Translation Sameer Shah
+2024-08-06 16:16:51.323 +05:00 [INF] Save Response : Urdu سیدخالدبدر,Translation Syed Khalid Badar
+2024-08-06 16:16:52.104 +05:00 [INF] Save Response : Urdu مساعدہ,Translation Musaidah
+2024-08-06 16:16:52.894 +05:00 [INF] Save Response : Urdu ایھاب,Translation Eihab
+2024-08-06 16:16:53.571 +05:00 [INF] Save Response : Urdu شعلان,Translation Shaalan
+2024-08-06 16:16:54.498 +05:00 [INF] Save Response : Urdu شہریارطاہر,Translation Shehryar Tahir
+2024-08-06 16:16:55.299 +05:00 [INF] Save Response : Urdu مستبشر,Translation Mustabsher
+2024-08-06 16:16:55.894 +05:00 [INF] Save Response : Urdu سعدیٰ,Translation Saadia
+2024-08-06 16:16:56.484 +05:00 [INF] Save Response : Urdu اصدف,Translation Asadaf
+2024-08-06 16:16:57.146 +05:00 [INF] Save Response : Urdu حامداسلام,Translation Hamed Islam
+2024-08-06 16:16:57.792 +05:00 [INF] Save Response : Urdu کیزیا,Translation Kezia
+2024-08-06 16:16:58.606 +05:00 [INF] Save Response : Urdu طحهٰ,Translation Taha
+2024-08-06 16:16:59.351 +05:00 [INF] Save Response : Urdu عمیرعمران,Translation Umair Imran
+2024-08-06 16:17:00.134 +05:00 [INF] Save Response : Urdu تیمورندیم,Translation Taimoor Nadeem
+2024-08-06 16:17:00.825 +05:00 [INF] Save Response : Urdu تسوید,Translation Tasweed
+2024-08-06 16:17:01.704 +05:00 [INF] Save Response : Urdu خسرون,Translation Khusron
+2024-08-06 16:17:02.467 +05:00 [INF] Save Response : Urdu سردارریحان,Translation Sardar Rehan
+2024-08-06 16:17:03.084 +05:00 [INF] Save Response : Urdu شقوفہ,Translation Shaqufa
+2024-08-06 16:17:03.774 +05:00 [INF] Save Response : Urdu نتائشہ,Translation Natasha
+2024-08-06 16:17:04.422 +05:00 [INF] Save Response : Urdu سردارہشام,Translation Sardar Hisham
+2024-08-06 16:17:05.235 +05:00 [INF] Save Response : Urdu جاویداصغرخاں,Translation Javed Asghar Khan
+2024-08-06 16:17:06.697 +05:00 [INF] Save Response : Urdu آیئون,Translation Aion
+2024-08-06 16:17:07.621 +05:00 [INF] Save Response : Urdu جدّی,Translation Jaddi
+2024-08-06 16:17:08.293 +05:00 [INF] Save Response : Urdu ڈاکٹرسجاد,Translation Dr. Sajjad
+2024-08-06 16:17:08.989 +05:00 [INF] Save Response : Urdu وضحٰی,Translation Wazha
+2024-08-06 16:17:09.724 +05:00 [INF] Save Response : Urdu دفتانی,Translation Daftani
+2024-08-06 16:17:10.437 +05:00 [INF] Save Response : Urdu سھيم,Translation Saheem
+2024-08-06 16:17:12.481 +05:00 [INF] Save Response : Urdu مساد,Translation Musaad
+2024-08-06 16:17:13.356 +05:00 [INF] Save Response : Urdu گلبن,Translation Gulban
+2024-08-06 16:17:14.908 +05:00 [INF] Save Response : Urdu عامرستار,Translation Amir Sattar
+2024-08-06 16:17:15.604 +05:00 [INF] Save Response : Urdu عابدمیران,Translation Abid Miran
+2024-08-06 16:17:16.292 +05:00 [INF] Save Response : Urdu مبشرطارق,Translation Mubashir Tariq
+2024-08-06 16:17:17.000 +05:00 [INF] Save Response : Urdu راناوقارمنظور,Translation Rana Waqar Manzoor
+2024-08-06 16:17:17.720 +05:00 [INF] Save Response : Urdu پیرعبدالاحدعزیز,Translation Peer Abdul Ahad Aziz
+2024-08-06 16:17:18.484 +05:00 [INF] Save Response : Urdu دیپچند,Translation Deepchand
+2024-08-06 16:17:19.157 +05:00 [INF] Save Response : Urdu زاریان,Translation Zaryan
+2024-08-06 16:17:19.800 +05:00 [INF] Save Response : Urdu بہادرعثمان,Translation Bahadur Usman
+2024-08-06 16:17:20.444 +05:00 [INF] Save Response : Urdu سیدشاه,Translation Syed Shah
+2024-08-06 16:17:21.040 +05:00 [INF] Save Response : Urdu امیرحمد,Translation Ameer Ahmad
+2024-08-06 16:17:21.738 +05:00 [INF] Save Response : Urdu عبدالشیراز,Translation Abdul Shiraz
+2024-08-06 16:17:22.442 +05:00 [INF] Save Response : Urdu ثوبین,Translation Saubin
+2024-08-06 16:17:23.113 +05:00 [INF] Save Response : Urdu جنیدرشید,Translation Junaid Rasheed
+2024-08-06 16:17:23.803 +05:00 [INF] Save Response : Urdu کنورمطلوب,Translation Kunwar Matloob
+2024-08-06 16:17:24.479 +05:00 [INF] Save Response : Urdu تنویراحمدعلوی,Translation Tanveer Ahmed Alavi
+2024-08-06 16:17:25.157 +05:00 [INF] Save Response : Urdu لیوک,Translation Liyuk
+2024-08-06 16:17:25.850 +05:00 [INF] Save Response : Urdu دلاص,Translation Dalas
+2024-08-06 16:17:26.547 +05:00 [INF] Save Response : Urdu ہوانگ,Translation Huang
+2024-08-06 16:17:29.106 +05:00 [INF] Save Response : Urdu مثبت,Translation Musbat
+2024-08-06 16:17:29.840 +05:00 [INF] Save Response : Urdu سیماتوصیف,Translation Seema Tauseef
+2024-08-06 16:17:30.542 +05:00 [INF] Save Response : Urdu عمارالہیٰ,Translation Ammar Ilahi
+2024-08-06 16:17:31.267 +05:00 [INF] Save Response : Urdu المغازی,Translation Al Maghazi
+2024-08-06 16:17:31.940 +05:00 [INF] Save Response : Urdu ذرور,Translation Zaroor
+2024-08-06 16:17:32.704 +05:00 [INF] Save Response : Urdu خالداحمر,Translation Khalid Ahmar
+2024-08-06 16:17:33.362 +05:00 [INF] Save Response : Urdu کمد,Translation Kamad
+2024-08-06 16:17:34.187 +05:00 [INF] Save Response : Urdu کمدجان,Translation Kamadjan
+2024-08-06 16:17:34.856 +05:00 [INF] Save Response : Urdu سنجنا,Translation Sanjna
+2024-08-06 16:17:35.523 +05:00 [INF] Save Response : Urdu رائق,Translation Raiq
+2024-08-06 16:17:36.251 +05:00 [INF] Save Response : Urdu سفیراحمدچوہدری,Translation Safir Ahmad Chaudhry
+2024-08-06 16:17:37.107 +05:00 [INF] Save Response : Urdu برمش,Translation Barmish
+2024-08-06 16:17:37.759 +05:00 [INF] Save Response : Urdu واکا,Translation Waqa
+2024-08-06 16:17:38.421 +05:00 [INF] Save Response : Urdu خزب,Translation Khezb
+2024-08-06 16:17:39.228 +05:00 [INF] Save Response : Urdu سیدعبدالمصور,Translation Syed Abdul Musawwir
+2024-08-06 16:17:39.966 +05:00 [INF] Save Response : Urdu میراصغرتقی,Translation Mira Saghir Taqi
+2024-08-06 16:17:40.986 +05:00 [INF] Save Response : Urdu ہمرد,Translation Hamrad
+2024-08-06 16:17:41.791 +05:00 [INF] Save Response : Urdu واجدقادربلوچ,Translation Wajid Qadir Baloch
+2024-08-06 16:17:42.655 +05:00 [INF] Save Response : Urdu شعیلمان,Translation Sulaiman
+2024-08-06 16:17:43.776 +05:00 [INF] Save Response : Urdu ساریه,Translation Sariya
+2024-08-06 16:17:44.571 +05:00 [INF] Save Response : Urdu شہریارکھنڈ,Translation Shehryar Khand
+2024-08-06 16:17:45.468 +05:00 [INF] Save Response : Urdu حصواب,Translation Hussawab
+2024-08-06 16:17:50.726 +05:00 [INF] Save Response : Urdu نورالصبا,Translation Noor ul Saba
+2024-08-06 16:17:51.773 +05:00 [INF] Save Response : Urdu جاویدذوالفقار,Translation Javed Zulfiqar
+2024-08-06 16:17:52.449 +05:00 [INF] Save Response : Urdu اطہرفرید,Translation Atahar Fareed
+2024-08-06 16:17:53.246 +05:00 [INF] Save Response : Urdu سيبياڻي,Translation Sibiyani
+2024-08-06 16:17:53.991 +05:00 [INF] Save Response : Urdu مھراتن,Translation Mehratun
+2024-08-06 16:17:54.696 +05:00 [INF] Save Response : Urdu زورکھا,Translation Zorkha
+2024-08-06 16:17:55.415 +05:00 [INF] Save Response : Urdu الھبچای,Translation Alhabchai
+2024-08-06 16:17:56.126 +05:00 [INF] Save Response : Urdu اقدوسی,Translation Aqdusi
+2024-08-06 16:17:56.876 +05:00 [INF] Save Response : Urdu بِھاران,Translation Bharan
+2024-08-06 16:17:57.986 +05:00 [INF] Save Response : Urdu ناینون,Translation Nainon
+2024-08-06 16:17:58.710 +05:00 [INF] Save Response : Urdu مرچي,Translation Mirchi
+2024-08-06 16:17:59.373 +05:00 [INF] Save Response : Urdu ظرواری,Translation Zarwari
+2024-08-06 16:18:00.040 +05:00 [INF] Save Response : Urdu شعمہ,Translation Shaima
+2024-08-06 16:18:00.687 +05:00 [INF] Save Response : Urdu فیصہ,Translation Faisal
+2024-08-06 16:18:01.383 +05:00 [INF] Save Response : Urdu افشام,Translation Afsham
+2024-08-06 16:18:02.150 +05:00 [INF] Save Response : Urdu چتران,Translation Chitran
+2024-08-06 16:18:02.927 +05:00 [INF] Save Response : Urdu رریخان,Translation Rarikhan
+2024-08-06 16:18:03.818 +05:00 [INF] Save Response : Urdu تجاور,Translation Tajawar
+2024-08-06 16:18:04.459 +05:00 [INF] Save Response : Urdu آگيو,Translation Agio
+2024-08-06 16:18:05.095 +05:00 [INF] Save Response : Urdu سفوری,Translation Safuri
+2024-08-06 16:18:05.786 +05:00 [INF] Save Response : Urdu وسیفاں,Translation Wusifan
+2024-08-06 16:18:06.529 +05:00 [INF] Save Response : Urdu خالدالرحمنٰ,Translation Khalid al Rahman
+2024-08-06 16:18:07.441 +05:00 [INF] Save Response : Urdu ثوابه,Translation Thawabah
+2024-08-06 16:18:08.130 +05:00 [INF] Save Response : Urdu خاتورئی,Translation Khatoorai

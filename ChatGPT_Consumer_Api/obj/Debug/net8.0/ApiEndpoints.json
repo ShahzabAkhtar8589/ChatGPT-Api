@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ChatGPT_Consumer_Api.Controllers.ConsumerController",
+    "Method": "Get",
+    "RelativePath": "api/Consumer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

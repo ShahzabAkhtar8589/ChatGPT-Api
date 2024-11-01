@@ -1,0 +1,154 @@
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.exe
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.deps.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.runtimeconfig.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.AssemblyReference.cache
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfoInputs.cache
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfo.cs
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.CoreCompileInputs.cache
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.ChatGPT_Consumer_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\scopedcss\bundle\ChatGPT_Consumer_Api.styles.css
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_.6A937EEE.Up2Date
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\refint\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.genruntimeconfig.cache
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ref\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.exe
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.deps.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.runtimeconfig.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.AssemblyReference.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfoInputs.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfo.cs
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.CoreCompileInputs.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.ChatGPT_Consumer_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\scopedcss\bundle\ChatGPT_Consumer_Api.styles.css
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_.6A937EEE.Up2Date
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\refint\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.genruntimeconfig.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api\obj\Debug\net8.0\ref\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\appsettings.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.exe
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.deps.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.runtimeconfig.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.AssemblyReference.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfoInputs.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.AssemblyInfo.cs
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.csproj.CoreCompileInputs.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.sourcelink.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.ChatGPT_Consumer_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatGPT_Consumer_Api.props
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\scopedcss\bundle\ChatGPT_Consumer_Api.styles.css
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_.6A937EEE.Up2Date
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\refint\ChatGPT_Consumer_Api.dll
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.pdb
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ChatGPT_Consumer_Api.genruntimeconfig.cache
+C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api - Copy\ChatGPT_Consumer_Api\obj\Debug\net8.0\ref\ChatGPT_Consumer_Api.dll

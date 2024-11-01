@@ -1,0 +1,16 @@
+‚
+wC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\obj\Debug\net8.0\ChatGPT-Api.MvcApplicationPartsAssemblyInfo.csutf-8o
+dC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\obj\Debug\net8.0\ChatGPT-Api.AssemblyInfo.csutf-8‚
+wC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8q
+fC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\obj\Debug\net8.0\ChatGPT-Api.GlobalUsings.g.csutf-8_
+VC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Services\OpenAIConversation.csutf-8Y
+PC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Services\OpenAIClient.csutf-8T
+KC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Services\ChatGPT.csutf-8K
+BC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Program.csutf-8M
+DC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Model\Log.csutf-8P
+GC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Model\Config.csutf-8X
+OC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Model\ChatCompletion.csutf-8]
+TC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Middleware\Authentication.csutf-8V
+MC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Interface\IChatGPT.csutf-8\
+SC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\DBContext\LoggingContext.csutf-8V
+MC:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT-Api\Controllers\OpenAi.csutf-8

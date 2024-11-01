@@ -1,0 +1,235 @@
+2024-08-02 17:17:29.281 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 17:17:29.312 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 17:17:29.314 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 17:17:29.315 +05:00 [INF] Hosting environment: Development
+2024-08-02 17:17:29.316 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 17:17:30.404 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 17:17:30.568 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 168.6473ms
+2024-08-02 17:17:30.612 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 17:17:30.612 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 17:17:30.629 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 16.9917ms
+2024-08-02 17:17:30.658 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.0796ms
+2024-08-02 17:17:30.711 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 17:17:30.766 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.2766ms
+2024-08-02 17:17:36.447 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 17:17:36.458 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:17:36.481 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 17:17:43.289 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:17:44.810 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:17:46.364 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:17:47.381 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:17:48.872 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:16.237 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:21.284 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:23.518 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:23.523 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:23.528 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:18:23.532 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 17:18:23.535 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 47049.2689ms
+2024-08-02 17:18:23.537 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:18:23.538 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 47092.1566ms
+2024-08-02 17:47:32.376 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 17:47:32.409 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 17:47:32.412 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 17:47:32.412 +05:00 [INF] Hosting environment: Development
+2024-08-02 17:47:32.413 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 17:47:33.335 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 17:47:33.483 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 151.6461ms
+2024-08-02 17:47:33.516 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 17:47:33.516 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 17:47:33.531 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 14.3647ms
+2024-08-02 17:47:33.562 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.5974ms
+2024-08-02 17:47:33.600 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 17:47:33.648 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 48.7262ms
+2024-08-02 17:47:36.016 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 17:47:36.024 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:47:36.036 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 17:47:54.444 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:48:16.060 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 17:48:16.064 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 40022.6607ms
+2024-08-02 17:48:16.066 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:48:16.067 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 40051.2988ms
+2024-08-02 17:48:55.430 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:13.065 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:14.273 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:15.206 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:16.082 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:16.986 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:17.715 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:18.766 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:19.889 +05:00 [INF] Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:49:38.940 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 17:49:38.962 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 17:49:38.964 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 17:49:38.964 +05:00 [INF] Hosting environment: Development
+2024-08-02 17:49:38.965 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 17:49:39.293 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 17:49:39.472 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 181.4688ms
+2024-08-02 17:49:39.537 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 17:49:39.537 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 17:49:39.555 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.6945ms
+2024-08-02 17:49:39.592 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.5523ms
+2024-08-02 17:49:39.638 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 17:49:39.691 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 53.8858ms
+2024-08-02 17:50:51.301 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 17:50:51.329 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 17:50:51.336 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 17:50:51.337 +05:00 [INF] Hosting environment: Development
+2024-08-02 17:50:51.343 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 17:50:51.725 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 17:50:51.853 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 133.6748ms
+2024-08-02 17:50:51.885 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 17:50:51.885 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 17:50:51.900 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 15.1216ms
+2024-08-02 17:50:51.927 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.6809ms
+2024-08-02 17:50:51.965 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 17:50:52.009 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 44.235ms
+2024-08-02 17:51:53.274 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 17:51:53.313 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 17:51:53.317 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 17:51:53.318 +05:00 [INF] Hosting environment: Development
+2024-08-02 17:51:53.319 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 17:51:54.314 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 17:51:54.459 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 147.4493ms
+2024-08-02 17:51:54.488 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 17:51:54.498 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 17:51:54.501 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.2526ms
+2024-08-02 17:51:54.542 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.1516ms
+2024-08-02 17:51:54.581 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 17:51:54.625 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 44.8652ms
+2024-08-02 17:51:56.942 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 17:51:56.949 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:51:56.958 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 17:52:01.389 +05:00 [INF] Get Response: Token ذمکوری, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:04.125 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 17:52:04.130 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 7168.0442ms
+2024-08-02 17:52:04.132 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 17:52:04.133 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 7191.1812ms
+2024-08-02 17:52:38.340 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:45.330 +05:00 [INF] Get Response: Token فراشم, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:53.638 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:53.640 +05:00 [INF] Get Response: Token ظہارو, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:54.761 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:54.764 +05:00 [INF] Get Response: Token بُدّن, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:55.861 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:55.864 +05:00 [INF] Get Response: Token سیاھل, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:56.932 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:56.937 +05:00 [INF] Get Response: Token شميمان, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:57.617 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:57.620 +05:00 [INF] Get Response: Token انشو, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:58.567 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:58.573 +05:00 [INF] Get Response: Token مداري, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:59.768 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:52:59.772 +05:00 [INF] Get Response: Token مرزانفیس, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:53:00.478 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 17:53:00.481 +05:00 [INF] Get Response: Token روذان, Code: Y, Description: 00, Message: sucess
+2024-08-02 17:53:01.349 +05:00 [INF] Save Response : Token ,Translation , Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:07.713 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 18:22:07.737 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 18:22:07.739 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 18:22:07.739 +05:00 [INF] Hosting environment: Development
+2024-08-02 18:22:07.740 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 18:22:08.925 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 18:22:09.071 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 150.5895ms
+2024-08-02 18:22:09.101 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 18:22:09.101 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 18:22:09.114 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.4252ms
+2024-08-02 18:22:09.142 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.4432ms
+2024-08-02 18:22:09.266 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 18:22:09.311 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.8645ms
+2024-08-02 18:22:13.640 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 18:22:13.645 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:22:13.653 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 18:22:19.952 +05:00 [INF] Get Response: Token خاورتارڑ, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:27.671 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 18:22:27.674 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 14015.0855ms
+2024-08-02 18:22:27.676 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:22:27.677 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 14038.0929ms
+2024-08-02 18:22:29.182 +05:00 [INF] Save Response : Token خاورتارڑ,Translation Khawatard, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:29.189 +05:00 [INF] Get Response: Token بالولنڈ, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:30.142 +05:00 [INF] Save Response : Token بالولنڈ,Translation Balochistan, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:30.144 +05:00 [INF] Get Response: Token ڈونگریو, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:30.872 +05:00 [INF] Save Response : Token ڈونگریو,Translation Dongrio, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:30.876 +05:00 [INF] Get Response: Token نذیراحمدعاصی, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:31.864 +05:00 [INF] Save Response : Token نذیراحمدعاصی,Translation Nazir Ahmad Aasi, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:31.867 +05:00 [INF] Get Response: Token شبارک, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:22:32.529 +05:00 [INF] Save Response : Token شبارک,Translation Shabark, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:26.910 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 18:42:26.915 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:42:26.917 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 18:42:31.382 +05:00 [INF] Get Response: Token شعرین, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:31.386 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 18:42:31.389 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 4469.7533ms
+2024-08-02 18:42:31.390 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:42:31.391 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 4483.4867ms
+2024-08-02 18:42:32.325 +05:00 [INF] Save Response : Token شعرین,Translation Shairin, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:32.331 +05:00 [INF] Get Response: Token گيانداد, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:33.258 +05:00 [INF] Save Response : Token گيانداد,Translation Gyandad, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:33.261 +05:00 [INF] Get Response: Token سردارمحمدصبیح, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:34.184 +05:00 [INF] Save Response : Token سردارمحمدصبیح,Translation Sardar Muhammad Sabih, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:34.187 +05:00 [INF] Get Response: Token اسہرو, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:35.103 +05:00 [INF] Save Response : Token اسہرو,Translation Asarho, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:35.105 +05:00 [INF] Get Response: Token چوخالئی, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:42:35.884 +05:00 [INF] Save Response : Token چوخالئی,Translation Chokhaali, Code: Y, Description: 00, Message: sucess
+2024-08-02 18:45:08.396 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 18:45:08.419 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 18:45:08.421 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 18:45:08.422 +05:00 [INF] Hosting environment: Development
+2024-08-02 18:45:08.423 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 18:45:09.402 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 18:45:09.541 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 142.7016ms
+2024-08-02 18:45:09.568 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 18:45:09.568 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 18:45:09.575 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 8.0271ms
+2024-08-02 18:45:09.615 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.5848ms
+2024-08-02 18:45:09.658 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 18:45:09.701 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 43.1483ms
+2024-08-02 18:45:12.648 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 18:45:12.654 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:45:12.662 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 18:45:14.369 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 18:45:14.372 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 1705.196ms
+2024-08-02 18:45:14.373 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 18:45:14.374 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 1726.9104ms
+2024-08-02 18:45:16.665 +05:00 [INF] Save Response : Urdu ماموشیدخان,Translation Mamushid Khan
+2024-08-02 18:45:17.627 +05:00 [INF] Save Response : Urdu عمرزدین,Translation Umairzadeen
+2024-08-02 18:45:18.407 +05:00 [INF] Save Response : Urdu زالا,Translation Zala
+2024-08-02 18:45:19.113 +05:00 [INF] Save Response : Urdu ویدی,Translation Vedi
+2024-08-02 18:45:19.887 +05:00 [INF] Save Response : Urdu حکمدین,Translation Hukamdeen
+2024-08-02 19:17:07.010 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-02 19:17:07.051 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-02 19:17:07.054 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-02 19:17:07.055 +05:00 [INF] Hosting environment: Development
+2024-08-02 19:17:07.056 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-02 19:17:08.205 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-02 19:17:08.361 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 158.183ms
+2024-08-02 19:17:08.403 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-02 19:17:08.403 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-02 19:17:08.434 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 31.1096ms
+2024-08-02 19:17:08.458 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.3781ms
+2024-08-02 19:17:08.502 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-02 19:17:08.550 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 48.7249ms
+2024-08-02 19:17:11.095 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 19:17:11.103 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 19:17:11.111 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 19:17:12.579 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 19:17:12.583 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 1467.5349ms
+2024-08-02 19:17:12.585 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 19:17:12.586 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 1491.3289ms
+2024-08-02 19:17:21.026 +05:00 [INF] Save Response : Urdu برفن,Translation Barfan
+2024-08-02 19:17:22.132 +05:00 [INF] Save Response : Urdu بشیراحمداپل,Translation Bashir Ahmad Apel
+2024-08-02 19:17:22.917 +05:00 [INF] Save Response : Urdu قيصرو,Translation Qaisar
+2024-08-02 19:17:23.866 +05:00 [INF] Save Response : Urdu ابطیٰ,Translation Abtiya
+2024-08-02 19:17:25.398 +05:00 [INF] Save Response : Urdu گلبہران,Translation Gulbaharani
+2024-08-02 19:18:19.675 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-02 19:18:19.678 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 19:18:19.680 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-02 19:18:21.264 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-02 19:18:21.265 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 1583.4004ms
+2024-08-02 19:18:21.267 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-02 19:18:21.268 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 1593.3541ms
+2024-08-02 19:18:22.209 +05:00 [INF] Save Response : Urdu مسعوداحمدچوہدری,Translation Masood Ahmad Chaudhry
+2024-08-02 19:18:22.868 +05:00 [INF] Save Response : Urdu رانجهن,Translation Ranjhan
+2024-08-02 19:18:23.831 +05:00 [INF] Save Response : Urdu سیدمنصوراحمدہاشمی,Translation Syed Mansoor Ahmad Hashmi
+2024-08-02 19:18:24.801 +05:00 [INF] Save Response : Urdu جماڙي,Translation Jamari
+2024-08-02 19:18:25.412 +05:00 [INF] Save Response : Urdu کمبیہ,Translation Kambiya

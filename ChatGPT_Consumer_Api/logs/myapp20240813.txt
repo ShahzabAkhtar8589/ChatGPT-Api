@@ -1,0 +1,14 @@
+2024-08-13 18:38:58.204 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-13 18:38:58.230 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-13 18:38:58.232 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-13 18:38:58.233 +05:00 [INF] Hosting environment: Development
+2024-08-13 18:38:58.234 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api
+2024-08-13 18:38:58.985 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-13 18:38:59.068 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 87.225ms
+2024-08-13 18:38:59.103 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-13 18:38:59.111 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 7.7889ms
+2024-08-13 18:38:59.429 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-13 18:38:59.448 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/favicon-32x32.png - null null
+2024-08-13 18:38:59.458 +05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-08-13 18:38:59.461 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/favicon-32x32.png - 200 628 image/png 12.4835ms
+2024-08-13 18:38:59.466 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 37.4254ms

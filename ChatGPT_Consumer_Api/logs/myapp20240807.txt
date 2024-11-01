@@ -1,0 +1,1146 @@
+2024-08-07 15:50:36.329 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-07 15:50:36.364 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-07 15:50:36.369 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-07 15:50:36.371 +05:00 [INF] Hosting environment: Development
+2024-08-07 15:50:36.372 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-07 15:50:37.226 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-07 15:50:37.437 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 215.7565ms
+2024-08-07 15:50:37.699 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-07 15:50:37.701 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-07 15:50:37.725 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 27.8066ms
+2024-08-07 15:50:37.781 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.7791ms
+2024-08-07 15:50:38.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-07 15:50:38.142 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 96.3317ms
+2024-08-07 15:50:46.083 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 15:50:46.096 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 15:50:46.114 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 15:50:46.756 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 15:50:46.763 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 641.4715ms
+2024-08-07 15:50:46.766 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 15:50:46.767 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 684.4409ms
+2024-08-07 15:50:47.891 +05:00 [INF] Sr No. 3 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.898 +05:00 [INF] Sr No. 8 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.904 +05:00 [INF] Sr No. 5 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.910 +05:00 [INF] Sr No. 4 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.931 +05:00 [INF] Sr No. 9 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.936 +05:00 [INF] Sr No. 1 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.948 +05:00 [INF] Sr No. 2 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:47.985 +05:00 [INF] Sr No. 0 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:48.137 +05:00 [INF] Sr No. 6 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:50:48.148 +05:00 [INF] Sr No. 7 : Urdu - شھابی, Translation - Shahabi
+2024-08-07 15:55:58.971 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 15:55:58.981 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 15:55:58.983 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 15:55:59.067 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 15:55:59.069 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 83.1959ms
+2024-08-07 15:55:59.071 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 15:55:59.073 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 102.7372ms
+2024-08-07 15:55:59.747 +05:00 [INF] Sr No. 1 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.812 +05:00 [INF] Sr No. 4 : Urdu - شہرذادہ, Translation - Shehrzadeh
+2024-08-07 15:55:59.851 +05:00 [INF] Sr No. 0 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.873 +05:00 [INF] Sr No. 9 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.897 +05:00 [INF] Sr No. 2 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.902 +05:00 [INF] Sr No. 6 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.916 +05:00 [INF] Sr No. 3 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.925 +05:00 [INF] Sr No. 5 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.934 +05:00 [INF] Sr No. 7 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 15:55:59.991 +05:00 [INF] Sr No. 8 : Urdu - شہرذادہ, Translation - Shehrzada
+2024-08-07 16:52:55.546 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-07 16:52:55.585 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-07 16:52:55.589 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-07 16:52:55.590 +05:00 [INF] Hosting environment: Development
+2024-08-07 16:52:55.591 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-07 16:52:56.304 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-07 16:52:56.616 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 318.4846ms
+2024-08-07 16:52:56.652 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-07 16:52:56.658 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 7.2337ms
+2024-08-07 16:52:56.674 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-07 16:52:56.721 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.8952ms
+2024-08-07 16:52:56.988 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-07 16:52:57.057 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 69.9385ms
+2024-08-07 16:53:06.044 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 16:53:06.051 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 16:53:06.063 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 16:53:06.472 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 16:53:06.476 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 408.7362ms
+2024-08-07 16:53:06.477 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 16:53:06.479 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 435.5037ms
+2024-08-07 16:53:07.673 +05:00 [INF] Sr No. 0 : Urdu - اثماء, Translation - Asma
+2024-08-07 16:53:08.472 +05:00 [INF] Sr No. 1 : Urdu - لماء, Translation - Lama
+2024-08-07 16:53:09.073 +05:00 [INF] Sr No. 2 : Urdu - عقیلان, Translation - Aqilan
+2024-08-07 16:53:09.808 +05:00 [INF] Sr No. 3 : Urdu - چاہست, Translation - Chahist
+2024-08-07 16:53:10.419 +05:00 [INF] Sr No. 4 : Urdu - تمو, Translation - Tammu
+2024-08-07 16:53:11.078 +05:00 [INF] Sr No. 5 : Urdu - خواژیگلہ, Translation - Khwajigala
+2024-08-07 16:53:11.672 +05:00 [INF] Sr No. 6 : Urdu - رنیاز, Translation - Rniaz
+2024-08-07 16:53:12.606 +05:00 [INF] Sr No. 7 : Urdu - روٰف, Translation - Rauf
+2024-08-07 16:53:13.175 +05:00 [INF] Sr No. 8 : Urdu - گنوران, Translation - Ghanoran
+2024-08-07 16:53:13.835 +05:00 [INF] Sr No. 9 : Urdu - مکبرالرحمٰن, Translation - Mukabbir ur Rahman
+2024-08-07 17:56:34.012 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-07 17:56:34.057 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-07 17:56:34.058 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-07 17:56:34.059 +05:00 [INF] Hosting environment: Development
+2024-08-07 17:56:34.060 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\source\repos\ChatGPT_Consumer_Api\ChatGPT_Consumer_Api
+2024-08-07 17:56:34.484 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-07 17:56:34.669 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 190.0371ms
+2024-08-07 17:56:34.704 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-07 17:56:34.711 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-07 17:56:34.722 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.9269ms
+2024-08-07 17:56:34.766 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.2255ms
+2024-08-07 17:56:34.904 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-07 17:56:34.953 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.3746ms
+2024-08-07 17:56:42.859 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 17:56:42.871 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 17:56:42.889 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 17:56:43.422 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 17:56:43.426 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 532.558ms
+2024-08-07 17:56:43.428 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 17:56:43.429 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 569.9126ms
+2024-08-07 17:56:44.566 +05:00 [INF] Sr No. 0 : Urdu - فلاوت, Translation - Flute
+2024-08-07 17:56:45.332 +05:00 [INF] Sr No. 1 : Urdu - صاحبياڻي, Translation - Sahibiyani
+2024-08-07 17:56:46.790 +05:00 [INF] Sr No. 2 : Urdu - رصتون, Translation - Rustom
+2024-08-07 17:56:47.507 +05:00 [INF] Sr No. 3 : Urdu - صحج, Translation - Sahaj
+2024-08-07 17:56:48.325 +05:00 [INF] Sr No. 4 : Urdu - مہداں, Translation - Mehdan
+2024-08-07 17:56:49.277 +05:00 [INF] Sr No. 5 : Urdu - ارمضان, Translation - Ramzan
+2024-08-07 17:56:49.865 +05:00 [INF] Sr No. 6 : Urdu - دوڈھی, Translation - Dodhi
+2024-08-07 17:56:50.579 +05:00 [INF] Sr No. 7 : Urdu - ورمانه, Translation - Vurmana
+2024-08-07 17:56:51.319 +05:00 [INF] Sr No. 8 : Urdu - پسرت, Translation - Pasrat
+2024-08-07 17:56:52.267 +05:00 [INF] Sr No. 9 : Urdu - عبدالسلامہ, Translation - AbdusSalamah
+2024-08-07 17:56:52.986 +05:00 [INF] Sr No. 10 : Urdu - پتاسئے, Translation - Patasiye
+2024-08-07 17:56:53.686 +05:00 [INF] Sr No. 11 : Urdu - شوہرتاج, Translation - Shohretaj
+2024-08-07 17:56:54.390 +05:00 [INF] Sr No. 12 : Urdu - جمامه, Translation - Jumama
+2024-08-07 17:56:54.952 +05:00 [INF] Sr No. 13 : Urdu - ماہول, Translation - Mahol
+2024-08-07 17:56:55.601 +05:00 [INF] Sr No. 14 : Urdu - گلگرہ, Translation - Gulgarah
+2024-08-07 17:56:56.393 +05:00 [INF] Sr No. 15 : Urdu - مازدیگرگلہ, Translation - Mazdigargala
+2024-08-07 17:56:57.069 +05:00 [INF] Sr No. 16 : Urdu - سمعي, Translation - Samia
+2024-08-07 17:56:57.783 +05:00 [INF] Sr No. 17 : Urdu - سامرو, Translation - Samro
+2024-08-07 17:56:58.619 +05:00 [INF] Sr No. 18 : Urdu - یارملون, Translation - Yarmaloon
+2024-08-07 17:56:59.237 +05:00 [INF] Sr No. 19 : Urdu - الارق, Translation - Alaraq
+2024-08-07 17:57:01.347 +05:00 [INF] Sr No. 20 : Urdu - شفایاتہ, Translation - Shafayatah
+2024-08-07 17:57:01.930 +05:00 [INF] Sr No. 21 : Urdu - زلحورہ, Translation - Zilhura
+2024-08-07 17:57:02.590 +05:00 [INF] Sr No. 22 : Urdu - نورمحمدرجيرو, Translation - NoorMuhammadRajero
+2024-08-07 17:57:03.149 +05:00 [INF] Sr No. 23 : Urdu - سیدگله, Translation - Syedgula
+2024-08-07 17:57:03.808 +05:00 [INF] Sr No. 24 : Urdu - زربید, Translation - Zarbida
+2024-08-07 17:57:04.404 +05:00 [INF] Sr No. 25 : Urdu - ہیندو, Translation - Hindu
+2024-08-07 17:57:05.283 +05:00 [INF] Sr No. 26 : Urdu - رزبی, Translation - Rizbi
+2024-08-07 17:57:06.010 +05:00 [INF] Sr No. 27 : Urdu - راناگی, Translation - Ranagi
+2024-08-07 17:57:06.768 +05:00 [INF] Sr No. 28 : Urdu - زنبور, Translation - Zanbur
+2024-08-07 17:57:07.331 +05:00 [INF] Sr No. 29 : Urdu - پسرئے, Translation - Pasray
+2024-08-07 17:57:08.107 +05:00 [INF] Sr No. 30 : Urdu - غرسانہ, Translation - Gharsanah
+2024-08-07 17:57:10.271 +05:00 [INF] Sr No. 31 : Urdu - جتّنی, Translation - Jattni
+2024-08-07 17:57:10.894 +05:00 [INF] Sr No. 32 : Urdu - مقتولہ, Translation - Maqtula
+2024-08-07 17:57:11.579 +05:00 [INF] Sr No. 33 : Urdu - اخترالنساب, Translation - Akhtaral Nisab
+2024-08-07 17:57:12.178 +05:00 [INF] Sr No. 34 : Urdu - فضلوکہ, Translation - Fazluka
+2024-08-07 17:57:13.117 +05:00 [INF] Sr No. 35 : Urdu - عبدالراہد, Translation - AbdulRaheed
+2024-08-07 17:57:13.726 +05:00 [INF] Sr No. 36 : Urdu - حفان, Translation - Hufan
+2024-08-07 17:57:14.417 +05:00 [INF] Sr No. 37 : Urdu - باچازرنوشہ, Translation - BachaZarnoshah
+2024-08-07 17:57:15.156 +05:00 [INF] Sr No. 38 : Urdu - شفیداللہ, Translation - Shafidullah
+2024-08-07 17:57:16.087 +05:00 [INF] Sr No. 39 : Urdu - خاضرالرحمان, Translation - Khazir ur Rahman
+2024-08-07 17:57:16.739 +05:00 [INF] Sr No. 40 : Urdu - نورقلیم, Translation - NoorQaleem
+2024-08-07 17:57:17.363 +05:00 [INF] Sr No. 41 : Urdu - امیرسیدہ, Translation - AmeerSyeda
+2024-08-07 17:57:18.004 +05:00 [INF] Sr No. 42 : Urdu - راہذاد, Translation - Raahzaad
+2024-08-07 17:57:18.625 +05:00 [INF] Sr No. 43 : Urdu - خالداوٹھی, Translation - KhalidAwthi
+2024-08-07 17:57:19.187 +05:00 [INF] Sr No. 44 : Urdu - ڈلئی, Translation - Dilli
+2024-08-07 17:57:19.884 +05:00 [INF] Sr No. 45 : Urdu - نظور, Translation - Nazoor
+2024-08-07 17:57:20.549 +05:00 [INF] Sr No. 46 : Urdu - گیملہ, Translation - Gimlah
+2024-08-07 17:57:21.125 +05:00 [INF] Sr No. 47 : Urdu - انیساں, Translation - Anisan
+2024-08-07 17:57:21.883 +05:00 [INF] Sr No. 48 : Urdu - جھمکو, Translation - Jhumko
+2024-08-07 17:57:23.816 +05:00 [INF] Sr No. 49 : Urdu - ناروش, Translation - Narosh
+2024-08-07 17:57:24.868 +05:00 [INF] Sr No. 50 : Urdu - چھري, Translation - Chhuri
+2024-08-07 17:57:25.487 +05:00 [INF] Sr No. 51 : Urdu - ھدنا, Translation - Hudna
+2024-08-07 17:57:26.098 +05:00 [INF] Sr No. 52 : Urdu - زربوبہ, Translation - Zarbuba
+2024-08-07 17:57:26.645 +05:00 [INF] Sr No. 53 : Urdu - منفنرہ, Translation - Munafira
+2024-08-07 17:57:27.270 +05:00 [INF] Sr No. 54 : Urdu - ٰٖثمینہ, Translation - Thamina
+2024-08-07 17:57:27.998 +05:00 [INF] Sr No. 55 : Urdu - وریامو, Translation - Wariyamo
+2024-08-07 17:57:28.670 +05:00 [INF] Sr No. 56 : Urdu - روسمارا, Translation - Rosmara
+2024-08-07 17:57:29.269 +05:00 [INF] Sr No. 57 : Urdu - زرخادہ, Translation - Zarkhada
+2024-08-07 17:57:29.954 +05:00 [INF] Sr No. 58 : Urdu - میرکاجان, Translation - Mirkajan
+2024-08-07 17:57:30.591 +05:00 [INF] Sr No. 59 : Urdu - بےنوا, Translation - Benawa
+2024-08-07 17:57:31.254 +05:00 [INF] Sr No. 60 : Urdu - غدیرنساء, Translation - GhadirNisa
+2024-08-07 17:57:31.840 +05:00 [INF] Sr No. 61 : Urdu - بنمڀي, Translation - Banambhi
+2024-08-07 17:57:32.608 +05:00 [INF] Sr No. 62 : Urdu - ڈھلر, Translation - Dhalar
+2024-08-07 17:57:33.266 +05:00 [INF] Sr No. 63 : Urdu - ھمدي, Translation - Hamdi
+2024-08-07 17:57:33.866 +05:00 [INF] Sr No. 64 : Urdu - مکرجانہ, Translation - Makrajana
+2024-08-07 17:57:34.477 +05:00 [INF] Sr No. 65 : Urdu - شہزادگٔی, Translation - Shehzadgi
+2024-08-07 17:57:35.049 +05:00 [INF] Sr No. 66 : Urdu - ھسبوانا, Translation - Husbuana
+2024-08-07 17:57:35.644 +05:00 [INF] Sr No. 67 : Urdu - الھوڌايہ, Translation - Alhudaiah
+2024-08-07 17:57:36.407 +05:00 [INF] Sr No. 68 : Urdu - ڀلَن, Translation - Bhalan
+2024-08-07 17:57:37.019 +05:00 [INF] Sr No. 69 : Urdu - ودھڑیو, Translation - Wadhirio
+2024-08-07 17:57:37.621 +05:00 [INF] Sr No. 70 : Urdu - ھبیل, Translation - Habeel
+2024-08-07 17:57:38.300 +05:00 [INF] Sr No. 71 : Urdu - نورصالحہ, Translation - NoorSaleha
+2024-08-07 17:57:39.077 +05:00 [INF] Sr No. 72 : Urdu - مچھرو, Translation - Machhro
+2024-08-07 17:57:39.778 +05:00 [INF] Sr No. 73 : Urdu - میناورو, Translation - Meenawaru
+2024-08-07 17:57:40.399 +05:00 [INF] Sr No. 74 : Urdu - ھنجراءُ, Translation - Hanjra
+2024-08-07 17:57:40.970 +05:00 [INF] Sr No. 75 : Urdu - عنايتي, Translation - Inayati
+2024-08-07 17:57:41.538 +05:00 [INF] Sr No. 76 : Urdu - شئزادہ, Translation - Shehzada
+2024-08-07 17:57:42.435 +05:00 [INF] Sr No. 77 : Urdu - گلدیه, Translation - Guldiya
+2024-08-07 17:57:43.125 +05:00 [INF] Sr No. 78 : Urdu - تزابہ, Translation - Tazabah
+2024-08-07 17:57:43.756 +05:00 [INF] Sr No. 79 : Urdu - بےقدرہ, Translation - Beqadra
+2024-08-07 17:57:44.401 +05:00 [INF] Sr No. 80 : Urdu - زارباسہ, Translation - Zarbasa
+2024-08-07 17:57:49.668 +05:00 [INF] Sr No. 81 : Urdu - جدي, Translation - Jadi
+2024-08-07 17:57:50.335 +05:00 [INF] Sr No. 82 : Urdu - جنابیہ, Translation - Janabiya
+2024-08-07 17:57:50.970 +05:00 [INF] Sr No. 83 : Urdu - فازوقی, Translation - Fazooqi
+2024-08-07 17:57:51.613 +05:00 [INF] Sr No. 84 : Urdu - مُلتانا, Translation - Multana
+2024-08-07 17:57:52.276 +05:00 [INF] Sr No. 85 : Urdu - شیرنتہ, Translation - Sheernata
+2024-08-07 17:57:53.146 +05:00 [INF] Sr No. 86 : Urdu - ہمدلہ, Translation - Hamdullah
+2024-08-07 17:57:53.847 +05:00 [INF] Sr No. 87 : Urdu - صوبیزادی, Translation - Sobezaadi
+2024-08-07 17:57:54.483 +05:00 [INF] Sr No. 88 : Urdu - شواد, Translation - Shawad
+2024-08-07 17:57:55.111 +05:00 [INF] Sr No. 89 : Urdu - اکھیاں, Translation - Akhiyan
+2024-08-07 17:57:55.748 +05:00 [INF] Sr No. 90 : Urdu - ڪادان, Translation - Kadan
+2024-08-07 17:57:56.409 +05:00 [INF] Sr No. 91 : Urdu - بشيراحمدبڪيجو, Translation - BashirAhmedBakojo
+2024-08-07 17:57:57.168 +05:00 [INF] Sr No. 92 : Urdu - فرزنداںبی, Translation - Farzandanbi
+2024-08-07 17:57:57.954 +05:00 [INF] Sr No. 93 : Urdu - بَڪر, Translation - Bakr
+2024-08-07 17:57:58.611 +05:00 [INF] Sr No. 94 : Urdu - باطو, Translation - Batu
+2024-08-07 17:57:59.352 +05:00 [INF] Sr No. 95 : Urdu - مخانے, Translation - Makhane
+2024-08-07 17:58:00.062 +05:00 [INF] Sr No. 96 : Urdu - حتانین, Translation - Hatanin
+2024-08-07 17:58:00.820 +05:00 [INF] Sr No. 97 : Urdu - بڌڙ, Translation - Budhar
+2024-08-07 17:58:01.586 +05:00 [INF] Sr No. 98 : Urdu - فیکاں, Translation - Fikan
+2024-08-07 17:58:02.230 +05:00 [INF] Sr No. 99 : Urdu - عيداں, Translation - Eidan
+2024-08-07 17:58:02.840 +05:00 [INF] Sr No. 100 : Urdu - ثاثیر, Translation - Tasir
+2024-08-07 17:58:03.426 +05:00 [INF] Sr No. 101 : Urdu - ڌمل, Translation - Dhamal
+2024-08-07 17:58:04.094 +05:00 [INF] Sr No. 102 : Urdu - باشنی, Translation - Bashni
+2024-08-07 17:58:04.697 +05:00 [INF] Sr No. 103 : Urdu - شھَنيلان, Translation - Shahnelan
+2024-08-07 17:58:05.364 +05:00 [INF] Sr No. 104 : Urdu - رنگیلاں, Translation - Rangilan
+2024-08-07 17:58:06.101 +05:00 [INF] Sr No. 105 : Urdu - زیرآمت, Translation - Zairamat
+2024-08-07 17:58:06.731 +05:00 [INF] Sr No. 106 : Urdu - باچہزادگئی, Translation - Bachazadgi
+2024-08-07 17:58:07.431 +05:00 [INF] Sr No. 107 : Urdu - فیرانگئی, Translation - Firaangai
+2024-08-07 17:58:07.995 +05:00 [INF] Sr No. 108 : Urdu - حبي, Translation - Habi
+2024-08-07 17:58:08.684 +05:00 [INF] Sr No. 109 : Urdu - مھجو, Translation - Mahjo
+2024-08-07 17:58:09.248 +05:00 [INF] Sr No. 110 : Urdu - مادکہ, Translation - Madkah
+2024-08-07 17:58:09.870 +05:00 [INF] Sr No. 111 : Urdu - فئی, Translation - Fai
+2024-08-07 17:58:10.583 +05:00 [INF] Sr No. 112 : Urdu - نازافتخار, Translation - NazIftikhar
+2024-08-07 17:58:11.280 +05:00 [INF] Sr No. 113 : Urdu - زرناکہ, Translation - Zarnak
+2024-08-07 17:58:12.055 +05:00 [INF] Sr No. 114 : Urdu - پائیدو, Translation - Paido
+2024-08-07 17:58:12.689 +05:00 [INF] Sr No. 115 : Urdu - زرگوچئی, Translation - Zargochai
+2024-08-07 17:58:13.328 +05:00 [INF] Sr No. 116 : Urdu - صفرینہ, Translation - Safrina
+2024-08-07 17:58:14.898 +05:00 [INF] Sr No. 117 : Urdu - زینولہ, Translation - Zainullah
+2024-08-07 17:58:15.454 +05:00 [INF] Sr No. 118 : Urdu - رھندی, Translation - Rahndi
+2024-08-07 17:58:16.114 +05:00 [INF] Sr No. 119 : Urdu - جساں, Translation - Jasaan
+2024-08-07 17:58:16.747 +05:00 [INF] Sr No. 120 : Urdu - باجھڻ, Translation - Bajhan
+2024-08-07 17:58:17.414 +05:00 [INF] Sr No. 121 : Urdu - سعيداللہ, Translation - Saeedullah
+2024-08-07 17:58:18.069 +05:00 [INF] Sr No. 122 : Urdu - نوشاحیدہ, Translation - Noshahida
+2024-08-07 17:58:18.744 +05:00 [INF] Sr No. 123 : Urdu - قنيز, Translation - Qaniz
+2024-08-07 17:58:19.464 +05:00 [INF] Sr No. 124 : Urdu - سردارلئی, Translation - SardarLai
+2024-08-07 17:58:20.030 +05:00 [INF] Sr No. 125 : Urdu - گلامدانہ, Translation - Gulamdana
+2024-08-07 17:58:20.660 +05:00 [INF] Sr No. 126 : Urdu - صبیه, Translation - Sabiha
+2024-08-07 17:58:21.223 +05:00 [INF] Sr No. 127 : Urdu - ڪانڌي, Translation - Kandhi
+2024-08-07 17:58:21.787 +05:00 [INF] Sr No. 128 : Urdu - علوينا, Translation - Alvina
+2024-08-07 17:58:22.427 +05:00 [INF] Sr No. 129 : Urdu - شیستہ, Translation - Shaista
+2024-08-07 17:58:23.114 +05:00 [INF] Sr No. 130 : Urdu - سرداربیگمہ, Translation - SardarBegum
+2024-08-07 17:58:23.664 +05:00 [INF] Sr No. 131 : Urdu - نعمتئی, Translation - Naimatei
+2024-08-07 17:58:24.319 +05:00 [INF] Sr No. 132 : Urdu - زرفشون, Translation - Zarfashon
+2024-08-07 17:58:24.897 +05:00 [INF] Sr No. 133 : Urdu - رمیلاں, Translation - Ramilan
+2024-08-07 17:58:25.551 +05:00 [INF] Sr No. 134 : Urdu - گلشودین, Translation - Gulshudin
+2024-08-07 17:58:26.202 +05:00 [INF] Sr No. 135 : Urdu - شرافتاں, Translation - Sharafatan
+2024-08-07 17:58:26.775 +05:00 [INF] Sr No. 136 : Urdu - صبالطیف, Translation - Sabalatif
+2024-08-07 17:58:27.391 +05:00 [INF] Sr No. 137 : Urdu - ھاشاں, Translation - Hashan
+2024-08-07 17:58:28.114 +05:00 [INF] Sr No. 138 : Urdu - حاطان, Translation - Haatan
+2024-08-07 17:58:28.830 +05:00 [INF] Sr No. 139 : Urdu - نورحوا, Translation - NoorHawa
+2024-08-07 17:58:29.511 +05:00 [INF] Sr No. 140 : Urdu - میرپشم, Translation - Mirpashm
+2024-08-07 17:58:30.172 +05:00 [INF] Sr No. 141 : Urdu - میرخوبانہ, Translation - Mirkhubanah
+2024-08-07 17:58:30.859 +05:00 [INF] Sr No. 142 : Urdu - خدرخیلہ, Translation - Khadrkhela
+2024-08-07 17:58:31.429 +05:00 [INF] Sr No. 143 : Urdu - خیریا, Translation - Khairiya
+2024-08-07 17:58:32.081 +05:00 [INF] Sr No. 144 : Urdu - مليڪ, Translation - Malik
+2024-08-07 17:58:32.839 +05:00 [INF] Sr No. 145 : Urdu - خذینت, Translation - Khazeena
+2024-08-07 17:58:34.483 +05:00 [INF] Sr No. 146 : Urdu - پائیوجان, Translation - Paiojaan
+2024-08-07 17:58:35.126 +05:00 [INF] Sr No. 147 : Urdu - استوکرہ, Translation - Astokrah
+2024-08-07 17:58:35.752 +05:00 [INF] Sr No. 148 : Urdu - درامون, Translation - Dramon
+2024-08-07 17:58:36.356 +05:00 [INF] Sr No. 149 : Urdu - پارکنسن, Translation - Parkinson
+2024-08-07 17:58:36.886 +05:00 [INF] Sr No. 150 : Urdu - عشو, Translation - Ashu
+2024-08-07 17:58:37.521 +05:00 [INF] Sr No. 151 : Urdu - ٹیٹوگل, Translation - Tetogul
+2024-08-07 17:58:38.157 +05:00 [INF] Sr No. 152 : Urdu - قمتی, Translation - Qamti
+2024-08-07 17:58:39.065 +05:00 [INF] Sr No. 153 : Urdu - ذوہراں, Translation - Zohran
+2024-08-07 17:58:39.666 +05:00 [INF] Sr No. 154 : Urdu - راکو, Translation - Rako
+2024-08-07 17:58:40.256 +05:00 [INF] Sr No. 155 : Urdu - صجیحہ, Translation - Sajiha
+2024-08-07 17:58:40.899 +05:00 [INF] Sr No. 156 : Urdu - نورثمینہ, Translation - Noorsameena
+2024-08-07 17:58:41.512 +05:00 [INF] Sr No. 157 : Urdu - نیلوفرسید, Translation - NeelofarSyed
+2024-08-07 17:58:42.140 +05:00 [INF] Sr No. 158 : Urdu - اربیاں, Translation - Arbiyyan
+2024-08-07 17:58:42.675 +05:00 [INF] Sr No. 159 : Urdu - صوابیحہ, Translation - Swabiha
+2024-08-07 17:58:43.313 +05:00 [INF] Sr No. 160 : Urdu - جفرہ, Translation - Jafrah
+2024-08-07 17:58:43.863 +05:00 [INF] Sr No. 161 : Urdu - مکائی, Translation - Makayi
+2024-08-07 17:58:44.437 +05:00 [INF] Sr No. 162 : Urdu - طرینہ, Translation - Tareena
+2024-08-07 17:58:45.116 +05:00 [INF] Sr No. 163 : Urdu - نوردانیہ, Translation - Nordania
+2024-08-07 17:58:45.696 +05:00 [INF] Sr No. 164 : Urdu - کوتره, Translation - Kotra
+2024-08-07 17:58:46.378 +05:00 [INF] Sr No. 165 : Urdu - ابصاریہ, Translation - Absariya
+2024-08-07 17:58:47.325 +05:00 [INF] Sr No. 166 : Urdu - اتھل, Translation - Athal
+2024-08-07 17:58:47.903 +05:00 [INF] Sr No. 167 : Urdu - بیناء, Translation - Bina
+2024-08-07 17:58:48.501 +05:00 [INF] Sr No. 168 : Urdu - مرغللہ, Translation - Marghalla
+2024-08-07 17:58:49.079 +05:00 [INF] Sr No. 169 : Urdu - مکھولی, Translation - Makhuli
+2024-08-07 17:58:49.742 +05:00 [INF] Sr No. 170 : Urdu - افشاںذرین, Translation - AfshanZareen
+2024-08-07 17:58:50.782 +05:00 [INF] Sr No. 171 : Urdu - سائیکی, Translation - Saiki
+2024-08-07 17:58:51.475 +05:00 [INF] Sr No. 172 : Urdu - میموالنساء, Translation - Maimulnisa
+2024-08-07 17:58:52.100 +05:00 [INF] Sr No. 173 : Urdu - انمرگلہ, Translation - Anmargala
+2024-08-07 17:58:52.752 +05:00 [INF] Sr No. 174 : Urdu - صفتو, Translation - Sifto
+2024-08-07 17:58:53.413 +05:00 [INF] Sr No. 175 : Urdu - انزادی, Translation - Anzadi
+2024-08-07 17:58:54.047 +05:00 [INF] Sr No. 176 : Urdu - روڈیگس, Translation - Rodrigues
+2024-08-07 17:58:54.793 +05:00 [INF] Sr No. 177 : Urdu - گلسانگ, Translation - Gulsang
+2024-08-07 17:58:55.472 +05:00 [INF] Sr No. 178 : Urdu - چنڑچنڑہ, Translation - Chanarchanarh
+2024-08-07 17:58:56.061 +05:00 [INF] Sr No. 179 : Urdu - بلوانہ, Translation - Balwana
+2024-08-07 17:58:56.623 +05:00 [INF] Sr No. 180 : Urdu - سترجانہ, Translation - Satarjanah
+2024-08-07 17:58:57.211 +05:00 [INF] Sr No. 181 : Urdu - خاوہ, Translation - Khawa
+2024-08-07 17:58:57.780 +05:00 [INF] Sr No. 182 : Urdu - فرہادا, Translation - Farhada
+2024-08-07 17:58:58.395 +05:00 [INF] Sr No. 183 : Urdu - بیرش, Translation - Bairash
+2024-08-07 17:58:59.030 +05:00 [INF] Sr No. 184 : Urdu - بيڪي, Translation - Beki
+2024-08-07 17:58:59.638 +05:00 [INF] Sr No. 185 : Urdu - ازنہ, Translation - Azna
+2024-08-07 17:59:00.314 +05:00 [INF] Sr No. 186 : Urdu - لونگرہ, Translation - Lungrah
+2024-08-07 17:59:00.905 +05:00 [INF] Sr No. 187 : Urdu - ناتیمہ, Translation - Nateema
+2024-08-07 17:59:01.459 +05:00 [INF] Sr No. 188 : Urdu - کانٹولی, Translation - Kantoli
+2024-08-07 17:59:02.020 +05:00 [INF] Sr No. 189 : Urdu - مسیحاً, Translation - Masihan
+2024-08-07 17:59:02.582 +05:00 [INF] Sr No. 190 : Urdu - قیصرامین, Translation - QaiserAmin
+2024-08-07 17:59:03.148 +05:00 [INF] Sr No. 191 : Urdu - شائشہ, Translation - Shaisha
+2024-08-07 17:59:03.817 +05:00 [INF] Sr No. 192 : Urdu - دلنار, Translation - Dilnar
+2024-08-07 17:59:04.367 +05:00 [INF] Sr No. 193 : Urdu - مختارں, Translation - Mukhtaran
+2024-08-07 17:59:04.931 +05:00 [INF] Sr No. 194 : Urdu - مظوراں, Translation - Mazooran
+2024-08-07 17:59:05.568 +05:00 [INF] Sr No. 195 : Urdu - ڪلثم, Translation - Kulsoom
+2024-08-07 17:59:06.119 +05:00 [INF] Sr No. 196 : Urdu - پھاگئے, Translation - Phagay
+2024-08-07 17:59:06.802 +05:00 [INF] Sr No. 197 : Urdu - نسرا, Translation - Nasra
+2024-08-07 17:59:07.417 +05:00 [INF] Sr No. 198 : Urdu - ملخبا, Translation - Malkhaba
+2024-08-07 17:59:08.024 +05:00 [INF] Sr No. 199 : Urdu - مضلفہ, Translation - Muzalfa
+2024-08-07 17:59:08.699 +05:00 [INF] Sr No. 200 : Urdu - پجونہ, Translation - Pajonah
+2024-08-07 17:59:09.333 +05:00 [INF] Sr No. 201 : Urdu - رویلئی, Translation - Ruvaili
+2024-08-07 17:59:10.042 +05:00 [INF] Sr No. 202 : Urdu - سنترا, Translation - Santra
+2024-08-07 17:59:10.695 +05:00 [INF] Sr No. 203 : Urdu - بنوشرا, Translation - Banooshra
+2024-08-07 17:59:11.245 +05:00 [INF] Sr No. 204 : Urdu - میرورجانہ, Translation - MeerWrajana
+2024-08-07 17:59:11.792 +05:00 [INF] Sr No. 205 : Urdu - اجمیراں, Translation - Ajmeran
+2024-08-07 17:59:12.486 +05:00 [INF] Sr No. 206 : Urdu - ظھریٰ, Translation - Zahriya
+2024-08-07 17:59:13.050 +05:00 [INF] Sr No. 207 : Urdu - بیبلان, Translation - Biblan
+2024-08-07 17:59:13.659 +05:00 [INF] Sr No. 208 : Urdu - رشيدھ, Translation - Rashidah
+2024-08-07 17:59:14.212 +05:00 [INF] Sr No. 209 : Urdu - کوثرشاہد, Translation - KausarShahid
+2024-08-07 17:59:14.762 +05:00 [INF] Sr No. 210 : Urdu - بختیات, Translation - Bakhtiyat
+2024-08-07 17:59:15.373 +05:00 [INF] Sr No. 211 : Urdu - گردیزہ, Translation - Gardeza
+2024-08-07 17:59:15.942 +05:00 [INF] Sr No. 212 : Urdu - عیلت, Translation - Aylat
+2024-08-07 17:59:16.922 +05:00 [INF] Sr No. 213 : Urdu - خدیجۃالکبریٰ, Translation - Khadijahal Kubra
+2024-08-07 17:59:17.571 +05:00 [INF] Sr No. 214 : Urdu - تاغون, Translation - Taghun
+2024-08-07 17:59:18.117 +05:00 [INF] Sr No. 215 : Urdu - ثمي, Translation - Thammi
+2024-08-07 17:59:18.796 +05:00 [INF] Sr No. 216 : Urdu - ماہت, Translation - Maht
+2024-08-07 17:59:19.625 +05:00 [INF] Sr No. 217 : Urdu - زرخوبانہ, Translation - Zarkhubana
+2024-08-07 17:59:20.277 +05:00 [INF] Sr No. 218 : Urdu - ملغرل, Translation - Milgharl
+2024-08-07 17:59:20.841 +05:00 [INF] Sr No. 219 : Urdu - کھامی, Translation - Khami
+2024-08-07 17:59:21.449 +05:00 [INF] Sr No. 220 : Urdu - وڑوک, Translation - Wurook
+2024-08-07 17:59:22.238 +05:00 [INF] Sr No. 221 : Urdu - آفریدئی, Translation - Afridi
+2024-08-07 17:59:22.877 +05:00 [INF] Sr No. 222 : Urdu - ڍولان, Translation - Dholan
+2024-08-07 17:59:23.434 +05:00 [INF] Sr No. 223 : Urdu - صوراجہ, Translation - Suraja
+2024-08-07 17:59:24.090 +05:00 [INF] Sr No. 224 : Urdu - وریحمینہ, Translation - Warihamina
+2024-08-07 17:59:24.708 +05:00 [INF] Sr No. 225 : Urdu - ریجابہ, Translation - Rijabah
+2024-08-07 17:59:25.362 +05:00 [INF] Sr No. 226 : Urdu - وزیرزودئیے, Translation - Wazirzodiye
+2024-08-07 17:59:25.952 +05:00 [INF] Sr No. 227 : Urdu - شطرین, Translation - Shatranj
+2024-08-07 17:59:26.580 +05:00 [INF] Sr No. 228 : Urdu - زبطہ, Translation - Zabta
+2024-08-07 17:59:27.416 +05:00 [INF] Sr No. 229 : Urdu - حیواسین, Translation - Haiwasin
+2024-08-07 17:59:28.056 +05:00 [INF] Sr No. 230 : Urdu - بھیرانواں, Translation - Bheranwan
+2024-08-07 17:59:28.779 +05:00 [INF] Sr No. 231 : Urdu - کازف, Translation - Kazaf
+2024-08-07 17:59:29.385 +05:00 [INF] Sr No. 232 : Urdu - ججوی, Translation - Jajoi
+2024-08-07 17:59:30.039 +05:00 [INF] Sr No. 233 : Urdu - پشمه, Translation - Pashma
+2024-08-07 17:59:30.625 +05:00 [INF] Sr No. 234 : Urdu - شکرائی, Translation - Shakrai
+2024-08-07 17:59:31.240 +05:00 [INF] Sr No. 235 : Urdu - سلاماً, Translation - Salaman
+2024-08-07 17:59:31.916 +05:00 [INF] Sr No. 236 : Urdu - منداریس, Translation - Mandaris
+2024-08-07 17:59:32.596 +05:00 [INF] Sr No. 237 : Urdu - مريدہ, Translation - Mureeda
+2024-08-07 17:59:33.527 +05:00 [INF] Sr No. 238 : Urdu - رانامحمّدشاہدجاوید, Translation - RanaMuhammadShahidJaved
+2024-08-07 17:59:34.073 +05:00 [INF] Sr No. 239 : Urdu - زالمہ, Translation - Zalma
+2024-08-07 17:59:34.623 +05:00 [INF] Sr No. 240 : Urdu - جلابے, Translation - Jalabe
+2024-08-07 17:59:35.269 +05:00 [INF] Sr No. 241 : Urdu - مرسد, Translation - Mursad
+2024-08-07 17:59:35.913 +05:00 [INF] Sr No. 242 : Urdu - اميري, Translation - Amiri
+2024-08-07 17:59:36.579 +05:00 [INF] Sr No. 243 : Urdu - اذانہ, Translation - Azanah
+2024-08-07 17:59:37.204 +05:00 [INF] Sr No. 244 : Urdu - نیازمرو, Translation - Niyazmaro
+2024-08-07 17:59:37.770 +05:00 [INF] Sr No. 245 : Urdu - گراھ, Translation - Graah
+2024-08-07 17:59:38.336 +05:00 [INF] Sr No. 246 : Urdu - شاحبه, Translation - Shahbah
+2024-08-07 17:59:38.968 +05:00 [INF] Sr No. 247 : Urdu - نانیارہ, Translation - Naniyara
+2024-08-07 17:59:39.543 +05:00 [INF] Sr No. 248 : Urdu - اکبرناموسی, Translation - Akbarnamosi
+2024-08-07 17:59:40.185 +05:00 [INF] Sr No. 249 : Urdu - بیمارجانہ, Translation - Bimarjanah
+2024-08-07 17:59:40.905 +05:00 [INF] Sr No. 250 : Urdu - مارسید, Translation - Marseed
+2024-08-07 17:59:41.591 +05:00 [INF] Sr No. 251 : Urdu - امرين, Translation - Amreen
+2024-08-07 17:59:42.229 +05:00 [INF] Sr No. 252 : Urdu - زوبدن, Translation - Zobdan
+2024-08-07 17:59:42.956 +05:00 [INF] Sr No. 253 : Urdu - موڈھائی, Translation - Modhai
+2024-08-07 17:59:43.581 +05:00 [INF] Sr No. 254 : Urdu - صغتاں, Translation - Saghtan
+2024-08-07 17:59:44.149 +05:00 [INF] Sr No. 255 : Urdu - لیلتاں, Translation - Leeltan
+2024-08-07 17:59:44.820 +05:00 [INF] Sr No. 256 : Urdu - تھویو, Translation - Thovio
+2024-08-07 17:59:45.359 +05:00 [INF] Sr No. 257 : Urdu - جاناز, Translation - Janaz
+2024-08-07 17:59:46.005 +05:00 [INF] Sr No. 258 : Urdu - زجاح, Translation - Zujaj
+2024-08-07 17:59:46.551 +05:00 [INF] Sr No. 259 : Urdu - مزرؤف, Translation - Mazroof
+2024-08-07 17:59:47.244 +05:00 [INF] Sr No. 260 : Urdu - شیرفلک, Translation - Sherfalak
+2024-08-07 17:59:47.938 +05:00 [INF] Sr No. 261 : Urdu - موتبر, Translation - Motabar
+2024-08-07 17:59:48.578 +05:00 [INF] Sr No. 262 : Urdu - ظفرعبدل, Translation - ZafarAbdul
+2024-08-07 17:59:49.205 +05:00 [INF] Sr No. 263 : Urdu - دارشیخ, Translation - DarSheikh
+2024-08-07 17:59:49.967 +05:00 [INF] Sr No. 264 : Urdu - تجب, Translation - Tajab
+2024-08-07 17:59:50.535 +05:00 [INF] Sr No. 265 : Urdu - ِخالده, Translation - Khalida
+2024-08-07 17:59:51.109 +05:00 [INF] Sr No. 266 : Urdu - سامیدہ, Translation - Samida
+2024-08-07 17:59:51.767 +05:00 [INF] Sr No. 267 : Urdu - امتیازمنیر, Translation - ImtiazMunir
+2024-08-07 17:59:52.322 +05:00 [INF] Sr No. 268 : Urdu - مداره, Translation - Madara
+2024-08-07 17:59:52.936 +05:00 [INF] Sr No. 269 : Urdu - زینوبہ, Translation - Zainubah
+2024-08-07 17:59:53.513 +05:00 [INF] Sr No. 270 : Urdu - پرینا, Translation - Parina
+2024-08-07 17:59:54.092 +05:00 [INF] Sr No. 271 : Urdu - بدرل, Translation - Badar ul
+2024-08-07 17:59:55.298 +05:00 [INF] Sr No. 272 : Urdu - مھواڪ, Translation - Mahwaq
+2024-08-07 17:59:55.889 +05:00 [INF] Sr No. 273 : Urdu - مالیدانہ, Translation - Maledana
+2024-08-07 17:59:56.530 +05:00 [INF] Sr No. 274 : Urdu - نوتی, Translation - Nauti
+2024-08-07 17:59:57.972 +05:00 [INF] Sr No. 275 : Urdu - رایاز, Translation - Rayaz
+2024-08-07 17:59:58.589 +05:00 [INF] Sr No. 276 : Urdu - میجانی, Translation - Mijani
+2024-08-07 17:59:59.188 +05:00 [INF] Sr No. 277 : Urdu - امنیاں, Translation - Amaniyaan
+2024-08-07 17:59:59.751 +05:00 [INF] Sr No. 278 : Urdu - الباشا, Translation - Al Basha
+2024-08-07 18:00:00.337 +05:00 [INF] Sr No. 279 : Urdu - عبدالرمیز, Translation - AbdulRameez
+2024-08-07 18:00:00.938 +05:00 [INF] Sr No. 280 : Urdu - مصصفےٰ, Translation - Mussafa
+2024-08-07 18:00:01.555 +05:00 [INF] Sr No. 281 : Urdu - پیرنما, Translation - Peernuma
+2024-08-07 18:00:02.192 +05:00 [INF] Sr No. 282 : Urdu - بیشا, Translation - Besha
+2024-08-07 18:00:02.820 +05:00 [INF] Sr No. 283 : Urdu - نٿري, Translation - Nathri
+2024-08-07 18:00:03.360 +05:00 [INF] Sr No. 284 : Urdu - ورائي, Translation - Warai
+2024-08-07 18:00:03.966 +05:00 [INF] Sr No. 285 : Urdu - فیاضاً, Translation - Fayazan
+2024-08-07 18:00:04.582 +05:00 [INF] Sr No. 286 : Urdu - سطلانہ, Translation - Sultanah
+2024-08-07 18:00:05.269 +05:00 [INF] Sr No. 287 : Urdu - اوزارہ, Translation - Ozarah
+2024-08-07 18:00:05.903 +05:00 [INF] Sr No. 288 : Urdu - نہور, Translation - Nahoor
+2024-08-07 18:00:06.611 +05:00 [INF] Sr No. 289 : Urdu - راسیلہ, Translation - Rasila
+2024-08-07 18:00:07.257 +05:00 [INF] Sr No. 290 : Urdu - زوالفانیہ, Translation - Zuwalfania
+2024-08-07 18:00:07.898 +05:00 [INF] Sr No. 291 : Urdu - ڌڻجاني, Translation - Dhanjani
+2024-08-07 18:00:08.505 +05:00 [INF] Sr No. 292 : Urdu - لڇم, Translation - Lachhm
+2024-08-07 18:00:09.162 +05:00 [INF] Sr No. 293 : Urdu - خورشہ, Translation - Khursheh
+2024-08-07 18:00:09.812 +05:00 [INF] Sr No. 294 : Urdu - مطقریہ, Translation - Matqaria
+2024-08-07 18:00:10.463 +05:00 [INF] Sr No. 295 : Urdu - کُبراں, Translation - Kubra
+2024-08-07 18:00:11.044 +05:00 [INF] Sr No. 296 : Urdu - اودم, Translation - Audm
+2024-08-07 18:00:11.581 +05:00 [INF] Sr No. 297 : Urdu - ھرحی, Translation - Harhai
+2024-08-07 18:00:12.185 +05:00 [INF] Sr No. 298 : Urdu - تلوالدين, Translation - Talwuddin
+2024-08-07 18:00:12.781 +05:00 [INF] Sr No. 299 : Urdu - مرگھو, Translation - Margho
+2024-08-07 18:00:13.404 +05:00 [INF] Sr No. 300 : Urdu - نانگيو, Translation - Nangyo
+2024-08-07 18:00:13.987 +05:00 [INF] Sr No. 301 : Urdu - نیوینہ, Translation - Niveena
+2024-08-07 18:00:14.599 +05:00 [INF] Sr No. 302 : Urdu - نورنشا, Translation - Nurnasha
+2024-08-07 18:00:15.185 +05:00 [INF] Sr No. 303 : Urdu - مرزیہہ, Translation - Marziyah
+2024-08-07 18:00:15.843 +05:00 [INF] Sr No. 304 : Urdu - لگدھیرو, Translation - Lagdheero
+2024-08-07 18:00:16.577 +05:00 [INF] Sr No. 305 : Urdu - درخانئ, Translation - Darkhani
+2024-08-07 18:00:17.178 +05:00 [INF] Sr No. 306 : Urdu - خورشیدالعت, Translation - Khursheed ul Aat
+2024-08-07 18:00:17.735 +05:00 [INF] Sr No. 307 : Urdu - ننیسی, Translation - Nanisi
+2024-08-07 18:00:18.265 +05:00 [INF] Sr No. 308 : Urdu - سقیت, Translation - Saqit
+2024-08-07 18:00:18.899 +05:00 [INF] Sr No. 309 : Urdu - زرمون, Translation - Zarmun
+2024-08-07 18:00:19.527 +05:00 [INF] Sr No. 310 : Urdu - شیرول, Translation - Sherol
+2024-08-07 18:00:20.072 +05:00 [INF] Sr No. 311 : Urdu - شاهجهان, Translation - Shahjahan
+2024-08-07 18:00:20.894 +05:00 [INF] Sr No. 312 : Urdu - گلشیرنواز, Translation - GulSherNawaz
+2024-08-07 18:00:21.514 +05:00 [INF] Sr No. 313 : Urdu - بهارعلی, Translation - BaharAli
+2024-08-07 18:00:22.263 +05:00 [INF] Sr No. 314 : Urdu - معاذسرور, Translation - MuazSarwar
+2024-08-07 18:00:22.859 +05:00 [INF] Sr No. 315 : Urdu - مجاہددین, Translation - Mujahideen
+2024-08-07 18:00:23.510 +05:00 [INF] Sr No. 316 : Urdu - صفدرسلیم, Translation - SafdarSaleem
+2024-08-07 18:00:24.125 +05:00 [INF] Sr No. 317 : Urdu - روٴوف, Translation - Rauf
+2024-08-07 18:00:24.714 +05:00 [INF] Sr No. 318 : Urdu - عبدالروٴوف, Translation - AbdulRauf
+2024-08-07 18:00:25.341 +05:00 [INF] Sr No. 319 : Urdu - نارنجن, Translation - Naranjan
+2024-08-07 18:00:25.971 +05:00 [INF] Sr No. 320 : Urdu - حمنٰی, Translation - Hamna
+2024-08-07 18:00:26.655 +05:00 [INF] Sr No. 321 : Urdu - فہدجاویداقبال, Translation - FahadJavedIqbal
+2024-08-07 18:00:27.341 +05:00 [INF] Sr No. 322 : Urdu - سردارمحمدافتخار, Translation - SardarMuhammadIftikhar
+2024-08-07 18:00:28.133 +05:00 [INF] Sr No. 323 : Urdu - لوهار, Translation - Lohar
+2024-08-07 18:00:28.761 +05:00 [INF] Sr No. 324 : Urdu - ملحیہ, Translation - Maliha
+2024-08-07 18:00:29.366 +05:00 [INF] Sr No. 325 : Urdu - حیدرثاقب, Translation - HaiderSaqib
+2024-08-07 18:00:29.986 +05:00 [INF] Sr No. 326 : Urdu - احمرآفاق, Translation - AhmerAfaq
+2024-08-07 18:00:30.685 +05:00 [INF] Sr No. 327 : Urdu - اوتمانخیل, Translation - Otmankhel
+2024-08-07 18:00:31.336 +05:00 [INF] Sr No. 328 : Urdu - آنزلہ, Translation - Anzala
+2024-08-07 18:00:31.909 +05:00 [INF] Sr No. 329 : Urdu - زاہیم, Translation - Zaheem
+2024-08-07 18:00:32.471 +05:00 [INF] Sr No. 330 : Urdu - نیازدار, Translation - Niyazdar
+2024-08-07 18:00:33.215 +05:00 [INF] Sr No. 331 : Urdu - شادہلال, Translation - Shadhalal
+2024-08-07 18:00:33.821 +05:00 [INF] Sr No. 332 : Urdu - لوڪيش, Translation - Lokesha
+2024-08-07 18:00:34.543 +05:00 [INF] Sr No. 333 : Urdu - شهریارخسرو, Translation - ShehryarKhusro
+2024-08-07 18:00:35.148 +05:00 [INF] Sr No. 334 : Urdu - گوہرخاتون, Translation - GoharKhatoon
+2024-08-07 18:00:36.176 +05:00 [INF] Sr No. 335 : Urdu - مشاہدحسین, Translation - MushahidHussain
+2024-08-07 18:00:36.771 +05:00 [INF] Sr No. 336 : Urdu - اظہاراللہ, Translation - Izharullah
+2024-08-07 18:00:37.383 +05:00 [INF] Sr No. 337 : Urdu - تحسيم, Translation - Tahseem
+2024-08-07 18:00:37.953 +05:00 [INF] Sr No. 338 : Urdu - مرزاشیرازبیگ, Translation - MirzaShirazBaig
+2024-08-07 18:00:38.543 +05:00 [INF] Sr No. 339 : Urdu - صائمی, Translation - Saima
+2024-08-07 18:00:39.187 +05:00 [INF] Sr No. 340 : Urdu - امبراخلاق, Translation - AmbarAkhlaq
+2024-08-07 18:00:39.754 +05:00 [INF] Sr No. 341 : Urdu - زروقہ, Translation - Zarqa
+2024-08-07 18:00:40.427 +05:00 [INF] Sr No. 342 : Urdu - اُنیس, Translation - Unis
+2024-08-07 18:00:41.129 +05:00 [INF] Sr No. 343 : Urdu - حماداحسان, Translation - HammadAhsan
+2024-08-07 18:00:41.999 +05:00 [INF] Sr No. 344 : Urdu - زرلیش, Translation - Zarlish
+2024-08-07 18:00:42.713 +05:00 [INF] Sr No. 345 : Urdu - نادرشیراز, Translation - Nadershiraz
+2024-08-07 18:00:43.439 +05:00 [INF] Sr No. 346 : Urdu - فہدحسنین, Translation - FahadHasnain
+2024-08-07 18:00:44.079 +05:00 [INF] Sr No. 347 : Urdu - زنیراحمد, Translation - ZunairAhmed
+2024-08-07 18:00:44.715 +05:00 [INF] Sr No. 348 : Urdu - عبدالرزّاق, Translation - AbdulRazzaq
+2024-08-07 18:00:45.354 +05:00 [INF] Sr No. 349 : Urdu - انثیٰ, Translation - Ansa
+2024-08-07 18:00:45.971 +05:00 [INF] Sr No. 350 : Urdu - رضازئور, Translation - RazaZaur
+2024-08-07 18:00:46.530 +05:00 [INF] Sr No. 351 : Urdu - ثنعیہ, Translation - Sania
+2024-08-07 18:00:47.105 +05:00 [INF] Sr No. 352 : Urdu - ماڙواڙي, Translation - Marwari
+2024-08-07 18:00:47.849 +05:00 [INF] Sr No. 353 : Urdu - شیرکت, Translation - Sherkat
+2024-08-07 18:00:48.569 +05:00 [INF] Sr No. 354 : Urdu - بیروزنور, Translation - Beroznor
+2024-08-07 18:00:49.174 +05:00 [INF] Sr No. 355 : Urdu - فلس, Translation - Falas
+2024-08-07 18:00:49.772 +05:00 [INF] Sr No. 356 : Urdu - تیکو, Translation - Teeku
+2024-08-07 18:00:50.378 +05:00 [INF] Sr No. 357 : Urdu - نیہاں, Translation - Nihan
+2024-08-07 18:00:51.027 +05:00 [INF] Sr No. 358 : Urdu - لقدیم, Translation - Luqadeem
+2024-08-07 18:00:51.681 +05:00 [INF] Sr No. 359 : Urdu - منظرنصیر, Translation - ManzarNasir
+2024-08-07 18:00:52.222 +05:00 [INF] Sr No. 360 : Urdu - فامر, Translation - Famar
+2024-08-07 18:00:52.798 +05:00 [INF] Sr No. 361 : Urdu - سیلال, Translation - Seelal
+2024-08-07 18:00:53.390 +05:00 [INF] Sr No. 362 : Urdu - سدھوزئی, Translation - Sudhozai
+2024-08-07 18:00:53.993 +05:00 [INF] Sr No. 363 : Urdu - قضل, Translation - Qazal
+2024-08-07 18:00:54.617 +05:00 [INF] Sr No. 364 : Urdu - ذشمہ, Translation - Zashma
+2024-08-07 18:00:55.255 +05:00 [INF] Sr No. 365 : Urdu - لبابہ, Translation - Lubaba
+2024-08-07 18:00:55.979 +05:00 [INF] Sr No. 366 : Urdu - سرورالملک, Translation - Sarwar ul Mulk
+2024-08-07 18:00:56.550 +05:00 [INF] Sr No. 367 : Urdu - چرکلہ, Translation - Charkala
+2024-08-07 18:00:57.197 +05:00 [INF] Sr No. 368 : Urdu - عنبرعلی, Translation - AnbarAli
+2024-08-07 18:00:57.888 +05:00 [INF] Sr No. 369 : Urdu - پانزئی, Translation - Panzai
+2024-08-07 18:00:58.481 +05:00 [INF] Sr No. 370 : Urdu - عزاز, Translation - Azaaz
+2024-08-07 18:00:59.024 +05:00 [INF] Sr No. 371 : Urdu - کھیٹپال, Translation - Khetpal
+2024-08-07 18:00:59.975 +05:00 [INF] Sr No. 372 : Urdu - حذافہ, Translation - Hazafa
+2024-08-07 18:01:00.586 +05:00 [INF] Sr No. 373 : Urdu - وجهیه, Translation - Wajihah
+2024-08-07 18:01:01.301 +05:00 [INF] Sr No. 374 : Urdu - ملائیکہ, Translation - Malaika
+2024-08-07 18:01:01.948 +05:00 [INF] Sr No. 375 : Urdu - گلچند, Translation - Gulchand
+2024-08-07 18:01:02.529 +05:00 [INF] Sr No. 376 : Urdu - انتھنیی, Translation - Anthony
+2024-08-07 18:01:03.112 +05:00 [INF] Sr No. 377 : Urdu - میعز, Translation - Miaz
+2024-08-07 18:01:03.670 +05:00 [INF] Sr No. 378 : Urdu - پیرتحسین, Translation - PeerTahseen
+2024-08-07 18:01:04.323 +05:00 [INF] Sr No. 379 : Urdu - ٰسہیل, Translation - Suhail
+2024-08-07 18:01:05.013 +05:00 [INF] Sr No. 380 : Urdu - واجدارشادخان, Translation - WajdarIrshadKhan
+2024-08-07 18:01:05.671 +05:00 [INF] Sr No. 381 : Urdu - نثاراحمدچوہدری, Translation - NisarAhmadChaudhry
+2024-08-07 18:01:06.240 +05:00 [INF] Sr No. 382 : Urdu - چاؤله, Translation - Chawla
+2024-08-07 18:01:06.822 +05:00 [INF] Sr No. 383 : Urdu - مفازہ, Translation - Mafaza
+2024-08-07 18:01:07.829 +05:00 [INF] Sr No. 384 : Urdu - آسیہ, Translation - Asiya
+2024-08-07 18:01:08.518 +05:00 [INF] Sr No. 385 : Urdu - ایڈرین, Translation - Adrian
+2024-08-07 18:01:09.132 +05:00 [INF] Sr No. 386 : Urdu - نوعیل, Translation - Nauil
+2024-08-07 18:01:09.917 +05:00 [INF] Sr No. 387 : Urdu - شازں, Translation - Shazan
+2024-08-07 18:01:10.727 +05:00 [INF] Sr No. 388 : Urdu - رفالق, Translation - Rafalaq
+2024-08-07 18:01:11.389 +05:00 [INF] Sr No. 389 : Urdu - نورتازہ, Translation - Nurtaza
+2024-08-07 18:01:11.973 +05:00 [INF] Sr No. 390 : Urdu - منیراحمدناز, Translation - MunirAhmadNaz
+2024-08-07 18:01:12.703 +05:00 [INF] Sr No. 391 : Urdu - شہلاگل, Translation - ShehlaGul
+2024-08-07 18:01:13.346 +05:00 [INF] Sr No. 392 : Urdu - مرشاد, Translation - Murshad
+2024-08-07 18:01:13.962 +05:00 [INF] Sr No. 393 : Urdu - عرشیا, Translation - Arshia
+2024-08-07 18:01:14.642 +05:00 [INF] Sr No. 394 : Urdu - رویداں, Translation - Ruidan
+2024-08-07 18:01:15.253 +05:00 [INF] Sr No. 395 : Urdu - مصطفےٰٖ, Translation - Mustafa
+2024-08-07 18:01:15.860 +05:00 [INF] Sr No. 396 : Urdu - عمارحفیظ, Translation - AmmarHafeez
+2024-08-07 18:01:16.412 +05:00 [INF] Sr No. 397 : Urdu - صفنات, Translation - Safnat
+2024-08-07 18:01:17.133 +05:00 [INF] Sr No. 398 : Urdu - سردارحمزہ, Translation - SardarHamza
+2024-08-07 18:01:17.788 +05:00 [INF] Sr No. 399 : Urdu - بابرخلیل, Translation - BabarKhalil
+2024-08-07 18:01:18.380 +05:00 [INF] Sr No. 400 : Urdu - صابررحمن, Translation - SabirRehman
+2024-08-07 18:01:19.150 +05:00 [INF] Sr No. 401 : Urdu - منظار, Translation - Manzar
+2024-08-07 18:01:19.709 +05:00 [INF] Sr No. 402 : Urdu - ھدیر, Translation - Hadeer
+2024-08-07 18:01:20.530 +05:00 [INF] Sr No. 403 : Urdu - قمردستگیر, Translation - QamarDastgir
+2024-08-07 18:01:21.183 +05:00 [INF] Sr No. 404 : Urdu - سجادالرحمنٰ, Translation - Sajadalrehman
+2024-08-07 18:01:21.883 +05:00 [INF] Sr No. 405 : Urdu - گوہرافتخار, Translation - GoharIftikhar
+2024-08-07 18:01:22.540 +05:00 [INF] Sr No. 406 : Urdu - عفراز, Translation - Afraz
+2024-08-07 18:01:23.166 +05:00 [INF] Sr No. 407 : Urdu - مافاں, Translation - Mafan
+2024-08-07 18:01:23.753 +05:00 [INF] Sr No. 408 : Urdu - عزیرملک, Translation - UzairMalik
+2024-08-07 18:01:24.340 +05:00 [INF] Sr No. 409 : Urdu - ماجدہمایون, Translation - MajidHumayun
+2024-08-07 18:01:25.005 +05:00 [INF] Sr No. 410 : Urdu - ارشدسید, Translation - ArshadSyed
+2024-08-07 18:01:25.555 +05:00 [INF] Sr No. 411 : Urdu - انیت, Translation - Anit
+2024-08-07 18:01:26.138 +05:00 [INF] Sr No. 412 : Urdu - شماریہ, Translation - Shumariya
+2024-08-07 18:01:26.871 +05:00 [INF] Sr No. 413 : Urdu - ثمرنذیر, Translation - Samranazeer
+2024-08-07 18:01:27.509 +05:00 [INF] Sr No. 414 : Urdu - ھميش, Translation - Hamesh
+2024-08-07 18:01:28.111 +05:00 [INF] Sr No. 415 : Urdu - رانامحمدتسلیم, Translation - RanaMuhammadTasleem
+2024-08-07 18:01:28.777 +05:00 [INF] Sr No. 416 : Urdu - ٰذوالفقار, Translation - Zulfiqar
+2024-08-07 18:01:29.394 +05:00 [INF] Sr No. 417 : Urdu - رفاسیت, Translation - Rafasiyat
+2024-08-07 18:01:30.039 +05:00 [INF] Sr No. 418 : Urdu - راخد, Translation - Rakhad
+2024-08-07 18:01:30.691 +05:00 [INF] Sr No. 419 : Urdu - آمیقہ, Translation - Amiqa
+2024-08-07 18:01:31.316 +05:00 [INF] Sr No. 420 : Urdu - احتسام, Translation - Ahtasam
+2024-08-07 18:01:32.013 +05:00 [INF] Sr No. 421 : Urdu - جمشیدالرحمان, Translation - Jamshed ur Rehman
+2024-08-07 18:01:32.710 +05:00 [INF] Sr No. 422 : Urdu - وقاررؤف, Translation - Waqarruf
+2024-08-07 18:01:33.373 +05:00 [INF] Sr No. 423 : Urdu - مدثرسعیدانور, Translation - MuddasirSaeedAnwar
+2024-08-07 18:01:33.954 +05:00 [INF] Sr No. 424 : Urdu - اخترچٹھہ, Translation - AkhterChattha
+2024-08-07 18:01:34.531 +05:00 [INF] Sr No. 425 : Urdu - تیموردانش, Translation - TaimurDanish
+2024-08-07 18:01:35.207 +05:00 [INF] Sr No. 426 : Urdu - ارشدممتازخان, Translation - ArshadMumtazKhan
+2024-08-07 18:01:35.841 +05:00 [INF] Sr No. 427 : Urdu - شیرازالحق, Translation - ShirazulHaq
+2024-08-07 18:01:36.383 +05:00 [INF] Sr No. 428 : Urdu - یونسی, Translation - Younasi
+2024-08-07 18:01:36.978 +05:00 [INF] Sr No. 429 : Urdu - فزاداللہ, Translation - Fazadullah
+2024-08-07 18:01:37.614 +05:00 [INF] Sr No. 430 : Urdu - جوادالحسنین, Translation - Jawadalhasnain
+2024-08-07 18:01:38.237 +05:00 [INF] Sr No. 431 : Urdu - ذاکرمرزا, Translation - ZakirMirza
+2024-08-07 18:01:39.266 +05:00 [INF] Sr No. 432 : Urdu - طاہره, Translation - Tahira
+2024-08-07 18:01:39.911 +05:00 [INF] Sr No. 433 : Urdu - حدیب, Translation - Hudaib
+2024-08-07 18:01:40.572 +05:00 [INF] Sr No. 434 : Urdu - اظہرشاہین, Translation - AzharShaheen
+2024-08-07 18:01:41.215 +05:00 [INF] Sr No. 435 : Urdu - ضاد, Translation - Zad
+2024-08-07 18:01:41.871 +05:00 [INF] Sr No. 436 : Urdu - شہبازشفیق, Translation - ShehbazShafiq
+2024-08-07 18:01:42.613 +05:00 [INF] Sr No. 437 : Urdu - تیمورالرحمٰن, Translation - Taimural Rahman
+2024-08-07 18:01:43.216 +05:00 [INF] Sr No. 438 : Urdu - رانانواب, Translation - RanaNawab
+2024-08-07 18:01:43.811 +05:00 [INF] Sr No. 439 : Urdu - عمیرستار, Translation - UmairSattar
+2024-08-07 18:01:44.385 +05:00 [INF] Sr No. 440 : Urdu - الناظر, Translation - Al Nazir
+2024-08-07 18:01:44.956 +05:00 [INF] Sr No. 441 : Urdu - آصد, Translation - Asad
+2024-08-07 18:01:45.633 +05:00 [INF] Sr No. 442 : Urdu - عبدالساجدخان, Translation - AbdulSajadKhan
+2024-08-07 18:01:46.195 +05:00 [INF] Sr No. 443 : Urdu - کٴپل, Translation - Kupl
+2024-08-07 18:01:46.837 +05:00 [INF] Sr No. 444 : Urdu - نوربات, Translation - Noorbat
+2024-08-07 18:01:47.523 +05:00 [INF] Sr No. 445 : Urdu - اظهارشکیل, Translation - IzharShakeel
+2024-08-07 18:01:48.388 +05:00 [INF] Sr No. 446 : Urdu - نظِر, Translation - Nazar
+2024-08-07 18:01:48.991 +05:00 [INF] Sr No. 447 : Urdu - عامراکرام, Translation - AamirAkram
+2024-08-07 18:01:49.691 +05:00 [INF] Sr No. 448 : Urdu - مگولین, Translation - Mugolin
+2024-08-07 18:01:50.277 +05:00 [INF] Sr No. 449 : Urdu - مدثّر, Translation - Mudassir
+2024-08-07 18:01:50.828 +05:00 [INF] Sr No. 450 : Urdu - تہمیر, Translation - Tahmeer
+2024-08-07 18:01:51.506 +05:00 [INF] Sr No. 451 : Urdu - تُوصیف, Translation - Tauseef
+2024-08-07 18:01:52.225 +05:00 [INF] Sr No. 452 : Urdu - ارشادمنیر, Translation - IrshadMunir
+2024-08-07 18:01:52.900 +05:00 [INF] Sr No. 453 : Urdu - میاںسیدحبیب, Translation - MianSyedHabib
+2024-08-07 18:01:53.469 +05:00 [INF] Sr No. 454 : Urdu - محمّداسدالله, Translation - MuhammadAsadullah
+2024-08-07 18:01:54.056 +05:00 [INF] Sr No. 455 : Urdu - سکیرہ, Translation - Sakeera
+2024-08-07 18:01:54.623 +05:00 [INF] Sr No. 456 : Urdu - اعجازباجوہ, Translation - IjazBajwa
+2024-08-07 18:01:55.330 +05:00 [INF] Sr No. 457 : Urdu - ردائے, Translation - Rida e
+2024-08-07 18:01:55.894 +05:00 [INF] Sr No. 458 : Urdu - اریحہ, Translation - Areeha
+2024-08-07 18:01:56.506 +05:00 [INF] Sr No. 459 : Urdu - روفا, Translation - Rufa
+2024-08-07 18:01:57.131 +05:00 [INF] Sr No. 460 : Urdu - شہبازیونس, Translation - ShehbazYounas
+2024-08-07 18:01:57.773 +05:00 [INF] Sr No. 461 : Urdu - شبیرراضی, Translation - ShabbirRazi
+2024-08-07 18:01:58.370 +05:00 [INF] Sr No. 462 : Urdu - فخرلاسلام, Translation - FakhrulIslam
+2024-08-07 18:01:58.956 +05:00 [INF] Sr No. 463 : Urdu - فرحہ, Translation - Farah
+2024-08-07 18:01:59.610 +05:00 [INF] Sr No. 464 : Urdu - آفسرالدین, Translation - Afsaruddin
+2024-08-07 18:02:00.721 +05:00 [INF] Sr No. 465 : Urdu - زاہدرؤف, Translation - ZahidRauf
+2024-08-07 18:02:01.378 +05:00 [INF] Sr No. 466 : Urdu - سیدمحمدشہبازعلی, Translation - SyedMuhammadShahbazAli
+2024-08-07 18:02:02.006 +05:00 [INF] Sr No. 467 : Urdu - موئد, Translation - Moaid
+2024-08-07 18:02:02.645 +05:00 [INF] Sr No. 468 : Urdu - عمراحسان, Translation - UmrAhsan
+2024-08-07 18:02:03.219 +05:00 [INF] Sr No. 469 : Urdu - طهور, Translation - Tahoor
+2024-08-07 18:02:03.790 +05:00 [INF] Sr No. 470 : Urdu - نذراسلام, Translation - NazarIslam
+2024-08-07 18:02:04.463 +05:00 [INF] Sr No. 471 : Urdu - ذوالدین, Translation - Zuldeen
+2024-08-07 18:02:05.119 +05:00 [INF] Sr No. 472 : Urdu - اقراءمشتاق, Translation - IqraMushtaq
+2024-08-07 18:02:05.792 +05:00 [INF] Sr No. 473 : Urdu - اسفندیارعلی, Translation - AsfandyarAli
+2024-08-07 18:02:06.357 +05:00 [INF] Sr No. 474 : Urdu - مرزکہ, Translation - Marzaka
+2024-08-07 18:02:07.062 +05:00 [INF] Sr No. 475 : Urdu - اطہرمنیر, Translation - AtharMunir
+2024-08-07 18:02:07.624 +05:00 [INF] Sr No. 476 : Urdu - تاشک, Translation - Tashk
+2024-08-07 18:02:08.276 +05:00 [INF] Sr No. 477 : Urdu - نیرسلطان, Translation - Nursultan
+2024-08-07 18:02:08.943 +05:00 [INF] Sr No. 478 : Urdu - احمدواہلہ, Translation - AhmadWahla
+2024-08-07 18:02:09.587 +05:00 [INF] Sr No. 479 : Urdu - چھجھڑو, Translation - Chhachhro
+2024-08-07 18:02:10.165 +05:00 [INF] Sr No. 480 : Urdu - سیداکبرریاض, Translation - SyedAkbarRiaz
+2024-08-07 18:02:10.815 +05:00 [INF] Sr No. 481 : Urdu - محمدیزدان, Translation - Muhammadyazdan
+2024-08-07 18:02:11.387 +05:00 [INF] Sr No. 482 : Urdu - سعدجهاں, Translation - SaadJahan
+2024-08-07 18:02:12.044 +05:00 [INF] Sr No. 483 : Urdu - شہیراحمد, Translation - ShaheerAhmed
+2024-08-07 18:02:12.635 +05:00 [INF] Sr No. 484 : Urdu - سکندرتنویر, Translation - SikandarTanveer
+2024-08-07 18:02:13.376 +05:00 [INF] Sr No. 485 : Urdu - سیدبابرصغیر, Translation - SyedBabarSaghir
+2024-08-07 18:02:14.032 +05:00 [INF] Sr No. 486 : Urdu - معیزاحمد, Translation - MuizAhmed
+2024-08-07 18:02:14.738 +05:00 [INF] Sr No. 487 : Urdu - ظفرناہید, Translation - ZafarNaheed
+2024-08-07 18:02:15.392 +05:00 [INF] Sr No. 488 : Urdu - نازوالله, Translation - Nazullah
+2024-08-07 18:02:16.062 +05:00 [INF] Sr No. 489 : Urdu - شرالینہ, Translation - Sharalina
+2024-08-07 18:02:16.644 +05:00 [INF] Sr No. 490 : Urdu - عمارجاوید, Translation - AmarJaved
+2024-08-07 18:02:17.197 +05:00 [INF] Sr No. 491 : Urdu - انل, Translation - Anil
+2024-08-07 18:02:17.752 +05:00 [INF] Sr No. 492 : Urdu - صبرمینہ, Translation - Sabrmina
+2024-08-07 18:02:18.310 +05:00 [INF] Sr No. 493 : Urdu - عمرملک, Translation - UmarMalik
+2024-08-07 18:02:18.986 +05:00 [INF] Sr No. 494 : Urdu - میاںطارق, Translation - MianTariq
+2024-08-07 18:02:19.673 +05:00 [INF] Sr No. 495 : Urdu - اسرارآحمد, Translation - AsrarAhmed
+2024-08-07 18:02:20.278 +05:00 [INF] Sr No. 496 : Urdu - غرض, Translation - Gharaz
+2024-08-07 18:02:20.874 +05:00 [INF] Sr No. 497 : Urdu - قادردل, Translation - Qadardil
+2024-08-07 18:02:21.457 +05:00 [INF] Sr No. 498 : Urdu - انوشیہ, Translation - Anoshay
+2024-08-07 18:02:22.320 +05:00 [INF] Sr No. 499 : Urdu - بونجي, Translation - Bunji
+2024-08-07 18:19:07.590 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 18:19:07.598 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 18:19:07.599 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 18:19:07.609 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 18:19:07.613 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 11.098ms
+2024-08-07 18:19:07.614 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 18:19:07.619 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 29.2846ms
+2024-08-07 18:19:13.728 +05:00 [INF] Sr No. 0 : Urdu - قدیرعمران, Translation - Qadeer Imran
+2024-08-07 18:19:14.422 +05:00 [INF] Sr No. 1 : Urdu - زحرف, Translation - Zahrf
+2024-08-07 18:19:15.159 +05:00 [INF] Sr No. 2 : Urdu - جيتمالسنگھ, Translation - Jeetmal Singh
+2024-08-07 18:19:15.878 +05:00 [INF] Sr No. 3 : Urdu - فرازمشتاق, Translation - Faraz Mushtaq
+2024-08-07 18:19:16.642 +05:00 [INF] Sr No. 4 : Urdu - عبدالواصب, Translation - Abdul Wasib
+2024-08-07 18:19:17.445 +05:00 [INF] Sr No. 5 : Urdu - معسوداحمدشاہ, Translation - Masood Ahmed Shah
+2024-08-07 18:19:18.222 +05:00 [INF] Sr No. 6 : Urdu - حریب, Translation - Hareeb
+2024-08-07 18:19:18.872 +05:00 [INF] Sr No. 7 : Urdu - رویق, Translation - Ruwaik
+2024-08-07 18:19:19.618 +05:00 [INF] Sr No. 8 : Urdu - مھيني, Translation - Mahini
+2024-08-07 18:19:20.223 +05:00 [INF] Sr No. 9 : Urdu - اریض, Translation - Ariz
+2024-08-07 18:19:20.988 +05:00 [INF] Sr No. 10 : Urdu - سہاگہ, Translation - Sohaga
+2024-08-07 18:19:21.639 +05:00 [INF] Sr No. 11 : Urdu - ہزنہ, Translation - Hazna
+2024-08-07 18:19:22.325 +05:00 [INF] Sr No. 12 : Urdu - بھروان, Translation - Bharwan
+2024-08-07 18:19:22.984 +05:00 [INF] Sr No. 13 : Urdu - ندارد, Translation - Nadard
+2024-08-07 18:19:23.799 +05:00 [INF] Sr No. 14 : Urdu - شيرمحمدتنگھياني, Translation - Sher Muhammad Tanghiyani
+2024-08-07 18:19:24.618 +05:00 [INF] Sr No. 15 : Urdu - مشحره, Translation - Musharrah
+2024-08-07 18:19:25.283 +05:00 [INF] Sr No. 16 : Urdu - محبوبً, Translation - Mahboob
+2024-08-07 18:19:26.020 +05:00 [INF] Sr No. 17 : Urdu - کوثررضوان, Translation - Kausar Rizwan
+2024-08-07 18:19:26.775 +05:00 [INF] Sr No. 18 : Urdu - صوبانہ, Translation - Sobana
+2024-08-07 18:19:27.456 +05:00 [INF] Sr No. 19 : Urdu - سعدسلیمان, Translation - Saad Suleman
+2024-08-07 18:19:28.233 +05:00 [INF] Sr No. 20 : Urdu - شسفیق, Translation - Shafiq
+2024-08-07 18:19:28.825 +05:00 [INF] Sr No. 21 : Urdu - الزیات, Translation - Al Zayyat
+2024-08-07 18:19:29.515 +05:00 [INF] Sr No. 22 : Urdu - بائٹہ, Translation - Baita
+2024-08-07 18:19:30.530 +05:00 [INF] Sr No. 23 : Urdu - عبدالکافع, Translation - Abdul Kafi
+2024-08-07 18:19:31.365 +05:00 [INF] Sr No. 24 : Urdu - میرچاکررند, Translation - Mir Chakar Rind
+2024-08-07 18:19:32.164 +05:00 [INF] Sr No. 25 : Urdu - شیخائے, Translation - Shaikhay
+2024-08-07 18:19:32.865 +05:00 [INF] Sr No. 26 : Urdu - حِسینہ, Translation - Husaina
+2024-08-07 18:19:33.549 +05:00 [INF] Sr No. 27 : Urdu - الرفیقی, Translation - Al Rafiqi
+2024-08-07 18:19:34.218 +05:00 [INF] Sr No. 28 : Urdu - ڈیگما, Translation - Deigma
+2024-08-07 18:19:34.926 +05:00 [INF] Sr No. 29 : Urdu - ضامیرشاہ, Translation - Zameer Shah
+2024-08-07 18:19:35.668 +05:00 [INF] Sr No. 30 : Urdu - سکھیوجوکھیو, Translation - Sakhiyojokhiyo
+2024-08-07 18:19:36.372 +05:00 [INF] Sr No. 31 : Urdu - فخترعلی, Translation - Fakhtar Ali
+2024-08-07 18:19:37.073 +05:00 [INF] Sr No. 32 : Urdu - قمے, Translation - Qame
+2024-08-07 18:19:37.792 +05:00 [INF] Sr No. 33 : Urdu - پتلے, Translation - Patlay
+2024-08-07 18:19:38.690 +05:00 [INF] Sr No. 34 : Urdu - کھنانی, Translation - Khanani
+2024-08-07 18:23:55.179 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/api/Consumer - null null
+2024-08-07 18:23:55.183 +05:00 [INF] Executing endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 18:23:55.185 +05:00 [INF] Route matched with {action = "Get", controller = "Consumer"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller ChatGPT_Consumer_Api.Controllers.ConsumerController (ChatGPT_Consumer_Api).
+2024-08-07 18:23:55.196 +05:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-08-07 18:23:55.199 +05:00 [INF] Executed action ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api) in 10.7059ms
+2024-08-07 18:23:55.201 +05:00 [INF] Executed endpoint 'ChatGPT_Consumer_Api.Controllers.ConsumerController.Get (ChatGPT_Consumer_Api)'
+2024-08-07 18:23:55.205 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/api/Consumer - 200 0 null 25.365ms
+2024-08-07 18:23:56.026 +05:00 [INF] Sr No. 0 : Urdu - ھمزولاکو, Translation - Hamzolako
+2024-08-07 18:23:56.793 +05:00 [INF] Sr No. 1 : Urdu - اعجازحیدری, Translation - Ijaz Haidari
+2024-08-07 18:23:57.552 +05:00 [INF] Sr No. 2 : Urdu - زوہراہ, Translation - Zohra
+2024-08-07 18:23:58.332 +05:00 [INF] Sr No. 3 : Urdu - جلفي, Translation - Jalfi
+2024-08-07 18:23:58.908 +05:00 [INF] Sr No. 4 : Urdu - مینساں, Translation - Minsaan
+2024-08-07 18:23:59.603 +05:00 [INF] Sr No. 5 : Urdu - سیفورئی, Translation - Saifurai
+2024-08-07 18:24:00.287 +05:00 [INF] Sr No. 6 : Urdu - ڀرانواں, Translation - Bharanwan
+2024-08-07 18:24:01.161 +05:00 [INF] Sr No. 7 : Urdu - عذرارندبلوچ, Translation - Uzra Randh Baloch
+2024-08-07 18:24:01.869 +05:00 [INF] Sr No. 8 : Urdu - حادثہ, Translation - Haadsa
+2024-08-07 18:24:02.509 +05:00 [INF] Sr No. 9 : Urdu - خریزم, Translation - Khareezam
+2024-08-07 18:24:03.293 +05:00 [INF] Sr No. 10 : Urdu - طاہرہمایون, Translation - Taher Humayun
+2024-08-07 18:24:03.975 +05:00 [INF] Sr No. 11 : Urdu - مامتی, Translation - Mamti
+2024-08-07 18:24:04.650 +05:00 [INF] Sr No. 12 : Urdu - آشرفی, Translation - Ashrafi
+2024-08-07 18:24:05.289 +05:00 [INF] Sr No. 13 : Urdu - شلمندہ, Translation - Sharminda
+2024-08-07 18:24:06.004 +05:00 [INF] Sr No. 14 : Urdu - مڻھل, Translation - Manhal
+2024-08-07 18:24:06.739 +05:00 [INF] Sr No. 15 : Urdu - مہرفوزون, Translation - Mehrfuzun
+2024-08-07 18:24:07.413 +05:00 [INF] Sr No. 16 : Urdu - شنیج, Translation - Shanij
+2024-08-07 18:24:08.542 +05:00 [INF] Sr No. 17 : Urdu - توسیاء, Translation - Tosia
+2024-08-07 18:24:09.228 +05:00 [INF] Sr No. 18 : Urdu - روحیات, Translation - Ruhiyat
+2024-08-07 18:24:09.916 +05:00 [INF] Sr No. 19 : Urdu - پسادہ, Translation - Pasada
+2024-08-07 18:24:10.556 +05:00 [INF] Sr No. 20 : Urdu - شفيڪاں, Translation - Shafiqan
+2024-08-07 18:24:11.788 +05:00 [INF] Sr No. 21 : Urdu - ھنرہ, Translation - Hunrah
+2024-08-07 18:24:12.475 +05:00 [INF] Sr No. 22 : Urdu - سبايا, Translation - Sabaya
+2024-08-07 18:24:13.112 +05:00 [INF] Sr No. 23 : Urdu - اوڍاڻي, Translation - Odhani
+2024-08-07 18:24:13.879 +05:00 [INF] Sr No. 24 : Urdu - کرشیو, Translation - Kureshio
+2024-08-07 18:24:15.183 +05:00 [INF] Sr No. 25 : Urdu - بھگرو, Translation - Bhagroo
+2024-08-07 18:24:16.083 +05:00 [INF] Sr No. 26 : Urdu - صوڀومل, Translation - Sobhomal
+2024-08-07 18:24:16.797 +05:00 [INF] Sr No. 27 : Urdu - عازیب, Translation - Aazib
+2024-08-07 18:24:17.426 +05:00 [INF] Sr No. 28 : Urdu - شھداب, Translation - Shehdab
+2024-08-07 18:24:18.002 +05:00 [INF] Sr No. 29 : Urdu - ماچھانی, Translation - Machani
+2024-08-07 18:24:18.840 +05:00 [INF] Sr No. 30 : Urdu - راجيشڏان, Translation - Rajeshdan
+2024-08-07 18:24:19.465 +05:00 [INF] Sr No. 31 : Urdu - دؤری, Translation - Dauri
+2024-08-07 18:24:20.093 +05:00 [INF] Sr No. 32 : Urdu - ہوماں, Translation - Hooman
+2024-08-07 18:24:20.749 +05:00 [INF] Sr No. 33 : Urdu - جگالو, Translation - Jagalo
+2024-08-07 18:24:21.452 +05:00 [INF] Sr No. 34 : Urdu - ہاجراںمائی, Translation - Hajran Mai
+2024-08-07 18:24:22.361 +05:00 [INF] Sr No. 35 : Urdu - صفدروڑائچ, Translation - Safdar Warraich
+2024-08-07 18:24:23.084 +05:00 [INF] Sr No. 36 : Urdu - چانداویس, Translation - Chandavis
+2024-08-07 18:24:23.776 +05:00 [INF] Sr No. 37 : Urdu - زادری, Translation - Zadari
+2024-08-07 18:24:24.505 +05:00 [INF] Sr No. 38 : Urdu - نورجے, Translation - Noor Jahan
+2024-08-07 18:24:25.357 +05:00 [INF] Sr No. 39 : Urdu - مرضغیہ, Translation - Marziya
+2024-08-07 18:24:25.987 +05:00 [INF] Sr No. 40 : Urdu - روکیه, Translation - Rukayya
+2024-08-07 18:24:26.629 +05:00 [INF] Sr No. 41 : Urdu - سودیرخان, Translation - Sudir Khan
+2024-08-07 18:24:27.345 +05:00 [INF] Sr No. 42 : Urdu - پشتیانی, Translation - Pashtiani
+2024-08-07 18:24:28.019 +05:00 [INF] Sr No. 43 : Urdu - زرمید, Translation - Zarmeed
+2024-08-07 18:24:28.824 +05:00 [INF] Sr No. 44 : Urdu - ارزعلی, Translation - Arz Ali
+2024-08-07 18:24:29.490 +05:00 [INF] Sr No. 45 : Urdu - مانوکھ, Translation - Manokh
+2024-08-07 18:24:30.430 +05:00 [INF] Sr No. 46 : Urdu - زپیرہ, Translation - Zapeera
+2024-08-07 18:24:31.121 +05:00 [INF] Sr No. 47 : Urdu - هزیل, Translation - Hazil
+2024-08-07 18:24:31.696 +05:00 [INF] Sr No. 48 : Urdu - اڻسوي, Translation - Ansui
+2024-08-07 18:24:32.456 +05:00 [INF] Sr No. 49 : Urdu - ممول, Translation - Mamool
+2024-08-07 18:24:33.127 +05:00 [INF] Sr No. 50 : Urdu - ڀاواں, Translation - Bhawan
+2024-08-07 18:24:34.241 +05:00 [INF] Sr No. 51 : Urdu - رتمان, Translation - Ritman
+2024-08-07 18:24:34.897 +05:00 [INF] Sr No. 52 : Urdu - دودوڌماچ, Translation - Doodh Dhamach
+2024-08-07 18:24:35.585 +05:00 [INF] Sr No. 53 : Urdu - فہدعنصر, Translation - Fahad Ansar
+2024-08-07 18:24:36.319 +05:00 [INF] Sr No. 54 : Urdu - رفیکاں, Translation - Rafiqan
+2024-08-07 18:24:37.526 +05:00 [INF] Sr No. 55 : Urdu - میمُونہ, Translation - Maimoonah
+2024-08-07 18:24:38.473 +05:00 [INF] Sr No. 56 : Urdu - ڈاھوں, Translation - Dahon
+2024-08-07 18:24:39.200 +05:00 [INF] Sr No. 57 : Urdu - مرواء, Translation - Marwa
+2024-08-07 18:24:39.936 +05:00 [INF] Sr No. 58 : Urdu - یوایا, Translation - Yuvaya
+2024-08-07 18:24:40.821 +05:00 [INF] Sr No. 59 : Urdu - فوره, Translation - Forah
+2024-08-07 18:24:41.516 +05:00 [INF] Sr No. 60 : Urdu - یارسانگہ, Translation - Yarsanga
+2024-08-07 18:24:42.253 +05:00 [INF] Sr No. 61 : Urdu - الترس, Translation - Altars
+2024-08-07 18:24:43.308 +05:00 [INF] Sr No. 62 : Urdu - چدن, Translation - Chadan
+2024-08-07 18:24:43.909 +05:00 [INF] Sr No. 63 : Urdu - گرياڻي, Translation - Giryani
+2024-08-07 18:24:44.584 +05:00 [INF] Sr No. 64 : Urdu - اینزے, Translation - Ainze
+2024-08-07 18:24:45.268 +05:00 [INF] Sr No. 65 : Urdu - سعمیا, Translation - Samia
+2024-08-07 18:24:45.919 +05:00 [INF] Sr No. 66 : Urdu - رپیل, Translation - Rapeel
+2024-08-07 18:24:46.574 +05:00 [INF] Sr No. 67 : Urdu - راوتیا, Translation - Rawatiya
+2024-08-07 18:24:47.371 +05:00 [INF] Sr No. 68 : Urdu - عبدارلرؤف, Translation - Abdul Rauf
+2024-08-07 18:24:48.085 +05:00 [INF] Sr No. 69 : Urdu - سیدمرسلین, Translation - Syed Mursaleen
+2024-08-07 18:24:48.791 +05:00 [INF] Sr No. 70 : Urdu - داگنی, Translation - Dagni
+2024-08-07 18:24:49.761 +05:00 [INF] Sr No. 71 : Urdu - رابوجانہ, Translation - Rabojana
+2024-08-07 18:24:50.453 +05:00 [INF] Sr No. 72 : Urdu - عقضیٰ, Translation - Aqdiya
+2024-08-07 18:24:51.159 +05:00 [INF] Sr No. 73 : Urdu - ڀَنورو, Translation - Bhanuro
+2024-08-07 18:24:54.517 +05:00 [INF] Sr No. 74 : Urdu - روئیت, Translation - Ruyat
+2024-08-07 18:24:55.168 +05:00 [INF] Sr No. 75 : Urdu - ٽلُو, Translation - Tulu
+2024-08-07 18:24:55.852 +05:00 [INF] Sr No. 76 : Urdu - اظهراکرام, Translation - Azhar Akram
+2024-08-07 18:24:56.822 +05:00 [INF] Sr No. 77 : Urdu - شاتیر, Translation - Shateer
+2024-08-07 18:24:57.529 +05:00 [INF] Sr No. 78 : Urdu - فاغونده, Translation - Fagunda
+2024-08-07 18:24:58.530 +05:00 [INF] Sr No. 79 : Urdu - ساحدالله, Translation - Sahadullah
+2024-08-07 18:24:59.221 +05:00 [INF] Sr No. 80 : Urdu - مالتاج, Translation - Malataj
+2024-08-07 18:24:59.909 +05:00 [INF] Sr No. 81 : Urdu - خونار, Translation - Khunar
+2024-08-07 18:25:00.629 +05:00 [INF] Sr No. 82 : Urdu - کشرائے, Translation - Kashray
+2024-08-07 18:25:01.842 +05:00 [INF] Sr No. 83 : Urdu - صديقً, Translation - Sadiq
+2024-08-07 18:25:02.598 +05:00 [INF] Sr No. 84 : Urdu - جرئیت, Translation - Jurrat
+2024-08-07 18:25:04.487 +05:00 [INF] Sr No. 85 : Urdu - سروزرئے, Translation - Sarozaray
+2024-08-07 18:25:05.180 +05:00 [INF] Sr No. 86 : Urdu - ناضران, Translation - Naziran
+2024-08-07 18:25:06.025 +05:00 [INF] Sr No. 87 : Urdu - طہیرن, Translation - Taheeran
+2024-08-07 18:25:06.699 +05:00 [INF] Sr No. 88 : Urdu - بارعیہ, Translation - Baria
+2024-08-07 18:25:07.390 +05:00 [INF] Sr No. 89 : Urdu - ھفراں, Translation - Hafran
+2024-08-07 18:25:08.109 +05:00 [INF] Sr No. 90 : Urdu - عجیماں, Translation - Ajiman
+2024-08-07 18:25:08.773 +05:00 [INF] Sr No. 91 : Urdu - ایزل, Translation - Aizal
+2024-08-07 18:25:09.472 +05:00 [INF] Sr No. 92 : Urdu - حمیداںمشتاق, Translation - Hamidan Mushtaq
+2024-08-07 18:25:10.180 +05:00 [INF] Sr No. 93 : Urdu - ودوہ, Translation - Wadooh
+2024-08-07 18:25:10.925 +05:00 [INF] Sr No. 94 : Urdu - موقادسہ, Translation - Moqadasa
+2024-08-07 18:25:11.679 +05:00 [INF] Sr No. 95 : Urdu - رمونہ, Translation - Ramona
+2024-08-07 18:25:12.338 +05:00 [INF] Sr No. 96 : Urdu - اقبالنیسہ, Translation - Iqbalnisa
+2024-08-07 18:25:13.123 +05:00 [INF] Sr No. 97 : Urdu - جيھجا, Translation - Jeeja
+2024-08-07 18:25:13.843 +05:00 [INF] Sr No. 98 : Urdu - پاپئے, Translation - Papaye
+2024-08-07 18:25:14.507 +05:00 [INF] Sr No. 99 : Urdu - امائیلہ, Translation - Amayla
+2024-08-07 18:25:15.187 +05:00 [INF] Sr No. 100 : Urdu - جھڑیا, Translation - Jhariya
+2024-08-07 18:25:15.847 +05:00 [INF] Sr No. 101 : Urdu - حیدرجانه, Translation - Haider Janah
+2024-08-07 18:25:16.597 +05:00 [INF] Sr No. 102 : Urdu - ڪنيھو, Translation - Kaniho
+2024-08-07 18:25:17.289 +05:00 [INF] Sr No. 103 : Urdu - نفیفہ, Translation - Nafifa
+2024-08-07 18:25:17.868 +05:00 [INF] Sr No. 104 : Urdu - ھٿلي, Translation - Hathli
+2024-08-07 18:25:18.641 +05:00 [INF] Sr No. 105 : Urdu - کوڈواوں, Translation - Kudwaon
+2024-08-07 18:25:19.402 +05:00 [INF] Sr No. 106 : Urdu - ثمرالزمان, Translation - Samarul Zaman
+2024-08-07 18:25:20.049 +05:00 [INF] Sr No. 107 : Urdu - سفينه, Translation - Safeena
+2024-08-07 18:25:20.771 +05:00 [INF] Sr No. 108 : Urdu - شاہدامتیاز, Translation - Shahadat e Imtiaz
+2024-08-07 18:25:21.491 +05:00 [INF] Sr No. 109 : Urdu - بَسم, Translation - Basm
+2024-08-07 18:25:22.144 +05:00 [INF] Sr No. 110 : Urdu - وازیہ, Translation - Wazia
+2024-08-07 18:25:22.872 +05:00 [INF] Sr No. 111 : Urdu - مہتمین, Translation - Muhtamin
+2024-08-07 18:25:23.571 +05:00 [INF] Sr No. 112 : Urdu - توجو, Translation - Tojo
+2024-08-07 18:25:24.271 +05:00 [INF] Sr No. 113 : Urdu - مستفصر, Translation - Mustafsir
+2024-08-07 18:25:24.984 +05:00 [INF] Sr No. 114 : Urdu - سقیل, Translation - Saqeel
+2024-08-07 18:25:25.618 +05:00 [INF] Sr No. 115 : Urdu - یُمنہ, Translation - Yumna
+2024-08-07 18:25:26.252 +05:00 [INF] Sr No. 116 : Urdu - احمدعارفی, Translation - Ahmed Aarfi
+2024-08-07 18:25:27.919 +05:00 [INF] Sr No. 117 : Urdu - گلوماڇي, Translation - Galumachi
+2024-08-07 18:25:28.627 +05:00 [INF] Sr No. 118 : Urdu - عبدالهاشم, Translation - Abdul Hashim
+2024-08-07 18:25:29.427 +05:00 [INF] Sr No. 119 : Urdu - نازمیاں, Translation - Nazmiyan
+2024-08-07 18:25:30.486 +05:00 [INF] Sr No. 120 : Urdu - خوشمنیر, Translation - Khushmanir
+2024-08-07 18:25:31.157 +05:00 [INF] Sr No. 121 : Urdu - ننگیالہ, Translation - Nangiala
+2024-08-07 18:25:31.906 +05:00 [INF] Sr No. 122 : Urdu - قیراد, Translation - Qeerad
+2024-08-07 18:25:32.708 +05:00 [INF] Sr No. 123 : Urdu - نیقسال, Translation - Niqsaal
+2024-08-07 18:25:33.230 +05:00 [INF] Sr No. 124 : Urdu - عُقبہ, Translation - Aqba
+2024-08-07 18:25:33.859 +05:00 [INF] Sr No. 125 : Urdu - عامرالزمان, Translation - Amir al Zaman
+2024-08-07 18:25:34.616 +05:00 [INF] Sr No. 126 : Urdu - کنبیریو, Translation - Kanberio
+2024-08-07 18:25:35.404 +05:00 [INF] Sr No. 127 : Urdu - ہیوتان, Translation - Heyotan
+2024-08-07 18:25:36.107 +05:00 [INF] Sr No. 128 : Urdu - ماجريو, Translation - Majrio
+2024-08-07 18:25:36.782 +05:00 [INF] Sr No. 129 : Urdu - مہصب, Translation - Mahsub
+2024-08-07 18:25:37.739 +05:00 [INF] Sr No. 130 : Urdu - صندیر, Translation - Sandeer
+2024-08-07 18:25:38.364 +05:00 [INF] Sr No. 131 : Urdu - حنّانی, Translation - Hannani
+2024-08-07 18:25:39.092 +05:00 [INF] Sr No. 132 : Urdu - اریّ, Translation - Ariyan
+2024-08-07 18:25:39.721 +05:00 [INF] Sr No. 133 : Urdu - میرغیاث, Translation - Mir Ghiyas
+2024-08-07 18:25:40.370 +05:00 [INF] Sr No. 134 : Urdu - جندریز, Translation - Jandrez
+2024-08-07 18:25:41.085 +05:00 [INF] Sr No. 135 : Urdu - تیمورنبی, Translation - Taimurnabi
+2024-08-07 18:25:41.738 +05:00 [INF] Sr No. 136 : Urdu - عطاؤالرحمنٰ, Translation - Ata ur Rehman
+2024-08-07 18:25:42.435 +05:00 [INF] Sr No. 137 : Urdu - سُکالڙو, Translation - Sukalro
+2024-08-07 18:25:43.112 +05:00 [INF] Sr No. 138 : Urdu - اشرق, Translation - Ashraq
+2024-08-07 18:25:43.708 +05:00 [INF] Sr No. 139 : Urdu - لاکانيہ, Translation - Lakhaniya
+2024-08-07 18:25:44.528 +05:00 [INF] Sr No. 140 : Urdu - عابداویس, Translation - Abid Awais
+2024-08-07 18:25:45.266 +05:00 [INF] Sr No. 141 : Urdu - حمس, Translation - Hams
+2024-08-07 18:25:45.957 +05:00 [INF] Sr No. 142 : Urdu - شائداد, Translation - Shaidad
+2024-08-07 18:25:46.634 +05:00 [INF] Sr No. 143 : Urdu - اھیب, Translation - Aheeb
+2024-08-07 18:25:47.365 +05:00 [INF] Sr No. 144 : Urdu - خضرایوب, Translation - Khizr Ayub
+2024-08-07 18:25:48.108 +05:00 [INF] Sr No. 145 : Urdu - تھیگ, Translation - Theeg
+2024-08-07 18:25:48.853 +05:00 [INF] Sr No. 146 : Urdu - اسفاد, Translation - Asfaad
+2024-08-07 18:25:49.767 +05:00 [INF] Sr No. 147 : Urdu - اسنع, Translation - Asna
+2024-08-07 18:25:50.645 +05:00 [INF] Sr No. 148 : Urdu - شناورالحق, Translation - Shanawarul Haq
+2024-08-07 18:25:51.361 +05:00 [INF] Sr No. 149 : Urdu - چھینڑا, Translation - Chheendra
+2024-08-07 18:25:52.030 +05:00 [INF] Sr No. 150 : Urdu - شزرے, Translation - Shazray
+2024-08-07 18:25:52.663 +05:00 [INF] Sr No. 151 : Urdu - عدیال, Translation - Adial
+2024-08-07 18:25:53.320 +05:00 [INF] Sr No. 152 : Urdu - عمرعلیم, Translation - Umar Aleem
+2024-08-07 18:25:53.954 +05:00 [INF] Sr No. 153 : Urdu - حریال, Translation - Haryal
+2024-08-07 18:25:54.800 +05:00 [INF] Sr No. 154 : Urdu - رشئیہ, Translation - Rashaiya
+2024-08-07 18:25:55.453 +05:00 [INF] Sr No. 155 : Urdu - الواز, Translation - Alwaz
+2024-08-07 18:25:56.187 +05:00 [INF] Sr No. 156 : Urdu - محرّم, Translation - Muharram
+2024-08-07 18:25:56.915 +05:00 [INF] Sr No. 157 : Urdu - اِلہٰی, Translation - Ilahi
+2024-08-07 18:25:57.794 +05:00 [INF] Sr No. 158 : Urdu - نوشٴاد, Translation - Naushaad
+2024-08-07 18:25:58.508 +05:00 [INF] Sr No. 159 : Urdu - سوڊائي, Translation - Sodai
+2024-08-07 18:25:59.165 +05:00 [INF] Sr No. 160 : Urdu - اڑوڑا, Translation - Aroora
+2024-08-07 18:26:00.218 +05:00 [INF] Sr No. 161 : Urdu - خیرزاده, Translation - Khairezada
+2024-08-07 18:26:00.940 +05:00 [INF] Sr No. 162 : Urdu - ابوالاعجاز, Translation - Abul Aijaz
+2024-08-07 18:26:01.944 +05:00 [INF] Sr No. 163 : Urdu - راناعبدالغفورخاں, Translation - Rana Abdul Ghafoor Khan
+2024-08-07 18:26:02.749 +05:00 [INF] Sr No. 164 : Urdu - صبورالحسن, Translation - Saboor ul Hasan
+2024-08-07 18:26:03.460 +05:00 [INF] Sr No. 165 : Urdu - مدائب, Translation - Mudaib
+2024-08-07 18:26:04.170 +05:00 [INF] Sr No. 166 : Urdu - سُہارا, Translation - Suhara
+2024-08-07 18:26:04.853 +05:00 [INF] Sr No. 167 : Urdu - ڌيرومل, Translation - Dhirumal
+2024-08-07 18:26:05.516 +05:00 [INF] Sr No. 168 : Urdu - نظرباری, Translation - Nazar Bari
+2024-08-07 18:26:06.137 +05:00 [INF] Sr No. 169 : Urdu - پاہیند, Translation - Paahind
+2024-08-07 18:26:06.708 +05:00 [INF] Sr No. 170 : Urdu - رومیت, Translation - Romyat
+2024-08-07 18:26:07.388 +05:00 [INF] Sr No. 171 : Urdu - رائیسں, Translation - Raisan
+2024-08-07 18:26:08.089 +05:00 [INF] Sr No. 172 : Urdu - المناک, Translation - Almanak
+2024-08-07 18:26:08.754 +05:00 [INF] Sr No. 173 : Urdu - وعظاء, Translation - Waza
+2024-08-07 18:26:09.455 +05:00 [INF] Sr No. 174 : Urdu - پھردم, Translation - Phirdam
+2024-08-07 18:26:10.074 +05:00 [INF] Sr No. 175 : Urdu - گوءیندی, Translation - Guendi
+2024-08-07 18:26:10.845 +05:00 [INF] Sr No. 176 : Urdu - قبام, Translation - Qibam
+2024-08-07 18:26:11.592 +05:00 [INF] Sr No. 177 : Urdu - غفیظ, Translation - Ghafez
+2024-08-07 18:26:12.298 +05:00 [INF] Sr No. 178 : Urdu - سیدرئیسہ, Translation - Syed Raeesa
+2024-08-07 18:26:12.997 +05:00 [INF] Sr No. 179 : Urdu - دارالسلامہ, Translation - Darussalama
+2024-08-07 18:26:13.765 +05:00 [INF] Sr No. 180 : Urdu - تپت, Translation - Tapit
+2024-08-07 18:26:14.497 +05:00 [INF] Sr No. 181 : Urdu - میگھے, Translation - Meghay
+2024-08-07 18:26:15.171 +05:00 [INF] Sr No. 182 : Urdu - شاہیزئی, Translation - Shahizai
+2024-08-07 18:26:16.185 +05:00 [INF] Sr No. 183 : Urdu - چارجوی, Translation - Charjoi
+2024-08-07 18:26:16.834 +05:00 [INF] Sr No. 184 : Urdu - سیداروم, Translation - Saidarom
+2024-08-07 18:26:17.533 +05:00 [INF] Sr No. 185 : Urdu - کورتنائی, Translation - Kourtney
+2024-08-07 18:26:18.349 +05:00 [INF] Sr No. 186 : Urdu - خوشل, Translation - Khushal
+2024-08-07 18:26:19.192 +05:00 [INF] Sr No. 187 : Urdu - سیدتوحیدحسین, Translation - Syed Touheed Hussain
+2024-08-07 18:26:19.833 +05:00 [INF] Sr No. 188 : Urdu - میروزل, Translation - Mirozal
+2024-08-07 18:26:20.487 +05:00 [INF] Sr No. 189 : Urdu - رائےشفقت, Translation - Raeeshafqat
+2024-08-07 18:26:21.134 +05:00 [INF] Sr No. 190 : Urdu - نُوشیرواں, Translation - Nushirwan
+2024-08-07 18:26:21.899 +05:00 [INF] Sr No. 191 : Urdu - شبیرالیاس, Translation - Shabbir Ilyas
+2024-08-07 18:26:22.578 +05:00 [INF] Sr No. 192 : Urdu - دلانو, Translation - Dilano
+2024-08-07 18:26:23.353 +05:00 [INF] Sr No. 193 : Urdu - نورقادرالله, Translation - Noor Qadir Allah
+2024-08-07 18:26:24.150 +05:00 [INF] Sr No. 194 : Urdu - مینہوال, Translation - Meenhawal
+2024-08-07 18:26:24.836 +05:00 [INF] Sr No. 195 : Urdu - دارمست, Translation - Darmast
+2024-08-07 18:26:25.516 +05:00 [INF] Sr No. 196 : Urdu - اُلرضا, Translation - Ul Raza
+2024-08-07 18:26:26.174 +05:00 [INF] Sr No. 197 : Urdu - احمدکڑول, Translation - Ahmad Karol
+2024-08-07 18:26:26.847 +05:00 [INF] Sr No. 198 : Urdu - گوکلداس, Translation - Gokaldas
+2024-08-07 18:26:27.521 +05:00 [INF] Sr No. 199 : Urdu - پسنمہ, Translation - Pasnamah
+2024-08-07 18:26:28.244 +05:00 [INF] Sr No. 200 : Urdu - صبرگلہ, Translation - Sabargulha
+2024-08-07 18:26:28.931 +05:00 [INF] Sr No. 201 : Urdu - ذرتی, Translation - Zarti
+2024-08-07 18:26:29.631 +05:00 [INF] Sr No. 202 : Urdu - منّا, Translation - Manna
+2024-08-07 18:26:30.342 +05:00 [INF] Sr No. 203 : Urdu - ہزبر, Translation - Hazbar
+2024-08-07 18:26:30.969 +05:00 [INF] Sr No. 204 : Urdu - عطاءاللہ, Translation - Ataullah
+2024-08-07 18:26:31.633 +05:00 [INF] Sr No. 205 : Urdu - ھوتواني, Translation - Hotwani
+2024-08-07 18:26:32.278 +05:00 [INF] Sr No. 206 : Urdu - سیدعزیزاحمدحسنی, Translation - Syed Aziz Ahmed Hasani
+2024-08-07 18:26:32.920 +05:00 [INF] Sr No. 207 : Urdu - سکھہ, Translation - Sukh
+2024-08-07 18:26:33.501 +05:00 [INF] Sr No. 208 : Urdu - ظاهر, Translation - Zahir
+2024-08-07 18:26:34.239 +05:00 [INF] Sr No. 209 : Urdu - زالاورخان, Translation - Zalawar Khan
+2024-08-07 18:26:34.961 +05:00 [INF] Sr No. 210 : Urdu - مرزاعبدالستاربیگ, Translation - Mirza Abdul Sattar Baig
+2024-08-07 18:26:35.644 +05:00 [INF] Sr No. 211 : Urdu - مُورجی, Translation - Moorji
+2024-08-07 18:26:36.368 +05:00 [INF] Sr No. 212 : Urdu - مہنکا, Translation - Mahanka
+2024-08-07 18:26:36.966 +05:00 [INF] Sr No. 213 : Urdu - ماہتبان, Translation - Mahtaban
+2024-08-07 18:26:38.110 +05:00 [INF] Sr No. 214 : Urdu - عبدالستارخلیفہ, Translation - Abdul Sattar Khalifa
+2024-08-07 18:26:39.074 +05:00 [INF] Sr No. 215 : Urdu - فائیل, Translation - Fail
+2024-08-07 18:26:39.938 +05:00 [INF] Sr No. 216 : Urdu - باسمر, Translation - Basmar
+2024-08-07 18:26:40.750 +05:00 [INF] Sr No. 217 : Urdu - چوهان, Translation - Chauhan
+2024-08-07 18:26:41.470 +05:00 [INF] Sr No. 218 : Urdu - دولارا, Translation - Dulara
+2024-08-07 18:26:42.194 +05:00 [INF] Sr No. 219 : Urdu - ڪدر, Translation - Kadar
+2024-08-07 18:26:42.961 +05:00 [INF] Sr No. 220 : Urdu - خمیشہ, Translation - Khamisha
+2024-08-07 18:26:43.658 +05:00 [INF] Sr No. 221 : Urdu - مصاف, Translation - Musaf
+2024-08-07 18:26:44.352 +05:00 [INF] Sr No. 222 : Urdu - امیرادت, Translation - Amiradat
+2024-08-07 18:26:45.350 +05:00 [INF] Sr No. 223 : Urdu - الخاج, Translation - Alkhaj
+2024-08-07 18:26:46.610 +05:00 [INF] Sr No. 224 : Urdu - یسرب, Translation - Yusrab
+2024-08-07 18:26:47.315 +05:00 [INF] Sr No. 225 : Urdu - کرپو, Translation - Karpo
+2024-08-07 18:26:48.049 +05:00 [INF] Sr No. 226 : Urdu - ابراراحمدخاں, Translation - Abrar Ahmed Khan
+2024-08-07 18:26:48.760 +05:00 [INF] Sr No. 227 : Urdu - احمدہاشم, Translation - Ahmed Hashim
+2024-08-07 18:26:49.401 +05:00 [INF] Sr No. 228 : Urdu - سمبویل, Translation - Sumbul
+2024-08-07 18:26:50.332 +05:00 [INF] Sr No. 229 : Urdu - سهراب, Translation - Sohrab
+2024-08-07 18:26:53.984 +05:00 [INF] Sr No. 230 : Urdu - میرخدائے, Translation - Mirkhudae
+2024-08-07 18:26:55.496 +05:00 [INF] Sr No. 231 : Urdu - جینئی, Translation - Janee
+2024-08-07 18:26:56.190 +05:00 [INF] Sr No. 232 : Urdu - بهادرشاه, Translation - Bahadur Shah
+2024-08-07 18:26:56.891 +05:00 [INF] Sr No. 233 : Urdu - مضلیح, Translation - Mazliha
+2024-08-07 18:26:57.670 +05:00 [INF] Sr No. 234 : Urdu - سنابرخان, Translation - Sanabar Khan
+2024-08-07 18:26:58.440 +05:00 [INF] Sr No. 235 : Urdu - جهانگیر, Translation - Jahangir
+2024-08-07 18:26:59.175 +05:00 [INF] Sr No. 236 : Urdu - کاچھی, Translation - Kachi
+2024-08-07 18:26:59.779 +05:00 [INF] Sr No. 237 : Urdu - شادمہ, Translation - Shadma
+2024-08-07 18:27:00.844 +05:00 [INF] Sr No. 238 : Urdu - سینابرخان, Translation - Sina Bar Khan
+2024-08-07 18:27:01.581 +05:00 [INF] Sr No. 239 : Urdu - ڈوشی, Translation - Doshi
+2024-08-07 18:27:02.270 +05:00 [INF] Sr No. 240 : Urdu - مبّشر, Translation - Mubashir
+2024-08-07 18:27:03.017 +05:00 [INF] Sr No. 241 : Urdu - عبدالستارطالباني, Translation - Abdul Sattar Talabani
+2024-08-07 18:27:04.033 +05:00 [INF] Sr No. 242 : Urdu - نیازاحمدکھوکھر, Translation - Niaz Ahmed Khokhar
+2024-08-07 18:27:05.051 +05:00 [INF] Sr No. 243 : Urdu - نیباو, Translation - Nibaao
+2024-08-07 18:27:05.740 +05:00 [INF] Sr No. 244 : Urdu - ٹیجا, Translation - Teja
+2024-08-07 18:27:06.445 +05:00 [INF] Sr No. 245 : Urdu - دروخوم, Translation - Drokhom
+2024-08-07 18:27:07.177 +05:00 [INF] Sr No. 246 : Urdu - مڑہیلا, Translation - Marhila
+2024-08-07 18:27:07.882 +05:00 [INF] Sr No. 247 : Urdu - زاذی, Translation - Zaadi
+2024-08-07 18:27:08.720 +05:00 [INF] Sr No. 248 : Urdu - الیماس, Translation - Alimas
+2024-08-07 18:27:09.384 +05:00 [INF] Sr No. 249 : Urdu - کثیرہ, Translation - Kaseera
+2024-08-07 18:27:10.066 +05:00 [INF] Sr No. 250 : Urdu - خومئی, Translation - Khomei
+2024-08-07 18:27:10.762 +05:00 [INF] Sr No. 251 : Urdu - تعلیفاں, Translation - Taleefan
+2024-08-07 18:27:11.598 +05:00 [INF] Sr No. 252 : Urdu - مجازًا, Translation - Majazan
+2024-08-07 18:27:12.319 +05:00 [INF] Sr No. 253 : Urdu - عمربحہ, Translation - Umar Bakha
+2024-08-07 18:27:13.340 +05:00 [INF] Sr No. 254 : Urdu - بلقنازہ, Translation - Balqnaazah
+2024-08-07 18:27:14.634 +05:00 [INF] Sr No. 255 : Urdu - اڪلان, Translation - Aklaan
+2024-08-07 18:27:15.216 +05:00 [INF] Sr No. 256 : Urdu - زنینہ, Translation - Zaneena
+2024-08-07 18:27:15.823 +05:00 [INF] Sr No. 257 : Urdu - زرپوشانہ, Translation - Zarposhana
+2024-08-07 18:27:16.588 +05:00 [INF] Sr No. 258 : Urdu - آمتیہ, Translation - Amitiya
+2024-08-07 18:27:17.364 +05:00 [INF] Sr No. 259 : Urdu - نورنسأ, Translation - Noorunisa
+2024-08-07 18:27:18.044 +05:00 [INF] Sr No. 260 : Urdu - قریشاںبیگم, Translation - Quraishan Begum
+2024-08-07 18:27:18.886 +05:00 [INF] Sr No. 261 : Urdu - بلقیازہ, Translation - Balqiazah
+2024-08-07 18:27:19.653 +05:00 [INF] Sr No. 262 : Urdu - نزعت, Translation - Nuzhat
+2024-08-07 18:27:20.467 +05:00 [INF] Sr No. 263 : Urdu - بنیرئی, Translation - Bunerai
+2024-08-07 18:27:21.225 +05:00 [INF] Sr No. 264 : Urdu - مزبہ, Translation - Mazbah
+2024-08-07 18:27:21.913 +05:00 [INF] Sr No. 265 : Urdu - میاںخیلہ, Translation - Miyankhela
+2024-08-07 18:27:22.591 +05:00 [INF] Sr No. 266 : Urdu - عبدالکیریم, Translation - Abdul Karim
+2024-08-07 18:27:23.421 +05:00 [INF] Sr No. 267 : Urdu - واٹے, Translation - Watte
+2024-08-07 18:27:24.113 +05:00 [INF] Sr No. 268 : Urdu - پھودنو, Translation - Phodnu
+2024-08-07 18:27:24.859 +05:00 [INF] Sr No. 269 : Urdu - عیض, Translation - Aiz
+2024-08-07 18:27:25.557 +05:00 [INF] Sr No. 270 : Urdu - رغزلی, Translation - Raghzali
+2024-08-07 18:27:26.290 +05:00 [INF] Sr No. 271 : Urdu - اعتباراحمدعباسی, Translation - Aitabar Ahmad Abbasi
+2024-08-07 18:27:26.978 +05:00 [INF] Sr No. 272 : Urdu - گرڈینو, Translation - Gardino
+2024-08-07 18:27:27.704 +05:00 [INF] Sr No. 273 : Urdu - روھڑا, Translation - Rohra
+2024-08-07 18:27:28.501 +05:00 [INF] Sr No. 274 : Urdu - اخگر, Translation - Akhgar
+2024-08-07 18:27:29.129 +05:00 [INF] Sr No. 275 : Urdu - نفیصہ, Translation - Nafisa
+2024-08-07 18:27:29.883 +05:00 [INF] Sr No. 276 : Urdu - عبیدالباری, Translation - Ubaid al Bari
+2024-08-07 18:27:30.630 +05:00 [INF] Sr No. 277 : Urdu - حسنيہ, Translation - Husniya
+2024-08-07 18:27:31.872 +05:00 [INF] Sr No. 278 : Urdu - میندھرو, Translation - Meendhro
+2024-08-07 18:27:32.674 +05:00 [INF] Sr No. 279 : Urdu - خوشدولہ, Translation - Khushdola
+2024-08-07 18:27:33.322 +05:00 [INF] Sr No. 280 : Urdu - دپلو, Translation - Diplo
+2024-08-07 18:27:34.137 +05:00 [INF] Sr No. 281 : Urdu - اخترنوازنوید, Translation - Akhtar Nawaz Naveed
+2024-08-07 18:27:34.815 +05:00 [INF] Sr No. 282 : Urdu - العالی, Translation - Al Aali
+2024-08-07 18:27:35.553 +05:00 [INF] Sr No. 283 : Urdu - ملبی, Translation - Malbi
+2024-08-07 18:27:37.471 +05:00 [INF] Sr No. 284 : Urdu - رومیکس, Translation - Romex
+2024-08-07 18:27:38.430 +05:00 [INF] Sr No. 285 : Urdu - عبدالمکنون, Translation - Abdul Maknun
+2024-08-07 18:27:39.171 +05:00 [INF] Sr No. 286 : Urdu - نیٹومل, Translation - Netomal
+2024-08-07 18:27:41.748 +05:00 [INF] Sr No. 287 : Urdu - طاہرکریم, Translation - Tahir Kareem
+2024-08-07 18:27:42.504 +05:00 [INF] Sr No. 288 : Urdu - عبدالغورميمن, Translation - Abdul Ghaur Maiman
+2024-08-07 18:27:43.318 +05:00 [INF] Sr No. 289 : Urdu - زبون, Translation - Zaboon
+2024-08-07 18:27:43.972 +05:00 [INF] Sr No. 290 : Urdu - خیرامت, Translation - Khayramat
+2024-08-07 18:27:44.654 +05:00 [INF] Sr No. 291 : Urdu - کھیتہ, Translation - Kheta
+2024-08-07 18:27:45.301 +05:00 [INF] Sr No. 292 : Urdu - فردُل, Translation - Fardul
+2024-08-07 18:27:46.049 +05:00 [INF] Sr No. 293 : Urdu - سوئہانرہ, Translation - Sohanra
+2024-08-07 18:27:46.754 +05:00 [INF] Sr No. 294 : Urdu - دورماہد, Translation - Durmahad
+2024-08-07 18:27:47.759 +05:00 [INF] Sr No. 295 : Urdu - پالوکس, Translation - Palux
+2024-08-07 18:27:48.491 +05:00 [INF] Sr No. 296 : Urdu - سیداظہرالحسن, Translation - Syed Azhar ul Hasan
+2024-08-07 18:27:49.199 +05:00 [INF] Sr No. 297 : Urdu - سیدخورشیدالحسن, Translation - Syed Khurshid ul Hasan
+2024-08-07 18:27:50.044 +05:00 [INF] Sr No. 298 : Urdu - جاذم, Translation - Jazim
+2024-08-07 18:27:50.928 +05:00 [INF] Sr No. 299 : Urdu - سعدیونس, Translation - Saad Younis
+2024-08-07 18:27:51.841 +05:00 [INF] Sr No. 300 : Urdu - عوین, Translation - Aveen
+2024-08-07 18:27:52.426 +05:00 [INF] Sr No. 301 : Urdu - ھڻَگورجو, Translation - Hangorjo
+2024-08-07 18:27:53.210 +05:00 [INF] Sr No. 302 : Urdu - شیراع, Translation - Sheeraz
+2024-08-07 18:27:53.898 +05:00 [INF] Sr No. 303 : Urdu - صبیعن, Translation - Sabeean
+2024-08-07 18:27:54.539 +05:00 [INF] Sr No. 304 : Urdu - جنیکا, Translation - Janika
+2024-08-07 18:27:55.237 +05:00 [INF] Sr No. 305 : Urdu - تھميزان, Translation - Thameezan
+2024-08-07 18:27:56.298 +05:00 [INF] Sr No. 306 : Urdu - اکماعلی, Translation - Akmal Ali
+2024-08-07 18:27:56.971 +05:00 [INF] Sr No. 307 : Urdu - دارڪاداس, Translation - Darkadas
+2024-08-07 18:27:57.675 +05:00 [INF] Sr No. 308 : Urdu - زہوہ, Translation - Zahwa
+2024-08-07 18:27:58.299 +05:00 [INF] Sr No. 309 : Urdu - لوٺٹھیو, Translation - Lutthiyo
+2024-08-07 18:27:58.903 +05:00 [INF] Sr No. 310 : Urdu - عمیراکبرشاہ, Translation - Ameer Akbar Shah
+2024-08-07 18:27:59.641 +05:00 [INF] Sr No. 311 : Urdu - بلکھیا, Translation - Balkhiya
+2024-08-07 18:28:01.064 +05:00 [INF] Sr No. 312 : Urdu - عبدالجیوا, Translation - Abdul Jiwa
+2024-08-07 18:28:01.844 +05:00 [INF] Sr No. 313 : Urdu - پَھوال, Translation - Phuwal
+2024-08-07 18:28:02.571 +05:00 [INF] Sr No. 314 : Urdu - رميشں, Translation - Rameshan
+2024-08-07 18:28:03.550 +05:00 [INF] Sr No. 315 : Urdu - چهنو, Translation - Chhannu
+2024-08-07 18:28:04.249 +05:00 [INF] Sr No. 316 : Urdu - لجپتراءِ, Translation - Lajpat Rai
+2024-08-07 18:28:04.884 +05:00 [INF] Sr No. 317 : Urdu - دوسته, Translation - Dosteh
+2024-08-07 18:28:05.589 +05:00 [INF] Sr No. 318 : Urdu - پکھراجن, Translation - Pakhrajan
+2024-08-07 18:28:06.359 +05:00 [INF] Sr No. 319 : Urdu - نرآصف, Translation - Narasaf
+2024-08-07 18:28:06.973 +05:00 [INF] Sr No. 320 : Urdu - سيدنجف, Translation - Syed Najaf
+2024-08-07 18:28:07.693 +05:00 [INF] Sr No. 321 : Urdu - دادُن, Translation - Dadun
+2024-08-07 18:28:08.337 +05:00 [INF] Sr No. 322 : Urdu - شاھیدالله, Translation - Shaheedullah
+2024-08-07 18:28:09.158 +05:00 [INF] Sr No. 323 : Urdu - ظفرفرید, Translation - Zafar Fareed
+2024-08-07 18:28:09.972 +05:00 [INF] Sr No. 324 : Urdu - حضارت, Translation - Hazarat
+2024-08-07 18:28:10.645 +05:00 [INF] Sr No. 325 : Urdu - انتاس, Translation - Antas
+2024-08-07 18:28:11.479 +05:00 [INF] Sr No. 326 : Urdu - سیدسرورقاسم, Translation - Syed Sarwar Qasim
+2024-08-07 18:28:12.209 +05:00 [INF] Sr No. 327 : Urdu - عزیرباچا, Translation - Aziz Bacha
+2024-08-07 18:28:12.984 +05:00 [INF] Sr No. 328 : Urdu - شیرروالله, Translation - Sherroallah
+2024-08-07 18:28:13.705 +05:00 [INF] Sr No. 329 : Urdu - يارمحمدچوھان, Translation - Yar Muhammad Chauhan
+2024-08-07 18:28:14.395 +05:00 [INF] Sr No. 330 : Urdu - بیھمجی, Translation - Behamji
+2024-08-07 18:28:15.240 +05:00 [INF] Sr No. 331 : Urdu - یڈھشٹر, Translation - Yudhishthir
+2024-08-07 18:28:15.948 +05:00 [INF] Sr No. 332 : Urdu - لانہڑ, Translation - Lanhar
+2024-08-07 18:28:16.601 +05:00 [INF] Sr No. 333 : Urdu - شنہا, Translation - Shanaha
+2024-08-07 18:28:17.247 +05:00 [INF] Sr No. 334 : Urdu - تعاوز, Translation - Taawuz
+2024-08-07 18:28:18.450 +05:00 [INF] Sr No. 335 : Urdu - بخیش, Translation - Bakhish
+2024-08-07 18:28:19.127 +05:00 [INF] Sr No. 336 : Urdu - غائنچو, Translation - Ghaincho
+2024-08-07 18:28:19.782 +05:00 [INF] Sr No. 337 : Urdu - واسله, Translation - Wasila
+2024-08-07 18:28:20.665 +05:00 [INF] Sr No. 338 : Urdu - مستکہ, Translation - Mustaka
+2024-08-07 18:28:21.371 +05:00 [INF] Sr No. 339 : Urdu - بشریاں, Translation - Bushraian
+2024-08-07 18:28:22.089 +05:00 [INF] Sr No. 340 : Urdu - ڦٽوں, Translation - Phatoon
+2024-08-07 18:28:22.891 +05:00 [INF] Sr No. 341 : Urdu - نُوراں, Translation - Nooran
+2024-08-07 18:28:23.626 +05:00 [INF] Sr No. 342 : Urdu - بخمیوہ, Translation - Bakhmiyoh
+2024-08-07 18:28:24.389 +05:00 [INF] Sr No. 343 : Urdu - صا٫مہ, Translation - Sama
+2024-08-07 18:28:25.110 +05:00 [INF] Sr No. 344 : Urdu - مڱيلنڌو, Translation - Mangilundho
+2024-08-07 18:28:25.869 +05:00 [INF] Sr No. 345 : Urdu - بوانواں, Translation - Bawanwan
+2024-08-07 18:28:26.475 +05:00 [INF] Sr No. 346 : Urdu - روفئی, Translation - Rufai
+2024-08-07 18:28:27.249 +05:00 [INF] Sr No. 347 : Urdu - فلیارو, Translation - Falyaro
+2024-08-07 18:28:27.961 +05:00 [INF] Sr No. 348 : Urdu - لاڏوڪي, Translation - Ladoki
+2024-08-07 18:28:28.710 +05:00 [INF] Sr No. 349 : Urdu - فازو, Translation - Fazo
+2024-08-07 18:28:29.459 +05:00 [INF] Sr No. 350 : Urdu - فاغوندہ, Translation - Faghunda
+2024-08-07 18:28:30.195 +05:00 [INF] Sr No. 351 : Urdu - چَھتل, Translation - Chhatil
+2024-08-07 18:28:30.939 +05:00 [INF] Sr No. 352 : Urdu - معفیت, Translation - Mafiyat
+2024-08-07 18:28:31.833 +05:00 [INF] Sr No. 353 : Urdu - بحتاجہ, Translation - Bahtaja
+2024-08-07 18:28:32.554 +05:00 [INF] Sr No. 354 : Urdu - ماکلئی, Translation - Maklai
+2024-08-07 18:28:33.280 +05:00 [INF] Sr No. 355 : Urdu - گھوسن, Translation - Ghausan
+2024-08-07 18:28:34.035 +05:00 [INF] Sr No. 356 : Urdu - منتہا٫, Translation - Muntaha
+2024-08-07 18:28:34.672 +05:00 [INF] Sr No. 357 : Urdu - جپا, Translation - Japa
+2024-08-07 18:28:35.229 +05:00 [INF] Sr No. 358 : Urdu - سماڻی, Translation - Samani
+2024-08-07 18:28:36.244 +05:00 [INF] Sr No. 359 : Urdu - رولالہ, Translation - Rulalah
+2024-08-07 18:28:36.994 +05:00 [INF] Sr No. 360 : Urdu - سمیله, Translation - Sameela
+2024-08-07 18:28:37.687 +05:00 [INF] Sr No. 361 : Urdu - وسندر, Translation - Wasandar
+2024-08-07 18:28:38.682 +05:00 [INF] Sr No. 362 : Urdu - قفید, Translation - Qafeed
+2024-08-07 18:28:39.352 +05:00 [INF] Sr No. 363 : Urdu - ظہورجانہ, Translation - Zahoor Jahan
+2024-08-07 18:28:40.541 +05:00 [INF] Sr No. 364 : Urdu - زمکو, Translation - Zamko
+2024-08-07 18:28:41.218 +05:00 [INF] Sr No. 365 : Urdu - ھوڑی, Translation - Hoori
+2024-08-07 18:28:41.891 +05:00 [INF] Sr No. 366 : Urdu - بزاعہ, Translation - Bazaa
+2024-08-07 18:28:42.531 +05:00 [INF] Sr No. 367 : Urdu - بیگمی, Translation - Begum
+2024-08-07 18:28:43.243 +05:00 [INF] Sr No. 368 : Urdu - سیدخوشنار, Translation - Syed Khushnar
+2024-08-07 18:28:43.937 +05:00 [INF] Sr No. 369 : Urdu - ماریانی, Translation - Mariani
+2024-08-07 18:28:44.834 +05:00 [INF] Sr No. 370 : Urdu - وحيدجان, Translation - Waheed Jan
+2024-08-07 18:28:47.323 +05:00 [INF] Sr No. 371 : Urdu - گلينہ, Translation - Gulena
+2024-08-07 18:28:47.999 +05:00 [INF] Sr No. 372 : Urdu - دلجی, Translation - Diljeet
+2024-08-07 18:28:48.650 +05:00 [INF] Sr No. 373 : Urdu - صیفاں, Translation - Saifan
+2024-08-07 18:28:49.322 +05:00 [INF] Sr No. 374 : Urdu - گُرگیز, Translation - Gurgiz
+2024-08-07 18:28:50.039 +05:00 [INF] Sr No. 375 : Urdu - اوغی, Translation - Aoghi
+2024-08-07 18:28:50.783 +05:00 [INF] Sr No. 376 : Urdu - سیدکابرحسن, Translation - Syed Kabar Hasan
+2024-08-07 18:28:51.382 +05:00 [INF] Sr No. 377 : Urdu - ازیشہ, Translation - Azisha
+2024-08-07 18:28:52.047 +05:00 [INF] Sr No. 378 : Urdu - جیوبن, Translation - Jeewan
+2024-08-07 18:28:52.776 +05:00 [INF] Sr No. 379 : Urdu - بابومہنگا, Translation - Babu Mehnga
+2024-08-07 18:28:53.588 +05:00 [INF] Sr No. 380 : Urdu - شانگئے, Translation - Shanghe
+2024-08-07 18:28:54.230 +05:00 [INF] Sr No. 381 : Urdu - امتوالله, Translation - Amtullah
+2024-08-07 18:28:54.976 +05:00 [INF] Sr No. 382 : Urdu - بوٹائی, Translation - Botai
+2024-08-07 18:28:55.871 +05:00 [INF] Sr No. 383 : Urdu - عبدلامین, Translation - Abdul Ameen
+2024-08-07 18:28:56.555 +05:00 [INF] Sr No. 384 : Urdu - تونو, Translation - Tonu
+2024-08-07 18:28:57.313 +05:00 [INF] Sr No. 385 : Urdu - عبدالقادرکشمیری, Translation - Abdul Qadir Kashmiri
+2024-08-07 18:28:57.981 +05:00 [INF] Sr No. 386 : Urdu - آسولی, Translation - Asoli
+2024-08-07 18:28:58.750 +05:00 [INF] Sr No. 387 : Urdu - مرادمطلوب, Translation - Murad Matlub
+2024-08-07 18:28:59.455 +05:00 [INF] Sr No. 388 : Urdu - امجدرحمنٰ, Translation - Amjadur Rahman
+2024-08-07 18:29:01.848 +05:00 [INF] Sr No. 389 : Urdu - شاموظت, Translation - Shamozat
+2024-08-07 18:29:02.507 +05:00 [INF] Sr No. 390 : Urdu - شوہیب, Translation - Shoaib
+2024-08-07 18:29:03.142 +05:00 [INF] Sr No. 391 : Urdu - الڑیا, Translation - Alriya
+2024-08-07 18:29:03.931 +05:00 [INF] Sr No. 392 : Urdu - جنواریو, Translation - Januario
+2024-08-07 18:29:04.724 +05:00 [INF] Sr No. 393 : Urdu - وبیحہ, Translation - Wabia
+2024-08-07 18:29:05.370 +05:00 [INF] Sr No. 394 : Urdu - عصاہ, Translation - Asaah
+2024-08-07 18:29:05.953 +05:00 [INF] Sr No. 395 : Urdu - ذوبیا, Translation - Zobia
+2024-08-07 18:29:06.675 +05:00 [INF] Sr No. 396 : Urdu - الاآصفہ, Translation - Ala Asifa
+2024-08-07 18:29:07.311 +05:00 [INF] Sr No. 397 : Urdu - مصطفٰسے, Translation - Mustafa
+2024-08-07 18:29:07.955 +05:00 [INF] Sr No. 398 : Urdu - جعفردین, Translation - Jafardeen
+2024-08-07 18:29:08.668 +05:00 [INF] Sr No. 399 : Urdu - اُشنح, Translation - Ushnah
+2024-08-07 18:29:09.319 +05:00 [INF] Sr No. 400 : Urdu - اقاش, Translation - Aqash
+2024-08-07 18:29:10.364 +05:00 [INF] Sr No. 401 : Urdu - لیھکراج, Translation - Lehkraj
+2024-08-07 18:29:10.986 +05:00 [INF] Sr No. 402 : Urdu - بدالرالدين, Translation - Badr al Din
+2024-08-07 18:29:11.651 +05:00 [INF] Sr No. 403 : Urdu - اوصلی, Translation - Ausli
+2024-08-07 18:29:12.282 +05:00 [INF] Sr No. 404 : Urdu - ناگوڙو, Translation - Nagoro
+2024-08-07 18:29:13.002 +05:00 [INF] Sr No. 405 : Urdu - ڏوريو, Translation - Duryo
+2024-08-07 18:29:13.707 +05:00 [INF] Sr No. 406 : Urdu - ُامنتل, Translation - Amanat ul
+2024-08-07 18:29:14.464 +05:00 [INF] Sr No. 407 : Urdu - جیتونی, Translation - Jeetoni
+2024-08-07 18:29:15.451 +05:00 [INF] Sr No. 408 : Urdu - عبیذہ, Translation - Ubaidah
+2024-08-07 18:29:16.284 +05:00 [INF] Sr No. 409 : Urdu - نصراللھ, Translation - Nasrullah
+2024-08-07 18:29:17.028 +05:00 [INF] Sr No. 410 : Urdu - مشٹو, Translation - Mishtu
+2024-08-07 18:29:17.657 +05:00 [INF] Sr No. 411 : Urdu - رئيمل, Translation - Raemal
+2024-08-07 18:29:18.431 +05:00 [INF] Sr No. 412 : Urdu - بریاؤ, Translation - Baryao
+2024-08-07 18:29:19.005 +05:00 [INF] Sr No. 413 : Urdu - کونہارو, Translation - Kunharu
+2024-08-07 18:29:19.680 +05:00 [INF] Sr No. 414 : Urdu - میراجون, Translation - Mirajun
+2024-08-07 18:29:20.396 +05:00 [INF] Sr No. 415 : Urdu - حمیدالرحٰمن, Translation - Hameedur Rehman
+2024-08-07 18:29:21.087 +05:00 [INF] Sr No. 416 : Urdu - سقم, Translation - Saqam
+2024-08-07 18:29:21.768 +05:00 [INF] Sr No. 417 : Urdu - رمیزمنهاس, Translation - Rameez Minhas
+2024-08-07 18:29:24.094 +05:00 [INF] Sr No. 418 : Urdu - ھطام, Translation - Hutam
+2024-08-07 18:29:24.745 +05:00 [INF] Sr No. 419 : Urdu - رزن, Translation - Razaan
+2024-08-07 18:29:25.453 +05:00 [INF] Sr No. 420 : Urdu - یغشیٰ, Translation - Yaghsha
+2024-08-07 18:29:26.349 +05:00 [INF] Sr No. 421 : Urdu - عامرالرحمن, Translation - Aamir al Rahman
+2024-08-07 18:29:27.152 +05:00 [INF] Sr No. 422 : Urdu - حشناک, Translation - Hashnak
+2024-08-07 18:29:27.843 +05:00 [INF] Sr No. 423 : Urdu - عمارایوب, Translation - Ammar Ayub
+2024-08-07 18:29:28.641 +05:00 [INF] Sr No. 424 : Urdu - موادخان, Translation - Mawad Khan
+2024-08-07 18:29:29.308 +05:00 [INF] Sr No. 425 : Urdu - خجيت, Translation - Khajit
+2024-08-07 18:29:30.039 +05:00 [INF] Sr No. 426 : Urdu - شہیاز, Translation - Shahiyaz
+2024-08-07 18:29:30.901 +05:00 [INF] Sr No. 427 : Urdu - عبداالحسیب, Translation - Abdul Haseeb
+2024-08-07 18:29:31.530 +05:00 [INF] Sr No. 428 : Urdu - جلاّ, Translation - Jalla
+2024-08-07 18:29:32.356 +05:00 [INF] Sr No. 429 : Urdu - خارالدین, Translation - Khar al Din
+2024-08-07 18:29:32.930 +05:00 [INF] Sr No. 430 : Urdu - ھمتَ, Translation - Himmat
+2024-08-07 18:29:33.636 +05:00 [INF] Sr No. 431 : Urdu - زرغوزئی, Translation - Zarghozi
+2024-08-07 18:29:34.363 +05:00 [INF] Sr No. 432 : Urdu - مَگريو, Translation - Magryo
+2024-08-07 18:29:35.005 +05:00 [INF] Sr No. 433 : Urdu - بڻيا, Translation - Baniya
+2024-08-07 18:29:35.715 +05:00 [INF] Sr No. 434 : Urdu - ويرموں, Translation - Veermon
+2024-08-07 18:29:36.517 +05:00 [INF] Sr No. 435 : Urdu - رامبیله, Translation - Rambila
+2024-08-07 18:29:37.250 +05:00 [INF] Sr No. 436 : Urdu - بیاسن, Translation - Biason
+2024-08-07 18:29:38.005 +05:00 [INF] Sr No. 437 : Urdu - اکسادہ, Translation - Aksadah
+2024-08-07 18:29:38.663 +05:00 [INF] Sr No. 438 : Urdu - علنو, Translation - Alno
+2024-08-07 18:29:39.545 +05:00 [INF] Sr No. 439 : Urdu - نورسدےخان, Translation - Naurasde Khan
+2024-08-07 18:29:40.225 +05:00 [INF] Sr No. 440 : Urdu - امیرسادیمہ, Translation - Ameer Sadeema
+2024-08-07 18:29:40.913 +05:00 [INF] Sr No. 441 : Urdu - آنگیرشاہ, Translation - Angir Shah
+2024-08-07 18:29:41.624 +05:00 [INF] Sr No. 442 : Urdu - عبدالمجیر, Translation - Abdul Majeer
+2024-08-07 18:29:42.604 +05:00 [INF] Sr No. 443 : Urdu - آباوزبی, Translation - Abu Dhabi
+2024-08-07 18:29:43.325 +05:00 [INF] Sr No. 444 : Urdu - زولخان, Translation - Zulkhan
+2024-08-07 18:29:44.130 +05:00 [INF] Sr No. 445 : Urdu - تویذخان, Translation - Tawiz Khan
+2024-08-07 18:29:44.727 +05:00 [INF] Sr No. 446 : Urdu - سمسیالوی, Translation - Samsiyalvi
+2024-08-07 18:29:45.274 +05:00 [INF] Sr No. 447 : Urdu - حَسنہ, Translation - Hasna
+2024-08-07 18:29:45.809 +05:00 [INF] Sr No. 448 : Urdu - ازبل, Translation - Azbal
+2024-08-07 18:29:46.538 +05:00 [INF] Sr No. 449 : Urdu - اخلام, Translation - Akhlam
+2024-08-07 18:29:47.173 +05:00 [INF] Sr No. 450 : Urdu - ِشفاء, Translation - Shifa
+2024-08-07 18:29:47.941 +05:00 [INF] Sr No. 451 : Urdu - خارچ, Translation - Kharij
+2024-08-07 18:29:48.692 +05:00 [INF] Sr No. 452 : Urdu - رامسنگھہ, Translation - Ramsingha
+2024-08-07 18:29:49.551 +05:00 [INF] Sr No. 453 : Urdu - میاںزاھدامیر, Translation - Mian Zahid Amir
+2024-08-07 18:29:50.474 +05:00 [INF] Sr No. 454 : Urdu - اجمیرجان, Translation - Ajmeer Jan
+2024-08-07 18:29:51.101 +05:00 [INF] Sr No. 455 : Urdu - بوٽو, Translation - Buto
+2024-08-07 18:29:51.859 +05:00 [INF] Sr No. 456 : Urdu - مالولی, Translation - Malooli
+2024-08-07 18:29:52.967 +05:00 [INF] Sr No. 457 : Urdu - سیدرضاالحسن, Translation - Syed Raza Al Hassan
+2024-08-07 18:29:53.650 +05:00 [INF] Sr No. 458 : Urdu - نرگسه, Translation - Nargis
+2024-08-07 18:29:54.298 +05:00 [INF] Sr No. 459 : Urdu - ڏوڙيو, Translation - Dorrio
+2024-08-07 18:29:55.028 +05:00 [INF] Sr No. 460 : Urdu - پيرين, Translation - Perin
+2024-08-07 18:29:56.110 +05:00 [INF] Sr No. 461 : Urdu - نڪي, Translation - Naki
+2024-08-07 18:29:56.945 +05:00 [INF] Sr No. 462 : Urdu - بڪل, Translation - Bakl
+2024-08-07 18:29:57.605 +05:00 [INF] Sr No. 463 : Urdu - زرگوڑی, Translation - Zargori
+2024-08-07 18:29:58.378 +05:00 [INF] Sr No. 464 : Urdu - گورکی, Translation - Gorki
+2024-08-07 18:29:59.053 +05:00 [INF] Sr No. 465 : Urdu - زرشاتہ, Translation - Zarshata
+2024-08-07 18:30:00.021 +05:00 [INF] Sr No. 466 : Urdu - مطائرہ, Translation - Matairah
+2024-08-07 18:30:00.817 +05:00 [INF] Sr No. 467 : Urdu - تواناکوثر, Translation - Tawana Kosar
+2024-08-07 18:30:01.694 +05:00 [INF] Sr No. 468 : Urdu - صادرجانہ, Translation - Sadarjana
+2024-08-07 18:30:02.449 +05:00 [INF] Sr No. 469 : Urdu - حاڪينہ, Translation - Hakeena
+2024-08-07 18:30:03.143 +05:00 [INF] Sr No. 470 : Urdu - پائیزہ, Translation - Paiza
+2024-08-07 18:30:03.912 +05:00 [INF] Sr No. 471 : Urdu - توصیئت, Translation - Tausiyat
+2024-08-07 18:30:04.703 +05:00 [INF] Sr No. 472 : Urdu - زلیحا, Translation - Zulaikha
+2024-08-07 18:30:05.461 +05:00 [INF] Sr No. 473 : Urdu - محمدیارکمبوہ, Translation - Muhammad Yar Kamboh
+2024-08-07 18:30:06.107 +05:00 [INF] Sr No. 474 : Urdu - المجتبٰے, Translation - Al Mujtaba
+2024-08-07 18:30:06.854 +05:00 [INF] Sr No. 475 : Urdu - ناصرالرحمٰن, Translation - Nasir al Rahman
+2024-08-07 18:30:07.645 +05:00 [INF] Sr No. 476 : Urdu - ساجرسولنگي, Translation - Sajid Solangi
+2024-08-07 18:30:08.359 +05:00 [INF] Sr No. 477 : Urdu - سڌورو, Translation - Sudhooro
+2024-08-07 18:30:09.052 +05:00 [INF] Sr No. 478 : Urdu - خاناؤزادہ, Translation - Khanaozada
+2024-08-07 18:30:09.815 +05:00 [INF] Sr No. 479 : Urdu - مگنتی, Translation - Magnati
+2024-08-07 18:30:10.522 +05:00 [INF] Sr No. 480 : Urdu - مهرینه, Translation - Mehrina
+2024-08-07 18:30:11.752 +05:00 [INF] Sr No. 481 : Urdu - سیفاالحق, Translation - Sifaalhaq
+2024-08-07 18:30:12.320 +05:00 [INF] Sr No. 482 : Urdu - سُملا, Translation - Sumla
+2024-08-07 18:30:12.997 +05:00 [INF] Sr No. 483 : Urdu - مستعدی, Translation - Mustadi
+2024-08-07 18:30:13.682 +05:00 [INF] Sr No. 484 : Urdu - تهزیب, Translation - Tehzeeb
+2024-08-07 18:30:14.436 +05:00 [INF] Sr No. 485 : Urdu - دلسی, Translation - Dulsi
+2024-08-07 18:30:15.260 +05:00 [INF] Sr No. 486 : Urdu - نسیریں, Translation - Nasireen
+2024-08-07 18:30:16.035 +05:00 [INF] Sr No. 487 : Urdu - مناظرلاحسن, Translation - Manazir Lahasan
+2024-08-07 18:30:16.741 +05:00 [INF] Sr No. 488 : Urdu - غلاںبی, Translation - Ghulambi
+2024-08-07 18:30:17.663 +05:00 [INF] Sr No. 489 : Urdu - نبیو, Translation - Nabiyo
+2024-08-07 18:30:18.324 +05:00 [INF] Sr No. 490 : Urdu - ظہراء, Translation - Zahra
+2024-08-07 18:30:19.064 +05:00 [INF] Sr No. 491 : Urdu - عبدالمیراں, Translation - Abdulmiran
+2024-08-07 18:30:20.003 +05:00 [INF] Sr No. 492 : Urdu - لامکہ, Translation - Laamkah
+2024-08-07 18:30:20.711 +05:00 [INF] Sr No. 493 : Urdu - متروکہ, Translation - Matroka
+2024-08-07 18:30:21.543 +05:00 [INF] Sr No. 494 : Urdu - ذیگر, Translation - Zigar
+2024-08-07 18:30:22.265 +05:00 [INF] Sr No. 495 : Urdu - وریامی, Translation - Waryami
+2024-08-07 18:30:22.901 +05:00 [INF] Sr No. 496 : Urdu - سئيداں, Translation - Sayyidan
+2024-08-07 18:30:23.529 +05:00 [INF] Sr No. 497 : Urdu - کٽوريو, Translation - Katoriyo
+2024-08-07 18:30:24.178 +05:00 [INF] Sr No. 498 : Urdu - قوانین, Translation - Qawaneen
+2024-08-07 18:30:24.836 +05:00 [INF] Sr No. 499 : Urdu - ھَنجھي, Translation - Hanjhi

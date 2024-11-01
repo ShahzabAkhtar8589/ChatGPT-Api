@@ -1,0 +1,26 @@
+2024-08-19 12:56:21.734 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-19 12:56:21.781 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-19 12:56:21.843 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-19 12:56:21.848 +05:00 [INF] Hosting environment: Development
+2024-08-19 12:56:21.849 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api
+2024-08-19 12:56:23.052 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-19 12:56:23.327 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 281.6851ms
+2024-08-19 12:56:23.366 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-19 12:56:23.366 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-19 12:56:23.461 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.1624ms
+2024-08-19 12:56:24.554 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 1188.2116ms
+2024-08-19 12:56:24.607 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-19 12:56:24.650 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 43.9065ms
+2024-08-19 12:57:43.682 +05:00 [INF] Now listening on: https://localhost:7205
+2024-08-19 12:57:43.757 +05:00 [INF] Now listening on: http://localhost:5064
+2024-08-19 12:57:43.780 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-19 12:57:43.781 +05:00 [INF] Hosting environment: Development
+2024-08-19 12:57:43.783 +05:00 [INF] Content root path: C:\Users\shahzab.akhtar\Desktop\ChatGPT-Api\ChatGPT_Consumer_Api
+2024-08-19 12:57:44.224 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/index.html - null null
+2024-08-19 12:57:44.376 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/index.html - 200 null text/html;charset=utf-8 154.8856ms
+2024-08-19 12:57:44.408 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_vs/browserLink - null null
+2024-08-19 12:57:44.408 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-19 12:57:44.421 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 14.1939ms
+2024-08-19 12:57:44.441 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.2349ms
+2024-08-19 12:57:44.476 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - null null
+2024-08-19 12:57:44.508 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7205/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.4273ms

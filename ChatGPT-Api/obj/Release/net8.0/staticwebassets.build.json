@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zbMlXXkWQTko8G//OddOuiS5lj6a+51SgxTFAFNcALg=",
+  "Source": "ChatGPT-Api",
+  "BasePath": "_content/ChatGPT-Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

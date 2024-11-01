@@ -1,0 +1,6 @@
+projectKey=ChatGPT
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=ChatGPT
+ceTaskId=19f98582-11b1-4f4c-b0e1-4591b463b872
+ceTaskUrl=http://localhost:9000/api/ce/task?id=19f98582-11b1-4f4c-b0e1-4591b463b872
