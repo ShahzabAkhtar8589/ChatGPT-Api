@@ -2,13 +2,9 @@ pipeline {
     agent any
 
     environment {
-        DOTNET_VERSION = '8.0'   // Specify .NET version
-        IIS_SITE_NAME = 'AksaStaging'  // The name of the IIS site
+        DOTNET_VERSION = '8.0'               // Specify .NET version (not directly used here)
+        IIS_SITE_NAME = 'AksaStaging'        // The name of the IIS site
         PUBLISH_DIR = 'C:\\inetpub\\wwwroot\\JazzStaging'  // Local IIS publish directory
-    }
-
-    tools {
-        dotnet "${DOTNET_VERSION}"  // Use .NET 8.0
     }
 
     stages {
