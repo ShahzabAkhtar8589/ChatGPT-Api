@@ -62,10 +62,9 @@ pipeline {
                 withSonarQubeEnv('SonarQubeServer') {  // Use your SonarQube server name configured in Jenkins
                     script {
                         // Begin SonarQube analysis
-                        bat "dotnet ${tool(name: 'SonarQubeScannerMSBuild', type: 'hudson.plugins.sonar.MsBuildSQRunnerInstallation')}\\SonarScanner.MSBuild.dll begin /k:\"TestProjectJenkin\""
-                        bat 'dotnet build ChatGPT-Api.sln --configuration Release'  // Build project for analysis
-                        // End SonarQube analysis
-                        bat "dotnet ${tool(name: 'SonarQubeScannerMSBuild', type: 'hudson.plugins.sonar.MsBuildSQRunnerInstallation')}\\SonarScanner.MSBuild.dll end"
+                        bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:\"TestProjectJenkin\""
+                        bat "dotnet build"
+                        bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
                     }
                 }
             }
