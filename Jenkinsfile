@@ -7,11 +7,6 @@ pipeline {
         PUBLISH_DIR = 'C:\\inetpub\\wwwroot\\JazzStaging'  // Local IIS publish directory
     }
 
-    tools {
-        dotnet "${DOTNET_VERSION}"              // Ensures .NET SDK version is available
-        sonarScanner 'SonarScanner for MSBuild' // SonarScanner tool name configured in Jenkins
-    }
-
     stages {
         stage('Checkout') {
             steps {
@@ -64,13 +59,13 @@ pipeline {
 
         stage('SonarQube Analysis') {
             steps {
-                withSonarQubeEnv('SonarQubeServer') {  // Specify your SonarQube server name configured in Jenkins
+                withSonarQubeEnv('SonarQubeServer') {  // Use your SonarQube server name configured in Jenkins
                     script {
                         // Begin SonarQube analysis
-                        bat "dotnet ${tool('SonarScanner for MSBuild')}\\SonarScanner.MSBuild.dll begin /k:\"TestProjectJenkin\""
+                        bat "dotnet ${tool(name: 'SonarQubeScannerMSBuild', type: 'hudson.plugins.sonar.MsBuildSQRunnerInstallation')}\\SonarScanner.MSBuild.dll begin /k:\"TestProjectJenkin\""
                         bat 'dotnet build ChatGPT-Api.sln --configuration Release'  // Build project for analysis
                         // End SonarQube analysis
-                        bat "dotnet ${tool('SonarScanner for MSBuild')}\\SonarScanner.MSBuild.dll end"
+                        bat "dotnet ${tool(name: 'SonarQubeScannerMSBuild', type: 'hudson.plugins.sonar.MsBuildSQRunnerInstallation')}\\SonarScanner.MSBuild.dll end"
                     }
                 }
             }
